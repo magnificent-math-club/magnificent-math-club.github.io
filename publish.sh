@@ -2,7 +2,19 @@
 
 which git 
 if [[ $? -ne 0 ]]; then
-  echo -e '\nERROR: git not found.  Please install git first\n'
+  echo
+  echo -e 'ERROR: git not found.  Please install git first.'
+  echo
+  exit 1
+fi
+
+which hugo 
+if [[ $? -ne 0 ]]; then
+  echo
+  echo -e 'ERROR: hugo not found.  Please install git first.'
+  echo -e 'If using homebrew on mac, you can install it with:'
+  echo -e '  brew install hugo'
+  echo
   exit 1
 fi
 
