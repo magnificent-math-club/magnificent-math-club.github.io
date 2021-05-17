@@ -6,8 +6,14 @@ if [[ $? -ne 0 ]]; then
   exit 1
 fi
 
+echo -e 'Please briefly describe the changes you made (text must be on one line):\n'
+
+read COMMIT_MSG
+
+[[ .$COMMIT_MSG == . ]] && COMMIT_MSG="updated posts"
+
 STEP='git add .'  && $STEP && \
-  STEP='git commit' && git commit -m 'updated posts' && \
+  STEP='git commit' && git commit -m "$COMMIT_MSG" && \
   STEP='_scripts/publish_toghpages.sh' && $STEP && \
   STEP='git push origin gh-pages' && $STEP && \
   STEP='git push origin master' && $STEP && \
