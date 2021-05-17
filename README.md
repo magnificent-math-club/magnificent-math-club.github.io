@@ -37,4 +37,4 @@ The script will do the following:
     3. run a script to generate the website,
     4. push changes to github.
 
-After publishing, wait for one minute and refresh the [website](https://magnificent-math-club.github.io/).
+* After publishing, wait for one minute and refresh the [website](https://magnificent-math-club.github.io/).
