@@ -25,16 +25,18 @@ git clone https://github.com/magnificent-math-club/magnificent-math-club.github.
 You all do all future updates using the same folder.
 
 ### Workflow to update and publish contents
-* Edit or add files in the contents folder.
-* Publish contents by running the following command:
+1 Edit or add files in the contents folder.
+2 Publish contents by running the following command [see note 1]:
 ```
  bash publish.sh
 ```
-The script will do the following:
+3 After publishing, wait for one minute and refresh the [website](https://magnificent-math-club.github.io/) to see the updated contents.
+
+## Notes
+[1] The publish script does the following:
 
     1. ask for a brief description of the changes (to be used as git commit comment),
     2. add all changes in the folder and commit,
     3. run a script to generate the website,
     4. push changes to github.
 
-* After publishing, wait for one minute and refresh the [website](https://magnificent-math-club.github.io/).
