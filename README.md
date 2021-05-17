@@ -12,8 +12,8 @@ Instructions can be found on (https://bwaycer.github.io/hugo_tutorial.hugo/tutor
 ### Prerequisite
 * Supported OS: Linux or Mac OS. The following instructions have been tested on Mac OS with homebrew package manager.
 * Software required:
-** git
-** hugo
+    - git
+    - hugo
 
 ## Workflow
 First, check out the repository to your local folder:
