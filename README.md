@@ -6,7 +6,7 @@ Sources for the website https://magnificent-math-club.github.io/
 
 This is a one-time only, for setting up github page to publish the website.
 
-Instructions can be found on (https://bwaycer.github.io/hugo_tutorial.hugo/tutorials/github-pages-blog/).
+Instructions can be found [here](https://bwaycer.github.io/hugo_tutorial.hugo/tutorials/github-pages-blog/).
 
 ## How to publish updates
 ### Prerequisite
@@ -30,8 +30,10 @@ You all do all future updates using the same folder.
 ```
  bash publish.sh
 ```
-The script will do the following:
-1. ask for a brief description of the changes (to be used as git commit comment),
-2. add all changes in the folder and commit
-3. run a script to generate the website
-4. push changes to github
+    The script will do the following:
+    1. ask for a brief description of the changes (to be used as git commit comment),
+    2. add all changes in the folder and commit,
+    3. run a script to generate the website,
+    4. push changes to github.
+
+After publishing, wait for one minute and refresh the [website](https://magnificent-math-club.github.io/).
