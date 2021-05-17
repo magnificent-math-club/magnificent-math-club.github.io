@@ -24,7 +24,8 @@ read COMMIT_MSG
 
 [[ .$COMMIT_MSG == . ]] && COMMIT_MSG="updated posts"
 
-STEP='git add .'  && $STEP && \
+STEP='git pull' && $STEP && \
+  STEP='git add .'  && $STEP && \
   STEP='git commit' && git commit -m "$COMMIT_MSG" && \
   STEP='_scripts/publish_toghpages.sh' && $STEP && \
   STEP='git push origin gh-pages' && $STEP && \
