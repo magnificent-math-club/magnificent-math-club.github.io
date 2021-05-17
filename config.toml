@@ -1,9 +1,4 @@
 baseURL = "http://magnificent-math-club.github.io/"
 languageCode = "en-us"
 title = "Magnificent Math Club"
-theme = "zzo"
-
-[[params]]
-logoText = "Magnificent Math Club"
-description = "Magnificent Math Club"
-themeOptions = ["light", "solarized"]
+theme = "ananke"
