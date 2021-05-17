@@ -1,6 +1,6 @@
 ---
-title: "Ananke: a Hugo Theme"
+title: "Magnificent Math Club"
 featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "The last theme you'll ever need. Maybe."
+description: "where curious young minds meet grow together."
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Welcome to the Magnificent Math Club!
