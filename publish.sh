@@ -18,7 +18,7 @@ if [[ $? -ne 0 ]]; then
   exit 1
 fi
 
-echo -e 'Please briefly describe the changes you made (text must be on one line):\n'
+echo -e 'IN ONE LINE, please briefly describe the changes you made:\n'
 
 read COMMIT_MSG
 
