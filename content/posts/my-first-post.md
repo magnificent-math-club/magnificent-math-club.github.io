@@ -5,6 +5,6 @@ draft: false
 ---
 
 We will offer several middle school level math classes this summer.  More
-information will be posted on the website soon. 
+information will be posted here.
 
 Please stay tuned!
