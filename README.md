@@ -17,14 +17,14 @@ Instructions can be found on (https://bwaycer.github.io/hugo_tutorial.hugo/tutor
     - homebrew (recommended if using Mac OS)
     - vim (recommended)
 
-## Clone respository
+### Clone respository
 Check out the repository to your local folder:
 ```
 git clone https://github.com/magnificent-math-club/magnificent-math-club.github.io
 ```
 You all do all future updates using the same folder.
 
-## Workflow to update and publish contents
+### Workflow to update and publish contents
 * Edit or add files in the contents folder.
 * Publish contents by running the following command:
 ```
