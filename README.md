@@ -30,7 +30,7 @@ You all do all future updates using the same folder.
 ```
  bash publish.sh
 ```
-    The script will do the following:
+The script will do the following:
     1. ask for a brief description of the changes (to be used as git commit comment),
     2. add all changes in the folder and commit,
     3. run a script to generate the website,
