@@ -1,5 +1,4 @@
 baseURL = "http://magnificent-math-club.github.io/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "parsa-hugo"
-
+theme = "bigspring-hugo-startup-theme"
