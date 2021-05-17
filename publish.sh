@@ -1,6 +1,6 @@
 #!/bin/bash
 
-which git >/dev/null || (echo 'git is required for this script. Please install it first.' && exit 1)
+which asd >/dev/null || (echo 'git is required for this script. Please install it first.' && exit 1)
 
 STEP='git add .'  && $STEP && \
   STEP='git commit' && git commit -m 'updated posts' && \
