@@ -34,4 +34,4 @@ STEP='git pull' && $STEP && \
 
 export STEP
 
-[ $STEP != Done ] && echo "Failed step is $STEP"
+[ "$STEP" != Done ] && echo "Failed step is $STEP"
