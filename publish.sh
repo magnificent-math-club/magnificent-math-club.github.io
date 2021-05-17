@@ -1,6 +1,10 @@
 #!/bin/bash
 
-which asd >/dev/null || (echo 'git is required for this script. Please install it first.' && exit 1)
+which git 
+if [[ $? -ne 0 ]]; then
+  echo -e '\nERROR: git not found.  Please install git first\n'
+  exit 1
+fi
 
 STEP='git add .'  && $STEP && \
   STEP='git commit' && git commit -m 'updated posts' && \
