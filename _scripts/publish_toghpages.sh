@@ -27,3 +27,7 @@ hugo
 
 echo "Updating gh-pages branch"
 cd public && git add --all && git commit -m "Publishing to gh-pages (publish.sh)"
+
+echo "Next steps:"
+echo "1. Make sure the generated site looks good."
+echo "2. git push origin gh-pages"
