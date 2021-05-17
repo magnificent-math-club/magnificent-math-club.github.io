@@ -1,4 +1,4 @@
 baseURL = "http://magnificent-math-club.github.io/"
 languageCode = "en-us"
 title = "Magnificent Math Club"
-theme = "kross-hugo"
+theme = "ananke"
