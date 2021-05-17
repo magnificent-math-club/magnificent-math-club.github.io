@@ -1,7 +1,8 @@
 ---
-title: "My First Post"
+title: "2021 Summer Geometry Class"
 date: 2021-05-16T19:33:53-04:00
 draft: false
 ---
 
-Hello world!
+We will offer several middle school level math classes this summer.  More
+information will be posted on the website soon. Please stay tuned!
