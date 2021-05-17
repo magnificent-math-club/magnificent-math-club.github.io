@@ -8,21 +8,23 @@ This is a one-time only, for setting up github page to publish the website.
 
 Instructions can be found on (https://bwaycer.github.io/hugo_tutorial.hugo/tutorials/github-pages-blog/).
 
-## Update website contents
+## How to publish updates
 ### Prerequisite
-* Supported OS: Linux or Mac OS. The following instructions have been tested on Mac OS with homebrew package manager.
-* Software required:
+* Supported OS: Linux or Mac OS. 
+* Software used:
     - git
     - hugo
+    - homebrew (recommended if using Mac OS)
+    - vim (recommended)
 
-## Workflow
-First, check out the repository to your local folder:
+## Clone respository
+Check out the repository to your local folder:
 ```
 git clone https://github.com/magnificent-math-club/magnificent-math-club.github.io
 ```
 You all do all future updates using the same folder.
 
-After updating some contents, run the following to publish:
+## Workflow to update and publish contents
 * Edit or add files in the contents folder.
 * Publish contents by running the following command:
 ```
