@@ -2,16 +2,34 @@
 
 Sources for the website https://magnificent-math-club.github.io/
 
-## Instructions
+## Initial Setup
 
-* For initial setup, follow the deployment instructions on (https://bwaycer.github.io/hugo_tutorial.hugo/tutorials/github-pages-blog/).
+This is a one-time only, for setting up github page to publish the website.
 
-* To update the webiste after updating posts, run the following command in the working directory:
+Instructions can be found on (https://bwaycer.github.io/hugo_tutorial.hugo/tutorials/github-pages-blog/).
+
+## Update website contents
+### Prerequisite
+* Supported OS: Linux or Mac OS. The following instructions have been tested on Mac OS with homebrew package manager.
+* Software required:
+** git
+** hugo
+
+## Workflow
+First, check out the repository to your local folder:
+```
+git clone https://github.com/magnificent-math-club/magnificent-math-club.github.io
+```
+You all do all future updates using the same folder.
+
+After updating some contents, run the following to publish:
+* Edit or add files in the contents folder.
+* Publish contents by running the following command:
 ```
  bash publish.sh
 ```
 The script will do the following:
-* ask for a brief description of the changes (to be used as git commit comment),
-* add all changes in the folder and commit
-* run a script to generate the website
-* push changes to github
+1 ask for a brief description of the changes (to be used as git commit comment),
+2 add all changes in the folder and commit
+3 run a script to generate the website
+4 push changes to github
