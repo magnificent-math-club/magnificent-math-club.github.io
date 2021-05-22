@@ -51,7 +51,7 @@ Sunday 2:30 PM to 3:30 PM (EST) for 8 weeks (No class on July 4)
 |7    | 8/8    |  Stephen   |  Right Triangles: Heron’s formula
 |8    | 8/15   |  Stephen   |  Special Centers of a triangle
 
-### Requirements
+### Prerequisites
 
 * Algebra (can solve linear equations)
 
@@ -59,6 +59,6 @@ Sunday 2:30 PM to 3:30 PM (EST) for 8 weeks (No class on July 4)
 
 [Register Here](https://docs.google.com/forms/d/e/1FAIpQLScvfTa-zJZ6IsrHaBjKnhP7-5VrYFs5FpRO3-FhqDc3-Si3sw/viewform).
 
-### Fees and Funding
+### Fees
 
 Free.

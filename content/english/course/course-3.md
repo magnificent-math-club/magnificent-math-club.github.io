@@ -53,16 +53,14 @@ Week|   Date|  Teacher |  Topics
 
 ### Prerequisites
 
-* Algebra 1
-    - Write and solve linear and quadratic equations
-* Basic Geometry
-    - Angles, lines, triangle similarity and congruency
+* Algebra 1 (write and solve linear and quadratic equations)
+* Basic Geometry (angles, lines, triangle similarity and congruency)
 
 ### How to Apply
 
 [Register here](https://docs.google.com/forms/d/e/1FAIpQLScvfTa-zJZ6IsrHaBjKnhP7-5VrYFs5FpRO3-FhqDc3-Si3sw/viewform).
 
-### Fees and Funding
+### Fees
 
 Free.
 
