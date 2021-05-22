@@ -43,7 +43,7 @@ link = "plugins/google-map/gmap.js"
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+#logo = "images/logo.png"
 # Meta data
 # description = "This is meta description"
 # author = "Themefisher"
