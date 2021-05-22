@@ -60,8 +60,8 @@ top_header = true
 
 # Preloader
 [params.preloader]
-enable = true
-preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
+#enable = true
+#preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 
 # Subscription
 [params.subscription]
@@ -135,35 +135,35 @@ name = "course"
 url = "course"
 weight = 2
 
-[[Languages.en.menu.main]]
-weight = 3
-name = "Pages"
-hasChildren = true
-
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "teacher"
-  url = "teacher"
-
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "notice"
-  url = "notice"
-
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "event"
-  url = "event"
-
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "scholarship"
-  url = "scholarship"
-
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "research"
-  url = "research"
+#[[Languages.en.menu.main]]
+#weight = 3
+#name = "Pages"
+#hasChildren = true
+#
+#  [[Languages.en.menu.main]]
+#  parent = "Pages"
+#  name = "teacher"
+#  url = "teacher"
+#
+#  [[Languages.en.menu.main]]
+#  parent = "Pages"
+#  name = "notice"
+#  url = "notice"
+#
+#  [[Languages.en.menu.main]]
+#  parent = "Pages"
+#  name = "event"
+#  url = "event"
+#
+#  [[Languages.en.menu.main]]
+#  parent = "Pages"
+#  name = "scholarship"
+#  url = "scholarship"
+#
+#  [[Languages.en.menu.main]]
+#  parent = "Pages"
+#  name = "research"
+#  url = "research"
   
 [[Languages.en.menu.main]]
 name = "blog"
