@@ -170,10 +170,10 @@ name = "blog"
 url = "blog"
 weight = 4
   
-[[Languages.en.menu.main]]
-name = "Contact"
-url = "contact"
-weight = 5
+#[[Languages.en.menu.main]]
+#name = "Contact"
+#url = "contact"
+#weight = 5
 
 
 # footer menu
