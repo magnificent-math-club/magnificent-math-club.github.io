@@ -46,7 +46,7 @@ link = "plugins/google-map/gmap.js"
 logo = "images/logo.png"
 # Meta data
 # description = "This is meta description"
-# author = "Themefisher"
+  author = "Magnificent Math Club"
 # # contact info
 # address = "9567 Turner Trace Apt. BC C3G8A4"
 # mobile = "+211234565523"
