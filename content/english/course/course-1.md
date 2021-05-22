@@ -26,6 +26,10 @@ type: "course"
 
 Students will learn about linear equations, quadratic equations, and factoring simple quadratics.
 
+### Teachers
+
+Ivy Guo (AIME qualifier) and Olivia Guo (AIME qualifier)
+
 ### Textbook 
 [Introduction to Algebra by Art of Problem Solving](https://artofproblemsolving.com/store/item/intro-algebra).
 
@@ -46,12 +50,11 @@ Saturday 1:00 PM to 2:00 PM (EST) for 8 weeks (No class on July 3)
 |7   |8/7   | Ivy    |Distributions and factoring linear expressions
 |8   |8/14  | Ivy    |Factoring simple quadratics, FOIL
 
-### Requirements
+### Prerequisites
 
 * Prealgebra
-
-
 
 ### Fees
 
 Free.
+

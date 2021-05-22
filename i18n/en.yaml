@@ -59,7 +59,7 @@
   translation: fee
 
 - id: teacher
-  translation: teacher
+  translation: 
 
 - id: location
   translation: location
@@ -80,7 +80,7 @@
   translation: Enter your email…
 
 - id: company
-  translation: company
+  translation: our club
 
 - id: links
   translation: links
