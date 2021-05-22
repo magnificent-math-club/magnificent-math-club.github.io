@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Students will learn about linear equations, quadratic equations, and factoring simple quadratics."
 # course thumbnail
-image: "images/courses/course-1.jpg"
+image: "images/courses/course-1.png"
 # taxonomy
 category: "Math"
 # teacher

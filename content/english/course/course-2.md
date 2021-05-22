@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Students will learn about congruency, similarity, special points of triangle, and Heron’s formula."
 # course thumbnail
-image: "images/courses/course-2.jpg"
+image: "images/courses/course-2.png"
 # taxonomy
 category: "Math"
 # teacher
