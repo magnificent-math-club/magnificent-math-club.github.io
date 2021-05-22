@@ -26,6 +26,10 @@ type: "course"
 
 Students will continue exploration of geometric concepts, such as circles, polygons, and polyhedra.
 
+### Teachers
+
+Albert Lu (USAJMO qualifer) and Eric Shen (AIME qualifier)
+
 ### Textbook
 
 [Introduction to Geometry by Art of Problem Solving](https://artofproblemsolving.com/store/item/intro-geometry)

@@ -26,6 +26,10 @@ type: "course"
 
 Students will learn about congruency, similarity, special points of triangle, and Heron’s formula.
 
+### Teachers
+
+Stephen Zhang (AIME qualifier) and Skyler Xue (AIME qualifier)
+
 ### Textbook
 
 [Introduction to Geometry by Art of Problem Solving](https://artofproblemsolving.com/store/item/intro-geometry).
