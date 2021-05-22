@@ -125,10 +125,10 @@ copyright = "Magnificient Math Club, 2021"
 ################### English navigation ####################
 
 # main menu
-[[Languages.en.menu.main]]
-name = "About"
-url = "about"
-weight = 1
+#[[Languages.en.menu.main]]
+#name = "About"
+#url = "about"
+#weight = 1
 
 [[Languages.en.menu.main]]
 name = "course"
@@ -165,10 +165,10 @@ weight = 2
 #  name = "research"
 #  url = "research"
   
-[[Languages.en.menu.main]]
-name = "blog"
-url = "blog"
-weight = 4
+#[[Languages.en.menu.main]]
+#name = "blog"
+#url = "blog"
+#weight = 4
   
 #[[Languages.en.menu.main]]
 #name = "Contact"
@@ -178,9 +178,9 @@ weight = 4
 
 # footer menu
 
-[[Languages.en.menu.footer]]
-name = "teacher"
-url = "teacher"
+#[[Languages.en.menu.footer]]
+#name = "teacher"
+#url = "teacher"
 
 #[[Languages.en.menu.footer]]
 #name = "notice"
