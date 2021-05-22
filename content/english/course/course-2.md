@@ -36,7 +36,7 @@ Stephen Zhang (AIME qualifier) and Skyler Xue (AIME qualifier)
 
 ### Weekly Schedule
 
-June 20 - August 15. 
+June 20 - August 15, 2021
 
 Sunday 2:30 PM to 3:30 PM (EST) for 8 weeks (No class on July 4)
 

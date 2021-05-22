@@ -35,7 +35,7 @@ Ivy Guo (AIME qualifier) and Olivia Guo (AIME qualifier)
 
 ### Weekly Schedule
 
-June 19 - Auguest 14
+June 19 - Auguest 14, 2021
 
 Saturday 1:00 PM to 2:00 PM (EST) for 8 weeks (No class on July 3)
 
