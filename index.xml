@@ -18,57 +18,30 @@
     </item>
     
     <item>
-      <title>Algorithm</title>
-      <link>https://magnificent-math-club.github.io/course/course-5/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://magnificent-math-club.github.io/course/course-5/</guid>
-      <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Artificial Intelligence</title>
-      <link>https://magnificent-math-club.github.io/course/course-3/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://magnificent-math-club.github.io/course/course-3/</guid>
-      <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>JavaScript</title>
-      <link>https://magnificent-math-club.github.io/course/course-4/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://magnificent-math-club.github.io/course/course-4/</guid>
-      <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Mathematics</title>
-      <link>https://magnificent-math-club.github.io/course/course-2/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://magnificent-math-club.github.io/course/course-2/</guid>
-      <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Photography</title>
+      <title>Algebra</title>
       <link>https://magnificent-math-club.github.io/course/course-1/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
       <guid>https://magnificent-math-club.github.io/course/course-1/</guid>
-      <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <description>Students will learn about linear equations, quadratic equations, and factoring simple quadratics.</description>
     </item>
     
     <item>
-      <title>Vlogging</title>
-      <link>https://magnificent-math-club.github.io/course/course-6/</link>
+      <title>Geometry I (Triangles)</title>
+      <link>https://magnificent-math-club.github.io/course/course-2/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>https://magnificent-math-club.github.io/course/course-6/</guid>
-      <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://magnificent-math-club.github.io/course/course-2/</guid>
+      <description>Students will learn about congruency, similarity, special points of triangle, and Heron’s formula.</description>
+    </item>
+    
+    <item>
+      <title>Geometry II</title>
+      <link>https://magnificent-math-club.github.io/course/course-3/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://magnificent-math-club.github.io/course/course-3/</guid>
+      <description>Students will continue exploration of geometric concepts, such as circles, polygons, and polyhedra.</description>
     </item>
     
     <item>
