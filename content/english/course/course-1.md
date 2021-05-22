@@ -1,71 +1,57 @@
 ---
-title: "Photography"
+title: "Algebra"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "Students will learn about linear equations, quadratic equations, and factoring simple quadratics."
 # course thumbnail
 image: "images/courses/course-1.jpg"
 # taxonomy
-category: "Photography"
+category: "Math"
 # teacher
-teacher: "Clark Malik"
+teacher: "Ivy Guo (AIME qualifier) and Olivia Guo (AIME qualifier)"
 # duration
-duration : "06 Month"
+duration : "8 Weeks"
 # weekly
-weekly : "03 hours"
+weekly : "1 hour"
 # course fee
-fee : "From: $699"
+fee : "$0"
 # apply url
-apply_url : "#"
+apply_url : "https://docs.google.com/forms/d/e/1FAIpQLScvfTa-zJZ6IsrHaBjKnhP7-5VrYFs5FpRO3-FhqDc3-Si3sw/viewform"
 # type
 type: "course"
 ---
 
+Students will learn about linear equations, quadratic equations, and factoring simple quadratics.
 
-### About Course
+### Textbook 
+[Introduction to Algebra by Art of Problem Solving](https://artofproblemsolving.com/store/item/intro-algebra).
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.</p>
+### Weekly Schedule
+
+June 19 - Auguest 14
+
+Saturday 1:00 PM to 2:00 PM (EST) for 8 weeks (No class on July 3)
+
+|Week|Date  | Teacher|Topics
+|----|------|--------|------------------------------------------------------
+|1   |6/19  | Ivy    |Introduction to variables, simplifying one-variable expressions, introduction to one variable linear equations
+|2   |6/26  | Ivy    |More linear equations and linear inequalities
+|3   |7/10  | Olivia |System of linear equations, symmetry if time
+|4   |7/17  | Olivia |Graphing linear equations and inequalities
+|5   |7/24  | Olivia |Find equation of a line from graph
+|6   |7/31  | Olivia |Radicals and exponents, previous material with radicals and exponents
+|7   |8/7   | Ivy    |Distributions and factoring linear expressions
+|8   |8/14  | Ivy    |Factoring simple quadratics, FOIL
 
 ### Requirements
 
+* Prealgebra
 
 
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
+### Fees
 
-### How to Apply
-
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-
-
-### Fees and Funding
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Free.
