@@ -1,6 +1,6 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
-[submodule "themes/educenter"]
-	path = themes/educenter
+[submodule "themes/educenter-hugo"]
+	path = themes/educenter-hugo
 	url = https://github.com/themefisher/educenter-hugo.git
