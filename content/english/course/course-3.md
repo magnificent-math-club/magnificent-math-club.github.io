@@ -11,7 +11,7 @@ image: "images/courses/course-3.png"
 # taxonomy
 category: "Math"
 # teacher
-teacher: "Albert Lu (USAJMO qualifer), Eric Shen (AIME qualifier)"
+teacher: "Albert Lu (USAJMO qualifier), Eric Shen (AIME qualifier)"
 # duration
 duration : "8 Weeks"
 # weekly
