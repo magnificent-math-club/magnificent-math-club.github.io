@@ -1,4 +1,13 @@
-public
 *.swp
 .DS_Store
+.dist
+.sass-cache
+.tmp
+DS_Store
+Thumbs.db
+builds
+node_modules
+npm-debug.log
+package-lock.json
+public
 resources
