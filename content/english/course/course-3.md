@@ -38,7 +38,7 @@ Albert Lu (USAJMO qualifer) and Eric Shen (AIME qualifier)
 
 June 19 - August 14, 2021
 
-Saturday 4:30 PM to 5:30 PM (EST) for 8 weeks (No class on July 3)
+Saturday 4:30 PM to 5:30 PM (ET) for 8 weeks (No class on July 3)
 
 Week|   Date|  Teacher |  Topics
 ----|-------|----------|------------
