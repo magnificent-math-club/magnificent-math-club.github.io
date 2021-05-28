@@ -1,19 +1,19 @@
 ---
-title: "Pre-Algebra"
+title: "Geometry II"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Students will learn about fractions, exponents and square roots, prime factorization, divisibility tests, and linear equations and inequalities."
+description : "Students will learn about circles, polygons, and polyhedra."
 # course thumbnail
-image: "images/courses/course-4.png"
+image: "images/courses/course-geo-ii.png"
 # taxonomy
 category: "Math"
 # teacher
-teacher: "Jason Youm (AIME qualifier), Evan Zhang (AIME qualifier), Charlotte Li"
+teacher: "Albert Lu (USAJMO qualifier), Eric Shen (AIME qualifier)"
 # duration
-duration : "9 Weeks"
+duration : "8 Weeks"
 # weekly
 weekly : "1 hour"
 # course fee
@@ -24,41 +24,41 @@ apply_url : "https://docs.google.com/forms/d/e/1FAIpQLScvfTa-zJZ6IsrHaBjKnhP7-5V
 type: "course"
 ---
 
-Students will learn about fractions, exponents and square roots, prime factorization, divisibility tests, and linear equations and inequalities.
+Students will continue exploration of geometric concepts, such as circles, polygons, and polyhedra.
 
 ### Teachers
 
-Jason Youm (AIME qualifier), Evan Zhang (AIME qualifier), Charlotte Li
+Albert Lu (USAJMO qualifer) and Eric Shen (AIME qualifier)
 
-### Textbook 
-[Introduction to Algebra by Art of Problem Solving](https://artofproblemsolving.com/store/item/intro-algebra).
+### Textbook
+
+[Introduction to Geometry by Art of Problem Solving](https://artofproblemsolving.com/store/item/intro-geometry)
 
 ### Weekly Schedule
 
-June 20 - Auguest 22, 2021
+June 19 - August 14, 2021
 
-Sunday 3:00 PM to 4:00 PM (ET) for 8 weeks (No class on July 4)
+Saturday 4:30 PM to 5:30 PM (ET) for 8 weeks (No class on July 3)
 
-|Week   |Date    | Teacher   | Topics
-|-------|--------|-----------|--------------
-|1      |6/20    | Evan      | Basic Operations, negation, reciprocals, and the Properties of Arithmetic
-|2      |6/27    | Charlotte | Fractions arithmetic, Raising Fractions to Powers, Mixed Numbers
-|3      |7/11    | Jason     | Decimal Arithmetic, rounding, decimals and fractions, repeating and terminating Decimals, and percents
-|4      |7/18    | Charlotte | Integer-valued exponents
-|5      |7/25    | Jason     | Square Roots
-|6      |8/1     | Evan      | Multiples, divisibility tests, prime and composite numbers, and prime factorization
-|7      |8/8     | Evan      | LCM, GCD, divisors, and Abundant, Deficient, and Perfect numbers
-|8      |8/15    | Jason     | Linear equations, PEMDAS, and Word Problems
-|9      |8/22    | Charlotte | Inequalities, multi-way ratios, proportions, conversions, and speed.
-
+Week|   Date|  Teacher |  Topics
+----|-------|----------|------------
+1   |6/19   |Eric      |Circle Fundamentals and Polygons
+2   |6/26   |Eric      |Funky Area
+3   |7/10   |Eric      |Circles and Angles: Introduction
+4   |7/17   |Eric      |Circles and Angles: Tangents and Problems
+5   |7/24   |Albert    |Power of a Point: Introduction
+6   |7/31   |Albert    |Power of a Point: Problems
+7   |8/7    |Albert    |Planes and Prisms
+8   |8/14   |Albert    |Pyramids and Polyhedrons
 
 ### Prerequisites
 
-None
+* Algebra 1 (write and solve linear and quadratic equations)
+* Basic Geometry (angles, lines, triangle similarity and congruency)
 
 ### How to Apply
 
-[Register Here](https://docs.google.com/forms/d/e/1FAIpQLScvfTa-zJZ6IsrHaBjKnhP7-5VrYFs5FpRO3-FhqDc3-Si3sw/viewform).
+[Register here](https://docs.google.com/forms/d/e/1FAIpQLScvfTa-zJZ6IsrHaBjKnhP7-5VrYFs5FpRO3-FhqDc3-Si3sw/viewform).
 
 ### Fees
 

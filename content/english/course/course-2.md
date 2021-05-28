@@ -1,22 +1,22 @@
 ---
-title: "Geometry I (Triangles)"
+title: "Algebra"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Students will learn about congruency, similarity, special points of triangle, and Heron’s formula."
+description : "Students will learn about linear equations, quadratic equations, and factoring simple quadratics."
 # course thumbnail
-image: "images/courses/course-2.png"
+image: "images/courses/course-algebra.png"
 # taxonomy
 category: "Math"
 # teacher
-teacher: "Stephen Zhang (AIME qualifier), Skyler Xue (AIME qualifier)"
+teacher: "Ivy Guo (AIME qualifier) and Olivia Guo (AIME qualifier)"
 # duration
 duration : "8 Weeks"
 # weekly
 weekly : "1 hour"
-## course fee
+# course fee
 fee : "$0"
 # apply url
 apply_url : "https://docs.google.com/forms/d/e/1FAIpQLScvfTa-zJZ6IsrHaBjKnhP7-5VrYFs5FpRO3-FhqDc3-Si3sw/viewform"
@@ -24,36 +24,35 @@ apply_url : "https://docs.google.com/forms/d/e/1FAIpQLScvfTa-zJZ6IsrHaBjKnhP7-5V
 type: "course"
 ---
 
-Students will learn about congruency, similarity, special points of triangle, and Heron’s formula.
+Students will learn about linear equations, quadratic equations, and factoring simple quadratics.
 
 ### Teachers
 
-Stephen Zhang (AIME qualifier) and Skyler Xue (AIME qualifier)
+Ivy Guo (AIME qualifier) and Olivia Guo (AIME qualifier)
 
-### Textbook
-
-[Introduction to Geometry by Art of Problem Solving](https://artofproblemsolving.com/store/item/intro-geometry).
+### Textbook 
+[Introduction to Algebra by Art of Problem Solving](https://artofproblemsolving.com/store/item/intro-algebra).
 
 ### Weekly Schedule
 
-June 20 - August 15, 2021
+June 19 - Auguest 14, 2021
 
-Sunday 2:30 PM to 3:30 PM (ET) for 8 weeks (No class on July 4)
+Saturday 1:00 PM to 2:00 PM (ET) for 8 weeks (No class on July 3)
 
-|Week | Date   |  Teacher   |  Topics
-|-----|--------|------------|----------
-|1    | 6/20   |  Stephen   |  Line and Angle: Definition and Properties, Perimeter & Area
-|2    | 6/27   |  Skyler    |  Congruent Triangles: SSS and SAS Congruence
-|3    | 7/11   |  Skyler    |  Congruent Triangles: ASA and AAS Congruence and Isosceles and Equilateral Triangles
-|4    | 7/18   |  Skyler    |  Similar Triangles: AA Similarity
-|5    | 7/25   |  Skyler    |  Similar Triangles: SAS and SSS Similarity and Application of similarity
-|6    | 8/1    |  Stephen   |  Right Triangles: Pythagorean theorem and Pythagorean triples
-|7    | 8/8    |  Stephen   |  Right Triangles: Heron’s formula
-|8    | 8/15   |  Stephen   |  Special Centers of a triangle
+|Week|Date  | Teacher|Topics
+|----|------|--------|------------------------------------------------------
+|1   |6/19  | Ivy    |Introduction to variables, simplifying one-variable expressions, introduction to one variable linear equations
+|2   |6/26  | Ivy    |More linear equations and linear inequalities
+|3   |7/10  | Olivia |System of linear equations, symmetry if time
+|4   |7/17  | Olivia |Graphing linear equations and inequalities
+|5   |7/24  | Olivia |Find equation of a line from graph
+|6   |7/31  | Olivia |Radicals and exponents, previous material with radicals and exponents
+|7   |8/7   | Ivy    |Distributions and factoring linear expressions
+|8   |8/14  | Ivy    |Factoring simple quadratics, FOIL
 
 ### Prerequisites
 
-* Algebra (can solve linear equations)
+* Prealgebra
 
 ### How to Apply
 
@@ -62,3 +61,4 @@ Sunday 2:30 PM to 3:30 PM (ET) for 8 weeks (No class on July 4)
 ### Fees
 
 Free.
+

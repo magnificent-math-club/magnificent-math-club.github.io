@@ -1,22 +1,22 @@
 ---
-title: "Geometry II"
+title: "Geometry I (Triangles)"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Students will learn about circles, polygons, and polyhedra."
+description : "Students will learn about congruency, similarity, special points of triangle, and Heron’s formula."
 # course thumbnail
-image: "images/courses/course-3.png"
+image: "images/courses/course-geo-i.png"
 # taxonomy
 category: "Math"
 # teacher
-teacher: "Albert Lu (USAJMO qualifier), Eric Shen (AIME qualifier)"
+teacher: "Stephen Zhang (AIME qualifier), Skyler Xue (AIME qualifier)"
 # duration
 duration : "8 Weeks"
 # weekly
 weekly : "1 hour"
-# course fee
+## course fee
 fee : "$0"
 # apply url
 apply_url : "https://docs.google.com/forms/d/e/1FAIpQLScvfTa-zJZ6IsrHaBjKnhP7-5VrYFs5FpRO3-FhqDc3-Si3sw/viewform"
@@ -24,43 +24,41 @@ apply_url : "https://docs.google.com/forms/d/e/1FAIpQLScvfTa-zJZ6IsrHaBjKnhP7-5V
 type: "course"
 ---
 
-Students will continue exploration of geometric concepts, such as circles, polygons, and polyhedra.
+Students will learn about congruency, similarity, special points of triangle, and Heron’s formula.
 
 ### Teachers
 
-Albert Lu (USAJMO qualifer) and Eric Shen (AIME qualifier)
+Stephen Zhang (AIME qualifier) and Skyler Xue (AIME qualifier)
 
 ### Textbook
 
-[Introduction to Geometry by Art of Problem Solving](https://artofproblemsolving.com/store/item/intro-geometry)
+[Introduction to Geometry by Art of Problem Solving](https://artofproblemsolving.com/store/item/intro-geometry).
 
 ### Weekly Schedule
 
-June 19 - August 14, 2021
+June 20 - August 15, 2021
 
-Saturday 4:30 PM to 5:30 PM (ET) for 8 weeks (No class on July 3)
+Sunday 2:30 PM to 3:30 PM (ET) for 8 weeks (No class on July 4)
 
-Week|   Date|  Teacher |  Topics
-----|-------|----------|------------
-1   |6/19   |Eric      |Circle Fundamentals and Polygons
-2   |6/26   |Eric      |Funky Area
-3   |7/10   |Eric      |Circles and Angles: Introduction
-4   |7/17   |Eric      |Circles and Angles: Tangents and Problems
-5   |7/24   |Albert    |Power of a Point: Introduction
-6   |7/31   |Albert    |Power of a Point: Problems
-7   |8/7    |Albert    |Planes and Prisms
-8   |8/14   |Albert    |Pyramids and Polyhedrons
+|Week | Date   |  Teacher   |  Topics
+|-----|--------|------------|----------
+|1    | 6/20   |  Stephen   |  Line and Angle: Definition and Properties, Perimeter & Area
+|2    | 6/27   |  Skyler    |  Congruent Triangles: SSS and SAS Congruence
+|3    | 7/11   |  Skyler    |  Congruent Triangles: ASA and AAS Congruence and Isosceles and Equilateral Triangles
+|4    | 7/18   |  Skyler    |  Similar Triangles: AA Similarity
+|5    | 7/25   |  Skyler    |  Similar Triangles: SAS and SSS Similarity and Application of similarity
+|6    | 8/1    |  Stephen   |  Right Triangles: Pythagorean theorem and Pythagorean triples
+|7    | 8/8    |  Stephen   |  Right Triangles: Heron’s formula
+|8    | 8/15   |  Stephen   |  Special Centers of a triangle
 
 ### Prerequisites
 
-* Algebra 1 (write and solve linear and quadratic equations)
-* Basic Geometry (angles, lines, triangle similarity and congruency)
+* Algebra (can solve linear equations)
 
 ### How to Apply
 
-[Register here](https://docs.google.com/forms/d/e/1FAIpQLScvfTa-zJZ6IsrHaBjKnhP7-5VrYFs5FpRO3-FhqDc3-Si3sw/viewform).
+[Register Here](https://docs.google.com/forms/d/e/1FAIpQLScvfTa-zJZ6IsrHaBjKnhP7-5VrYFs5FpRO3-FhqDc3-Si3sw/viewform).
 
 ### Fees
 
 Free.
-
