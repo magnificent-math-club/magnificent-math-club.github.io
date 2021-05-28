@@ -41,14 +41,14 @@ Sunday 3:00 PM to 4:00 PM (ET) for 8 weeks (No class on July 4)
 
 |Week   |Date    | Teacher   | Topics
 |-------|--------|-----------|--------------
-|1      |6/20    | Evan      | Basic Operations, negation, reciprocals, and the Properties of Arithmetic
-|2      |6/27    | Charlotte | Fractions arithmetic, Raising Fractions to Powers, Mixed Numbers
-|3      |7/11    | Jason     | Decimal Arithmetic, rounding, decimals and fractions, repeating and terminating Decimals, and percents
+|1      |6/20    | Evan      | Basic operations, negation, reciprocals, and the properties of arithmetics
+|2      |6/27    | Charlotte | Fractions arithmetic, raising fractions to powers, mixed numbers
+|3      |7/11    | Jason     | Decimal arithmetic, rounding, decimals and fractions, repeating and terminating decimals, and percents
 |4      |7/18    | Charlotte | Integer-valued exponents
-|5      |7/25    | Jason     | Square Roots
+|5      |7/25    | Jason     | Square roots
 |6      |8/1     | Evan      | Multiples, divisibility tests, prime and composite numbers, and prime factorization
-|7      |8/8     | Evan      | LCM, GCD, divisors, and Abundant, Deficient, and Perfect numbers
-|8      |8/15    | Jason     | Linear equations, PEMDAS, and Word Problems
+|7      |8/8     | Evan      | LCM, GCD, divisors; abundant, deficient, and perfect numbers
+|8      |8/15    | Jason     | Linear equations, PEMDAS, and word problems
 |9      |8/22    | Charlotte | Inequalities, multi-way ratios, proportions, conversions, and speed.
 
 
