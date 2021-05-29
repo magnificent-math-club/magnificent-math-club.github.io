@@ -4,7 +4,7 @@ slider:
   bg_image : "images/geo-shape.png"
   slider_item:
     # slider item loop
-    - title : "Magnificent Summer Math Programs"
+    - title : "Magnificent Summer Math Programs (2021)"
       content : "We are a group of math-lovers who have enjoyed the beauty of math and competed in math competitions. We want to offer some opportunities for kids to enjoy math during summer break."
       animation_in : "left"
       animation_out : "right"
