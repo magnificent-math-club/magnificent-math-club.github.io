@@ -34,6 +34,9 @@
 - id: apply_now
   translation: Register now
 
+- id: more_info
+  translation: More info
+
 - id: posted_by
   translation: Posted by
 
