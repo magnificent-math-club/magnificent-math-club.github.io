@@ -54,7 +54,7 @@ Sunday 3:00 PM to 4:00 PM (ET) for 9 weeks (No class on July 4)
 
 ### Prerequisites
 
-None
+* Grade 5 math
 
 ### How to Apply
 
