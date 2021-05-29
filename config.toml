@@ -46,15 +46,15 @@ link = "plugins/google-map/gmap.js"
 logo = "images/logo.png"
 # Meta data
 # description = "This is meta description"
-  author = "Magnificent Math Club"
+author = "Magnificent Math Club"
 # # contact info
 # address = "9567 Turner Trace Apt. BC C3G8A4"
 # mobile = "+211234565523"
-  email = "mathmagnificent@gmail.com"
+email = "mathmagnificent@gmail.com"
 # # contact form action
 # contact_form_action = "#" # contact form works with https://formspree.io
-# # Google Analitycs
-# google_analitycs_id = "" # your id
+# Google Analitycs
+google_analitycs_id = "G-1R3SW1P17V" # your id
 
 # top header
 #top_header = true
