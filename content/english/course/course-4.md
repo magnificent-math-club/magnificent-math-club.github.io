@@ -19,7 +19,7 @@ weekly : "1 hour"
 # course fee
 fee : "$0"
 # apply url
-apply_url : "https://docs.google.com/forms/d/e/1FAIpQLScvfTa-zJZ6IsrHaBjKnhP7-5VrYFs5FpRO3-FhqDc3-Si3sw/viewform"
+apply_url : "https://forms.gle/brkz3q4K2ecuRHJ79"
 # type
 type: "course"
 ---
