@@ -31,7 +31,7 @@ Students will learn about fractions, exponents and square roots, prime factoriza
 Jason Youm (AIME qualifier), Evan Zhang (AIME qualifier), Charlotte Li
 
 ### Textbook 
-[Introduction to Algebra by Art of Problem Solving](https://artofproblemsolving.com/store/item/intro-algebra).
+[Prealgebra by Art of Problem Solving](https://artofproblemsolving.com/store/item/prealgebra).
 
 ### Weekly Schedule
 
