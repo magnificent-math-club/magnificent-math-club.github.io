@@ -37,7 +37,7 @@ Jason Youm (AIME qualifier), Evan Zhang (AIME qualifier), Charlotte Li
 
 June 20 - Auguest 22, 2021
 
-Sunday 3:00 PM to 4:00 PM (ET) for 8 weeks (No class on July 4)
+Sunday 3:00 PM to 4:00 PM (ET) for 9 weeks (No class on July 4)
 
 |Week   |Date    | Teacher   | Topics
 |-------|--------|-----------|--------------
