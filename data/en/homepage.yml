@@ -12,7 +12,7 @@ slider:
       button:
         enable : true
         label : "Register Now"
-        link : "https://docs.google.com/forms/d/e/1FAIpQLScvfTa-zJZ6IsrHaBjKnhP7-5VrYFs5FpRO3-FhqDc3-Si3sw/viewform"
+        link : "https://forms.gle/brkz3q4K2ecuRHJ79"
 
 #    # slider item loop
 #    - title : "Your bright future is our mission"

@@ -56,7 +56,7 @@ Saturday 1:00 PM to 2:00 PM (ET) for 8 weeks (No class on July 3)
 
 ### How to Apply
 
-[Register Here](https://docs.google.com/forms/d/e/1FAIpQLScvfTa-zJZ6IsrHaBjKnhP7-5VrYFs5FpRO3-FhqDc3-Si3sw/viewform).
+Registration closed.
 
 ### Fees
 
