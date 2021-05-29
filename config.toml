@@ -54,9 +54,9 @@ email = "mathmagnificent@gmail.com"
 # # contact form action
 # contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
-google_analitycs_id = "" # your id
+# google_analitycs_id = "" # your id
 # Google Global Site Tag
-# google_global_site_tag = "G-1R3SW1P17V" # your global site tag
+google_global_site_tag = "G-1R3SW1P17V" # your global site tag
 
 # top header
 #top_header = true
