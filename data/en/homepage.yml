@@ -10,7 +10,7 @@ slider:
       animation_out : "right"
       # available animation : left, right, up, down
       button:
-        enable : true
+        enable : false
         label : "Register Now"
         link : "https://forms.gle/brkz3q4K2ecuRHJ79"
 
