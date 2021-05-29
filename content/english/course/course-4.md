@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Students will learn about fractions, exponents and square roots, prime factorization, divisibility tests, and linear equations and inequalities."
 # course thumbnail
-image: "images/courses/course-pre-alg.svg"
+image: "images/courses/course-pre-alg.png"
 # taxonomy
 category: "Math"
 # teacher

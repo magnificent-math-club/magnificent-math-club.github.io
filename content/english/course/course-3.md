@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Students will learn about circles, polygons, and polyhedra."
 # course thumbnail
-image: "images/courses/course-geo-ii.png"
+image: "images/courses/course-geo-ii.svg"
 # taxonomy
 category: "Math"
 # teacher
