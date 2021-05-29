@@ -130,7 +130,7 @@
 </script>
 {{ end }}
 
-{{ <!-- Global site tag (gtag.js) - Google Analytics --> | safeHTML }}
+{{ "<!-- Global site tag (gtag.js) - Google Analytics -->" | safeHTML }}
 {{ with site.Params.google_global_site_tag}}
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
 <script>
