@@ -6,11 +6,11 @@ bg_image: "images/backgrounds/page-title.png"
 # meta description
 description : ""
 # teacher portrait
-image: "images/teachers/charlotte-li.png"
+image: "images/teachers/evan-zhang.png"
 # course
 course: "Pre-Algebra"
 # biography
-bio: "MATHCOUNTS state qualifier."
+bio: "AIME qualifier, MATHCOUNTS chapter invite champion and state top 10."
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info
