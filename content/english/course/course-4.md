@@ -28,7 +28,7 @@ Students will learn about fractions, exponents and square roots, prime factoriza
 
 ### Teachers
 
-Jason Youm (AIME Qualifier, MATHCOUNTS National Top 50), Evan Zhang (AIME Qualifier, MATHCOUNTS Chapter Invite Champion and State Top 10), Charlotte Li (MATHCOUNTS State Qualifier)
+Jason Youm (AIME qualifier, MATHCOUNTS national top 50), Evan Zhang (AIME qualifier, MATHCOUNTS chapter invite champion and state top 10), Charlotte Li (MATHCOUNTS state qualifier)
 
 ### Textbook 
 [Prealgebra by Art of Problem Solving](https://artofproblemsolving.com/store/item/prealgebra).
