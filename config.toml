@@ -134,9 +134,14 @@ copyright = "Magnificent Math Club, 2021"
 #weight = 1
 
 [[Languages.en.menu.main]]
-name = "course"
+name = "courses"
 url = "course"
 weight = 2
+
+[[Languages.en.menu.main]]
+name = "teachers"
+url = "teacher"
+weight = 3
 
 #[[Languages.en.menu.main]]
 #weight = 3
