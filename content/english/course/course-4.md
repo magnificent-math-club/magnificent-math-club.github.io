@@ -11,7 +11,7 @@ image: "images/courses/course-pre-alg.png"
 # taxonomy
 category: "Math"
 # teacher
-teacher: "Jason Youm (AIME qualifier), Evan Zhang (AIME qualifier), Charlotte Li"
+teacher: "Jason Youm (AIME qualifier), Evan Zhang (AIME qualifier), Charlotte Li (Mathcounts State Qualifier)"
 # duration
 duration : "9 Weeks"
 # weekly
