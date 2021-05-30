@@ -11,7 +11,9 @@ image: "images/courses/course-geo-i.png"
 # taxonomy
 category: "Math"
 # teacher
-teacher: "Stephen Zhang (AIME qualifier), Skyler Xue (AIME qualifier)"
+#teachers:
+#  - "Stephen Zhang"
+#  - "Skyler Xue"
 # duration
 duration : "8 Weeks"
 # weekly
@@ -59,4 +61,4 @@ Registration is closed.
 
 ### Fees
 
-Free.
+Free. 😊

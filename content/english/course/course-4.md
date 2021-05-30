@@ -11,7 +11,7 @@ image: "images/courses/course-pre-alg.png"
 # taxonomy
 category: "Math"
 # teacher
-teacher:
+teachers:
   - "Jason Youm"
   - "Evan Zhang"
   - "Charlotte Li"
@@ -31,7 +31,9 @@ Students will learn about fractions, exponents and square roots, prime factoriza
 
 ### Teachers
 
-Jason Youm (AIME qualifier, MATHCOUNTS national top 50), Evan Zhang (AIME qualifier, MATHCOUNTS chapter invite champion and state top 10), Charlotte Li (MATHCOUNTS state qualifier)
+* Jason Youm (AIME qualifier, MATHCOUNTS national top 50)
+* Evan Zhang (AIME qualifier, MATHCOUNTS chapter invite champion and state top 10)
+* Charlotte Li (MATHCOUNTS state qualifier)
 
 ### Textbook 
 [Prealgebra by Art of Problem Solving](https://artofproblemsolving.com/store/item/prealgebra).
@@ -65,5 +67,5 @@ Sunday 3:00 PM to 4:00 PM (ET) for 9 weeks (No class on July 4)
 
 ### Fees
 
-Free.
+Free. 😊
 

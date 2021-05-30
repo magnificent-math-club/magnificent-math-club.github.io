@@ -62,7 +62,10 @@
   translation: fee
 
 - id: teacher
-  translation: 😀
+  translation: teacher
+
+- id: teachers
+  translation: teachers
 
 - id: location
   translation: location

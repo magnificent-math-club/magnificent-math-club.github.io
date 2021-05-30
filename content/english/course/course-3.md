@@ -11,7 +11,9 @@ image: "images/courses/course-geo-ii.svg"
 # taxonomy
 category: "Math"
 # teacher
-teacher: "Albert Lu (USAJMO qualifier), Eric Shen (AIME qualifier)"
+# teachers:
+#   - "Albert Lu"
+#   - "Eric Shen"
 # duration
 duration : "8 Weeks"
 # weekly
@@ -60,5 +62,5 @@ Registration is closed.
 
 ### Fees
 
-Free.
+Free. 😊
 

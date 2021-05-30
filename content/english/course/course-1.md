@@ -11,7 +11,9 @@ image: "images/courses/course-algebra.png"
 # taxonomy
 category: "Math"
 # teacher
-teacher: "Ivy Guo (AIME qualifier) and Olivia Guo (AIME qualifier)"
+# teachers:
+#   - "Ivy Guo"
+#   - "Olivia Guo"
 # duration
 duration : "8 Weeks"
 # weekly
@@ -58,5 +60,5 @@ Registration is closed.
 
 ### Fees
 
-Free.
+Free. 😊
 
