@@ -22,7 +22,7 @@ weekly : "1 hour"
 # course fee
 fee : "$0"
 # apply url
-apply_url : "https://docs.google.com/forms/d/e/1FAIpQLScJhbrpmT4D7bmmWS-SxtIcm6NyngImbRl7m6QWbmQjjixZag/viewform"
+# apply_url : "https://docs.google.com/forms/d/e/1FAIpQLScJhbrpmT4D7bmmWS-SxtIcm6NyngImbRl7m6QWbmQjjixZag/viewform"
 # type
 type: "course"
 ---
@@ -63,7 +63,7 @@ Sunday 3:00 PM to 4:00 PM (ET) for 9 weeks (No class on July 4)
 
 ### How to Apply
 
-[Register Here](https://docs.google.com/forms/d/e/1FAIpQLScJhbrpmT4D7bmmWS-SxtIcm6NyngImbRl7m6QWbmQjjixZag/viewform).
+Registration is closed.
 
 ### Fees
 
