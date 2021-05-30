@@ -4,13 +4,13 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
 # meta description
-description : "description goes here"
+description : "Charlotte Li"
 # teacher portrait
 image: "images/teachers/charlottle-li.png"
 # course
 course: "Pre-Algebra"
 # biography
-bio: "bio goes here"
+bio: "MATHCOUNTS state qualifier."
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info
