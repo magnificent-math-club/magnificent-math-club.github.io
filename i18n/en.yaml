@@ -94,6 +94,10 @@
 - id: courses
   translation: Courses
 
+- id: teaching
+  translation: teaching
+
+
 - id: new_notice
   translation: new notice
 
