@@ -55,7 +55,7 @@ Sunday 2:30 PM to 3:30 PM (ET) for 8 weeks (No class on July 4)
 
 ### How to Apply
 
-Registration closed.
+Registration is closed.
 
 ### Fees
 

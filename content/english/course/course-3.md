@@ -56,7 +56,7 @@ Week|   Date|  Teacher |  Topics
 
 ### How to Apply
 
-Registration close.
+Registration is closed.
 
 ### Fees
 
