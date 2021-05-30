@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.png"
 # meta description
 description : "Charlotte Li"
 # teacher portrait
-image: "images/teachers/charlottle-li.png"
+image: "images/teachers/charlotte-li.png"
 # course
 course: "Pre-Algebra"
 # biography
