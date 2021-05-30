@@ -9,7 +9,8 @@
       </div>
       <div class="col-md-6 mb-5">
         <h3>{{ .Title }}</h3>
-        <h6 class="text-color">{{ .Params.Course }}</h6>
+	<!-- <h6 class="text-color">{{ .Params.Course }}</h6> -->
+	<h6 class="text-color">Bio</h6>
         <p class="mb-5">{{ .Params.Bio | markdownify }}</p>
         <div class="row">
           {{ if .Params.Contact }}
