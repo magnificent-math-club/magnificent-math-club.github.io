@@ -54,6 +54,5 @@ bio: "AIME qualifier, MATHCOUNTS chapter invite champion and state top 10."
 type: "teacher"
 ---
 
-# ### About Me
 
 
