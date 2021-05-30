@@ -8,7 +8,7 @@ description : ""
 # teacher portrait
 image: "images/teachers/charlotte-li.png"
 # course
-course: "Pre-Algebra"
+#course: "Pre-Algebra"
 # biography
 bio: "MATHCOUNTS state qualifier."
 # interest
