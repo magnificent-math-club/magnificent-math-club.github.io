@@ -54,6 +54,6 @@ bio: "MATHCOUNTS state qualifier."
 type: "teacher"
 ---
 
-### About Me
+# ### About Me
 
 

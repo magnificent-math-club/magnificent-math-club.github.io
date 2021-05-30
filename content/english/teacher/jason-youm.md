@@ -54,6 +54,6 @@ bio: "AIME qualifier, MATHCOUNTS national top 50."
 type: "teacher"
 ---
 
-### About Me
+# ### About Me
 
 
