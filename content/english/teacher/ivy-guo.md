@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.png"
 # meta description
 description : ""
 # teacher portrait
-image: "images/teachers/ivy-guo.png"
+image: "images/teachers/ivy-guo.jpg"
 # course
 course: "Algebra"
 # biography
