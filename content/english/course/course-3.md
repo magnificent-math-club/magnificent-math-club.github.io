@@ -11,8 +11,8 @@ image: "images/courses/course-geo-ii.svg"
 # taxonomy
 category: "Math"
 # teacher
-# teachers:
-#   - "Albert Lu"
+teachers:
+  - "Albert Lu"
 #   - "Eric Shen"
 # duration
 duration : "8 Weeks"
