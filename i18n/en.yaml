@@ -113,6 +113,10 @@
 - id: interest
   translation: SUMMARY OF ACTIVITIES/INTERESTS
 
+- id: accomplishments
+  translation: accomplishments/experiences
+
+
 - id: our_teachers
   translation: Our Teachers
 

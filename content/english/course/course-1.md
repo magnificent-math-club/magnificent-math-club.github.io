@@ -11,9 +11,9 @@ image: "images/courses/course-algebra.png"
 # taxonomy
 category: "Math"
 # teacher
-# teachers:
-#   - "Ivy Guo"
-#   - "Olivia Guo"
+teachers:
+  - "Ivy Guo"
+  - "Olivia Guo"
 # duration
 duration : "8 Weeks"
 # weekly

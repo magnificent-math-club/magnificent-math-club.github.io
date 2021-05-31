@@ -13,12 +13,24 @@
 	<h6 class="text-color">Bio</h6>
         <p class="mb-5">{{ .Params.Bio | markdownify }}</p>
         <div class="row">
+		<!--
           {{ if .Params.Contact }}
           <div class="col-md-6 mb-5 mb-md-0">
             <h4 class="mb-4">{{ i18n "contact_info" | upper}}:</h4>
             <ul class="list-unstyled">
               {{ range .Params.Contact }}
               <li class="mb-3"><a class="text-color" href="{{ .link | safeURL }}"><i class="{{ .icon }} mr-2"></i>{{ .name }}</a></li>
+              {{ end }}
+            </ul>
+          </div>
+          {{ end }}
+		-->
+          {{ if .Params.Accomplishments }}
+          <div class="col-md-6 content">
+            <h4 class="mb-4">{{ i18n "accomplishments" | title }}</h4>
+            <ul class="list-unstyled">
+              {{ range .Params.Accomplishments }}
+              <li class="mb-3">{{ . | title }}</li>
               {{ end }}
             </ul>
           </div>

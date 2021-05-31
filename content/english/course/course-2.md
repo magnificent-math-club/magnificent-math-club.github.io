@@ -11,9 +11,9 @@ image: "images/courses/course-geo-i.png"
 # taxonomy
 category: "Math"
 # teacher
-#teachers:
-#  - "Stephen Zhang"
-#  - "Skyler Xue"
+teachers:
+  - "Stephen Zhang"
+  - "Skyler Xue"
 # duration
 duration : "8 Weeks"
 # weekly
