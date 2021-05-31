@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.png"
 # meta description
 description : ""
 # teacher portrait
-image: "images/teachers/jason-youm.png"
+image: "images/teachers/jason-youm.jpg"
 # course
 course: "Pre-Algebra"
 # biography

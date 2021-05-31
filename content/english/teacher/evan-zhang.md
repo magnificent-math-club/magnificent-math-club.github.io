@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.png"
 # meta description
 description : ""
 # teacher portrait
-image: "images/teachers/evan-zhang.png"
+image: "images/teachers/evan-zhang.jpg"
 # course
 course: "Pre-Algebra"
 # biography
