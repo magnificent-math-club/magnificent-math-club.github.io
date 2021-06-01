@@ -13,7 +13,7 @@ category: "Math"
 # teacher
 teachers:
   - "Albert Lu"
-#   - "Eric Shen"
+  - "Eric Shen"
 # duration
 duration : "8 Weeks"
 # weekly
