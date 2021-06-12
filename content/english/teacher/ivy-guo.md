@@ -10,7 +10,7 @@ image: "images/teachers/ivy-guo.jpg"
 # course
 course: "Algebra"
 # biography
-bio: "I'm Ivy Guo. I've qualified for AIME since 7th grade and I taught a MOEMS course during the school year. I'm excited to teach this Algebra class this summer!."
+bio: "I'm Ivy Guo. I've qualified for AIME since 7th grade and I taught a MOEMS course during the school year. I'm excited to teach this Algebra class this summer!"
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info
