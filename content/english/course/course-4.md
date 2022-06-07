@@ -1,6 +1,6 @@
 ---
 title: " Pre-Algebra"
-date: 2021-05-30T01:38:00-04:00
+date: 2022-06-06T11:18:00-04:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
@@ -12,11 +12,10 @@ image: "images/courses/course-pre-alg.png"
 category: "Math"
 # teacher
 teachers:
-  - "Jason Youm"
-  - "Evan Zhang"
+  - "Bill Qian"
   - "Charlotte Li"
 # duration
-duration : "9 Weeks"
+duration : "8 Weeks"
 # weekly
 weekly : "1 hour"
 # course fee
@@ -31,30 +30,28 @@ Students will learn about fractions, exponents and square roots, prime factoriza
 
 ### Teachers
 
-* Jason Youm (AIME qualifier, MATHCOUNTS national top 50)
-* Evan Zhang (AIME qualifier, MATHCOUNTS chapter invite champion and state top 10)
 * Charlotte Li (MATHCOUNTS state qualifier)
+* Bill Qian (MATHCOUNTS state qualifier)
 
 ### Textbook 
 [Prealgebra by Art of Problem Solving](https://artofproblemsolving.com/store/item/prealgebra).
 
 ### Weekly Schedule
 
-June 20 - Auguest 22, 2021
+June 18 - Auguest 13, 2022
 
-Sunday 3:00 PM to 4:00 PM (ET) for 9 weeks (No class on July 4)
+Saturday 10:30 AM to 11:30 AM (ET) for 8 weeks (No class on July 2nd).
 
 |Week   |Date    | Teacher   | Topics
 |-------|--------|-----------|--------------
-|1      |6/20    | Evan      | Negation, reciprocals, and the properties of arithmetics
-|2      |6/27    | Charlotte | Fractions
-|3      |7/11    | Charlotte | Exponents (I)
-|4      |7/18    | Jason     | Exponents (II)
-|5      |7/25    | Jason     | Decimals
-|6      |8/1     | Evan      | Divisibility and prime factorization
-|7      |8/8     | Evan      | LCM and GCD
-|8      |8/15    | Jason     | Linear equations
-|9      |8/22    | Charlotte | Inequalities and ratios
+|1      |6/18    | Bill      | Negation, reciprocals, divisibility, and prime factorization
+|2      |6/25    | Charlotte | Exponents (I)
+|3      |7/9     | Bill      | Exponents (II)
+|4      |7/16    | Charlotte | LCM and GCD
+|5      |7/23    | Charlotte | Fractions
+|6      |7/30    | Bill      | Decimals
+|7      |8/6     | Bill      | Linear equations
+|8      |8/13    | Charlotte | Inequalities and ratios
 
 
 ### Prerequisites
@@ -63,7 +60,7 @@ Sunday 3:00 PM to 4:00 PM (ET) for 9 weeks (No class on July 4)
 
 ### How to Apply
 
-Registration is closed.
+Please register via this [form](https://forms.gle/vqCWoodbqgfKHmjs5).
 
 ### Fees
 

@@ -1,16 +1,16 @@
 ---
-title: "Eric Shen"
+title: "Bill Qian"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
 # meta description
 description : ""
 # teacher portrait
-image: "images/teachers/eric-shen.jpg"
+image: "images/teachers/bill-qian.jpg"
 # course
-course: "Geometry II"
+course: "Pre-Algebra"
 # biography
-bio: "My name is Eric Shen and I am a rising tenth-grader. I have qualified for AIME and MATHCOUNTS State. In addition to math, I also teach robotic programming."
+bio: "8th grader at Takoma Park Middle School. USAJMO qualifier. MATHCOUNTS national qualifier. Taught Geometry I class in 2020 and 2021."
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info

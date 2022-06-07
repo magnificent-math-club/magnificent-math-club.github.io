@@ -10,7 +10,7 @@ image: "images/teachers/stephen-zhang.jpg"
 # course
 course: "Geometry I"
 # biography
-bio: "Rising freshman, AIME and MATHCOUNTS state qualifier, Math Kangaroo national rank #1."
+bio: "Rising sophomore, AIME and MATHCOUNTS state qualifier, Math Kangaroo national rank #1."
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info
