@@ -8,9 +8,9 @@ description : ""
 # teacher portrait
 image: "images/teachers/albert-lu.jpg"
 # course
-course: "Geometry II"
+course: "Geometry II", "Intermediate Algebra"
 # biography
-bio: "Rising 8-th grader at Takoma Park Middle School. USAJMO qualifier. MATHCOUNTS national qualifier. Taught Geometry I class in 2020."
+bio: "8th grader at Takoma Park Middle School. USAJMO qualifier. MATHCOUNTS national qualifier. Taught Geometry I class in 2020 and 2021."
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info
