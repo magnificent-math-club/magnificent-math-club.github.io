@@ -1,6 +1,6 @@
 ---
 title: "Geometry I (Triangles)"
-date: 2021-05-30T01:38:00-04:00
+date: 2022-06-06T1l:06:00-04:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
@@ -36,20 +36,20 @@ Stephen Zhang (AIME qualifier) and Skyler Xue (AIME qualifier)
 
 ### Weekly Schedule
 
-June 20 - August 15, 2021
+June 18 - August 13, 2022
 
-Sunday 2:30 PM to 3:30 PM (ET) for 8 weeks (No class on July 4)
+Saturday 2:30 PM to 3:30 PM (ET) for 8 weeks (No class on July 2nd)
 
 |Week | Date   |  Teacher   |  Topics
 |-----|--------|------------|----------
-|1    | 6/20   |  Stephen   |  Line and angle: definition and properties, perimeter & area
-|2    | 6/27   |  Skyler    |  Congruent triangles: SSS and SAS congruence
-|3    | 7/11   |  Skyler    |  Congruent triangles: ASA and AAS congruence and isosceles and equilateral triangles
-|4    | 7/18   |  Skyler    |  Similar triangles: AA similarity
-|5    | 7/25   |  Skyler    |  Similar triangles: SAS and SSS similarity and application of similarity
-|6    | 8/1    |  Stephen   |  Right triangles: Pythagorean theorem and Pythagorean triples
-|7    | 8/8    |  Stephen   |  Right triangles: Heron’s formula
-|8    | 8/15   |  Stephen   |  Special centers of a triangle
+|1    | 6/18   |  Stephen   |  Line and angle: definition and properties, perimeter & area
+|2    | 6/25   |  Skyler    |  Congruent triangles: SSS and SAS congruence
+|3    | 7/9    |  Skyler    |  Congruent triangles: ASA and AAS congruence and isosceles and equilateral triangles
+|4    | 7/16   |  Skyler    |  Similar triangles: AA similarity
+|5    | 7/23   |  Skyler    |  Similar triangles: SAS and SSS similarity and application of similarity
+|6    | 7/30   |  Stephen   |  Right triangles: Pythagorean theorem and Pythagorean triples
+|7    | 8/6    |  Stephen   |  Right triangles: Heron’s formula
+|8    | 8/13   |  Stephen   |  Special centers of a triangle
 
 ### Prerequisites
 
@@ -57,7 +57,7 @@ Sunday 2:30 PM to 3:30 PM (ET) for 8 weeks (No class on July 4)
 
 ### How to Apply
 
-Registration is closed.
+Please register via this [form](https://forms.gle/vqCWoodbqgfKHmjs5).
 
 ### Fees
 

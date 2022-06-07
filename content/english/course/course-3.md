@@ -1,6 +1,6 @@
 ---
 title: "Geometry II"
-date: 2021-05-30T01:38:00-04:00
+date: 2022-06-06T11:11:00-04:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
@@ -36,20 +36,20 @@ Albert Lu (USAJMO qualifer) and Eric Shen (AIME qualifier)
 
 ### Weekly Schedule
 
-June 19 - August 14, 2021
+June 17 - August 12, 2022
 
-Saturday 4:30 PM to 5:30 PM (ET) for 8 weeks (No class on July 3)
+Friday 7:00 PM to 8:00 PM (ET) for 8 weeks (No class on July 1st)
 
 Week|   Date|  Teacher |  Topics
 ----|-------|----------|------------
-1   |6/19   |Eric      |Circle fundamentals and polygons
-2   |6/26   |Eric      |Funky area
-3   |7/10   |Eric      |Circles and angles: introduction
-4   |7/17   |Eric      |Circles and angles: tangents and problems
-5   |7/24   |Albert    |Power of a point: introduction
-6   |7/31   |Albert    |Power of a point: problems
-7   |8/7    |Albert    |Planes and prisms
-8   |8/14   |Albert    |Pyramids and polyhedrons
+1   |6/17   |Eric      |Circle fundamentals and polygons
+2   |6/24   |Eric      |Funky area
+3   |7/8    |Eric      |Circles and angles: introduction
+4   |7/15   |Eric      |Circles and angles: tangents and problems
+5   |7/22   |Albert    |Power of a point: introduction
+6   |7/29   |Albert    |Power of a point: problems
+7   |8/5    |Albert    |Planes and prisms
+8   |8/12   |Albert    |Pyramids and polyhedrons
 
 ### Prerequisites
 
@@ -58,7 +58,7 @@ Week|   Date|  Teacher |  Topics
 
 ### How to Apply
 
-Registration is closed.
+Please register via this [form](https://forms.gle/vqCWoodbqgfKHmjs5).
 
 ### Fees
 

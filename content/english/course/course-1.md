@@ -1,6 +1,6 @@
 ---
 title: "Algebra"
-date: 2022-06-06T10:47:00-04:00
+date: 2022-06-06T11:11:00-04:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
@@ -35,9 +35,9 @@ Ivy Guo (JMO Honorable Mention) and Olivia Guo (AIME qualifier)
 
 ### Weekly Schedule
 
-June 18 - July 19, 2021
+June 18 - July 19, 2022
 
-Saturday 8:00 PM to 9:00 PM (ET), twice a week (No class on July 2nd and 5th)
+Saturday and Tuesday 8:00 PM to 9:00 PM (ET), twice a week (No class on July 2nd and 5th)
 
 |Session|Date  | Teacher|Topics
 |-------|------|--------|------------------------------------------------------
