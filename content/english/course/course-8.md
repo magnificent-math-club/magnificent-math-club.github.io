@@ -5,7 +5,8 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
 # meta description
-description : "Students will learn topics covered in Beast Academy Grade 5 Math."
+description : "Students will learn about solids, integers, equations, statistics, factors, fractions, sequences, ratios, decimals, percents, square roots, and exponents."
+
 # course thumbnail
 image: "images/traffic-cone.png"
 # taxonomy
@@ -24,14 +25,14 @@ fee : "$0"
 type: "course"
 ---
 
-Students will learn topics covered in Beast Academy Grade 5 Math.
+Students will learn about solids, integers, equations, statistics, factors, fractions, sequences, ratios, decimals, percents, square roots, and exponents.
 
 ### Teachers
 
 Eric Shen and Vivian Shen.
 
 ### Textbook 
-Beast Academy Grade 5.
+Beast Academy Level 5 by Art of Problem Solving.
 
 ### Weekly Schedule
 
@@ -56,7 +57,7 @@ Tuesday and Thursday 5:00 PM to 6:00 PM (ET), twice a week (No class on July 5th
 
 ### Prerequisites
 
-* Students should have completed an Algebra 1 course in school and be familiar with order of operations, remainders, and the concept of variables.
+* Prerequisites are Grade 4 math.
 
 ### How to Apply
 
