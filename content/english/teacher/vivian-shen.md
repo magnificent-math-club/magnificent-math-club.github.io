@@ -1,16 +1,17 @@
 ---
-title: "Evan Zhang"
+title: "Vivian Shen"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
 # meta description
 description : ""
 # teacher portrait
-image: "images/teachers/evan-zhang.jpg"
+image: "images/teachers/vivian-shen.jpg"
 # course
-course: "Number Theory"
+course: "Beast Academy Grade 5"
 # biography
-bio: "AIME qualifier, MATHCOUNTS chapter invite champion and state top 10."
+bio: "Rising 9th grader, New Jersey MATHCOUNTS state qualifier, AMC 8 Distinguished Honor Roll and D. E. Shaw Certificate of Excellence, National Science Bowl New Jersey State 3rd place."
+
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info

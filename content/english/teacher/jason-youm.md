@@ -8,7 +8,7 @@ description : ""
 # teacher portrait
 image: "images/teachers/jason-youm.jpg"
 # course
-course: "Pre-Algebra"
+course: "Number Theory"
 # biography
 bio: "AIME qualifier, MATHCOUNTS national top 50."
 # interest
