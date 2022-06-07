@@ -15,7 +15,7 @@ teachers:
   - "Ivy Guo"
   - "Olivia Guo"
 # duration
-duration : "8 Sessions"
+duration : "4 Weeks"
 # weekly
 weekly: "2 hours"
 # course fee

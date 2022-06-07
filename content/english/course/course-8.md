@@ -15,7 +15,7 @@ teachers:
   - "Eric Shen"
   - "Vivian Shen"
 # duration
-duration : "8 Sessions"
+duration : "6 Weeks"
 # weekly
 weekly: "2 hours"
 # course fee
