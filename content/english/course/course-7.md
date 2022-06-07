@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.png"
 # meta description
 description : "Students will learn the basics of and familiarize themselves with Python programming."
 # course thumbnail
-image: "images/traffic-cone.png"
+image: "images/courses/course-python.jpg"
 # taxonomy
 category: "Math"
 # teacher
