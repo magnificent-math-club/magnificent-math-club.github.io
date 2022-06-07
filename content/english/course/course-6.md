@@ -34,7 +34,7 @@ Students will learn about number theory including primes, base arithmetic, and m
 * Evan Zhang (AIME qualier, MATHCOUNTS chapter first place)
 
 ### Textbook 
-[Prealgebra by Art of Problem Solving](https://artofproblemsolving.com/store/item/prealgebra).
+[Introduction to Number Theory Art of Problem Solving](https://artofproblemsolving.com/store/book/intro-number-theory)
 
 ### Weekly Schedule
 

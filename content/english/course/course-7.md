@@ -31,7 +31,7 @@ Students will learn the basics of and familiarize themselves with Python program
 Ivy Guo (USACO Silver qualifier, USAJMO Honorable Mention) and Olivia Guo (USACO Silver qualifier, AIME qualifier)
 
 ### Textbook 
-[Introduction to Algebra by Art of Problem Solving](https://artofproblemsolving.com/store/item/intro-algebra).
+None.
 
 ### Weekly Schedule
 
