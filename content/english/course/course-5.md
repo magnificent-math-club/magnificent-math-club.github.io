@@ -1,11 +1,11 @@
 ---
 title: "Intermediate Algebra"
-date: 2022-06-06T11:18:00-04:00
+date: 2022-06-06T11:19:00-04:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
 # meta description
-description : "Students will learn about 
+description : "Students will learn about "
 # course thumbnail
 # image: "images/courses/course-pre-alg.png"
 # taxonomy
@@ -34,7 +34,7 @@ Students will learn about
 * Brandon Zhang (AIME qualifier)
 
 ### Textbook 
-[Prealgebra by Art of Problem Solving](https://artofproblemsolving.com/store/item/prealgebra).
+[Intermediate Algebra](https://artofproblemsolving.com/store/book/intermediate-algebra)
 
 ### Weekly Schedule
 
