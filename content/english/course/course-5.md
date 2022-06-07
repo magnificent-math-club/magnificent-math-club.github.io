@@ -8,7 +8,7 @@ bg_image: "images/backgrounds/page-title.png"
 description : " Students will learn about the complex numbers and how to solve quadratics and polynomials."
 # course thumbnail
 # image: "images/courses/course-pre-alg.png"
-image: "images/marker.png"
+image: "images/traffic-cone.png"
 # taxonomy
 category: "Math"
 # teacher
