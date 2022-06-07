@@ -8,7 +8,7 @@ description : ""
 # teacher portrait
 image: "images/teachers/ivy-guo.jpg"
 # course
-course: "Algebra"
+course: "Algebra and Python"
 # biography
 bio: USAJMO Honorable Mention in 2022. AIME Qualifier since 7th grade. I taught a MOEMS course and Algebra in 2021. I'm excited to teach this Algebra class this summer!"
 # interest
