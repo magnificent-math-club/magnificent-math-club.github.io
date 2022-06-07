@@ -26,7 +26,7 @@ fee : "$0"
 type: "course"
 ---
 
-Students will learn about 
+Students will learn about number theory including primes, base arithmetic, and modular arithmetic.
 
 ### Teachers
 
