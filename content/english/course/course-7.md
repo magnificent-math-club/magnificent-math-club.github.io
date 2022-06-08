@@ -7,9 +7,9 @@ bg_image: "images/backgrounds/page-title.png"
 # meta description
 description : "Students will learn the basics of and familiarize themselves with Python programming."
 # course thumbnail
-image: "images/courses/course-python.jpg"
+image: "images/courses/course-python.png"
 # taxonomy
-category: "Math"
+category: "CS"
 # teacher
 teachers:
   - "Ivy Guo"

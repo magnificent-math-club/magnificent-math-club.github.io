@@ -1,16 +1,16 @@
 ---
-title: "Albert Lu"
+title: "Bill Qian"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
 # meta description
 description : ""
 # teacher portrait
-image: "images/teachers/albert-lu.jpg"
+image: "images/teachers/bill-qian.jpg"
 # course
-course: "Geometry II and Intermediate Algebra"
+course: "Pre-Algebra"
 # biography
-bio: "8th grader at Takoma Park Middle School. USAJMO qualifier. MATHCOUNTS national qualifier. Taught Geometry I in 2020 and Geometry II in 2021."
+bio: "Rising 8th grader at Takoma Park Middle School, MATHCOUNTS Maryland State 7th place in 2022, Distinguished Honor Roll on AMC8 in 2022."
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info
