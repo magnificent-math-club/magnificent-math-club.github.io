@@ -1,5 +1,5 @@
 ---
-title: "Beast Academy Grade 5 Class"
+title: "Beast Academy Grade 5"
 date: 2022-06-06T11:11:00-04:00
 draft: false
 # page title background image
@@ -42,18 +42,18 @@ Tuesday and Thursday 5:00 PM to 6:00 PM (ET), twice a week (No class on July 5th
 
 |Session|Date  | Teacher|Topics
 |-------|------|--------|------------------------------------------------------
-|1      |6/21  | TBD    | 3D solids
-|2      |6/23  | TBD    | Integers
-|3      |6/26  | TBD    | Expressions and Equations
-|4      |6/30  | TBD    | Statistics
-|5      |7/7   | TBD    | Factors and Multiples
-|6      |7/12  | TBD    | Fractions
-|7      |7/14  | TBD    | Sequences
-|8      |7/19  | TBD    | Ratios and rates
-|8      |7/21  | TBD    | Decimals
-|8      |7/26  | TBD    | Percents
-|8      |7/28  | TBD    | Square Roots
-|8      |8/2   | TBD    | Exponents
+|1      |6/21  | Vivian | 3D solids
+|2      |6/23  | Eric   | Integers
+|3      |6/26  | Vivian | Expressions and Equations
+|4      |6/30  | Eric   | Statistics
+|5      |7/7   | Vivian | Factors and Multiples
+|6      |7/12  | Eric   | Fractions
+|7      |7/14  | Vivian | Sequences
+|8      |7/19  | Eric   | Ratios and rates
+|8      |7/21  | Vivian | Decimals
+|8      |7/26  | Vivian | Percents
+|8      |7/28  | Vivian | Square Roots
+|8      |8/2   | Eric   | Exponents
 
 ### Prerequisites
 
