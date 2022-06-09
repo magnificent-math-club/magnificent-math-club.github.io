@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.png"
 # meta description
 description : "Students will learn about "
 # course thumbnail
-image: "images/traffic-cone.png"
+image: "images/courses/course-num-theory.png"
 # taxonomy
 category: "Math"
 # teacher
