@@ -1,0 +1,35 @@
+#!/bin/bash
+
+which git 
+if [[ $? -ne 0 ]]; then
+  echo
+  echo -e 'ERROR: git not found.  Please install git first.'
+  echo
+  exit 1
+fi
+
+which hugo 
+if [[ $? -ne 0 ]]; then
+  echo
+  echo -e 'ERROR: hugo not found.  Please install git first.'
+  echo -e 'If using homebrew on mac, you can install it with:'
+  echo -e '  brew install hugo'
+  echo
+  exit 1
+fi
+
+echo -e 'IN ONE LINE, please briefly describe the changes you made:\n'
+
+read COMMIT_MSG
+
+[[ .$COMMIT_MSG == . ]] && COMMIT_MSG="updated posts"
+
+STEP='git pull' && $STEP && \
+  STEP='git add .'  && $STEP && \
+  STEP='git commit' && git commit -m "$COMMIT_MSG" && \
+  STEP='bash _scripts/publish_toghpages.sh' && $STEP && \
+  STEP='Done' 
+
+export STEP
+
+[ "$STEP" != Done ] && echo "Stopped after command: $STEP"

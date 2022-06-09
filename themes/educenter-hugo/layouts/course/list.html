@@ -7,10 +7,10 @@
     <div class="row justify-content-left">
       {{ $categories := slice }}
       {{ range .Data.Pages }}
-      {{ $categories = $categories | append .Params.Id }}
+      {{ $categories = $categories | append .Params.Weekly }}
       {{ end }}
       <!-- course item -->
-      {{ range .Data.Pages }}
+      {{ range ( $categories | sort ) }}
       <div class="col-lg-4 col-sm-6 mb-5">
         {{ .Render "course" }}
       </div>
