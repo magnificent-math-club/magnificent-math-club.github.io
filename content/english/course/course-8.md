@@ -8,7 +8,7 @@ bg_image: "images/backgrounds/page-title.png"
 description : "Students will learn about solids, integers, equations, statistics, factors, fractions, sequences, ratios, decimals, percents, square roots, and exponents."
 
 # course thumbnail
-image: "images/traffic-cone.png"
+image: "images/courses/course-beast-acad-5.jpg"
 # taxonomy
 category: "Math"
 # teacher
