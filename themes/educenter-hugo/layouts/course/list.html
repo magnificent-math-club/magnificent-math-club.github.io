@@ -6,7 +6,7 @@
     <!-- course list -->
     <div class="row justify-content-left">
       <!-- course item -->
-      {{ range .Data.Pages }}
+      {{ range sort .Data.Pages }}
       <div class="col-lg-4 col-sm-6 mb-5">
         {{ .Render "course" }}
       </div>
