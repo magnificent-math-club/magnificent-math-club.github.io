@@ -1,4 +1,5 @@
 ---
+id: 1
 title: "Algebra"
 date: 2022-06-06T11:11:00-04:00
 draft: false
