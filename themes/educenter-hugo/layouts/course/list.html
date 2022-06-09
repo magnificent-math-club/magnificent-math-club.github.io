@@ -10,8 +10,7 @@
       {{ $categories = $categories | append .Params.Id }}
       {{ end }}
       <!-- course item -->
-      <!-- {{ range .Data.Pages }} -->
-      {{ range ( $categories | sort ) }}
+      {{ range .Data.Pages }}
       <div class="col-lg-4 col-sm-6 mb-5">
         {{ .Render "course" }}
       </div>
