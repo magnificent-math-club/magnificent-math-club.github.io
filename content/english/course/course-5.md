@@ -1,5 +1,5 @@
 ---
-id: 5
+id: 7
 title: "Intermediate Algebra"
 date: 2022-06-06T11:19:00-04:00
 draft: false

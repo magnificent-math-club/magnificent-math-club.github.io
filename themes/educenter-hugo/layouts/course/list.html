@@ -5,10 +5,6 @@
   <div class="container">
     <!-- course list -->
     <div class="row justify-content-left">
-      {{ $categories := slice }}
-      {{ range .Data.Pages }}
-      {{ $categories = $categories | append .Params.Weekly }}
-      {{ end }}
       <!-- course item -->
       {{ range sort .Data.Pages ".Params.id" }}
       <div class="col-lg-4 col-sm-6 mb-5">
