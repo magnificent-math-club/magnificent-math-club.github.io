@@ -10,7 +10,7 @@
       {{ $categories = $categories | append .Params.Weekly }}
       {{ end }}
       <!-- course item -->
-      {{ range .Data.Pages ".Params.id" }}
+      {{ range sort .Data.Pages ".Params.id" }}
       <div class="col-lg-4 col-sm-6 mb-5">
         {{ .Render "course" }}
       </div>
