@@ -10,7 +10,7 @@ image: "images/teachers/evan-zhang.jpg"
 # course
 course: "Number Theory"
 # biography
-bio: "AIME qualifier, MATHCOUNTS chapter invite champion and state top 10."
+bio: "USAJMO qualifier, MATHCOUNTS chapter invite champion and state top 10."
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info

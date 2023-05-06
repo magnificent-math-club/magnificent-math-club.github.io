@@ -10,7 +10,7 @@ image: "images/teachers/olivia-guo.jpg"
 # course
 course: "Algebra and Python"
 # biography
-bio: "My name is Olivia Guo and I am a 9th grader at Montgomery Blair High School this fall. I've qualified for AIME since 7th grade. I've had experience teaching elementary schoolers through MOEMS. I'm excited to teach this class!"
+bio: "My name is Olivia Guo and I am a 10th grader at Montgomery Blair High School this fall. I've qualified for AIME since 7th grade. I've had experience teaching elementary schoolers through MOEMS. I'm excited to teach this class!"
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info

@@ -10,7 +10,7 @@ image: "images/teachers/bill-qian.jpg"
 # course
 course: "Pre-Algebra"
 # biography
-bio: "Rising 8th grader at Takoma Park Middle School, MATHCOUNTS Maryland State 7th place in 2022, Distinguished Honor Roll on AMC8 in 2022."
+bio: "Rising 9th grader at Montgomery Blair High School Magnet Program, MATHCOUNTS national qualifier in 2023, Distinguished Honor Roll on AMC8 in 2022 and 2023."
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info

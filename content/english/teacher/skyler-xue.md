@@ -10,7 +10,7 @@ image: "images/teachers/skyler-xue.jpg"
 # course
 course: "Geometry I"
 # biography
-bio: "I am a student at Takoma Park Middle School (STEM magnet). In school, my favorite subjects are math and science. In my free time, I enjoy playing golf."
+bio: "Skyler Xue is a student from the Science, Mathematics, Computer Science Magnet Program at Montgomery Blair High School with a passion for mathematics. He has qualified for the AIME multiple times since 6th grade."
 
 # accomplishments
 accomplishments:
