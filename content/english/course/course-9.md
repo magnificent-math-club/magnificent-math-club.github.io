@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/page-title.png"
 # meta description
 description : "Scratch is a coding website that uses blocks to make stories, games, and animations.  This course is meant for 5th-7th graders who want to learn coding. Students will achieve a basic understanding of Scratch features, create games on Scratch, and have fun along the way."
 
+
 # course thumbnail
 image: "images/courses/course-scratch-2023.jpg"
 # taxonomy
@@ -25,7 +26,7 @@ fee : "$0"
 type: "course"
 ---
 
-Students will achieve a basic understanding of Scratch features, create games on Scratch, and have fun along the way.
+Students will achieve a basic understanding of Scratch features, create games on Scratch, and have fun along the way. {{< youtube o2Y-o3dqzEU >}}
 
 ### Teachers
 
