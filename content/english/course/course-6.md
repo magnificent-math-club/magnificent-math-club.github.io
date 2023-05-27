@@ -1,14 +1,14 @@
 ---
 id: 6
-title: "Number Theory"
-date: 2022-06-06T11:18:00-04:00
+title: "Contest Math"
+date: 2023-05-27T11:18:00-04:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
 # meta description
 description : "Students will learn about "
 # course thumbnail
-image: "images/courses/course-num-theory.png"
+image: "images/courses/course-contest-math.jpg"
 # taxonomy
 category: "Math"
 # teacher
@@ -27,41 +27,41 @@ fee : "$0"
 type: "course"
 ---
 
-Students will learn about number theory including primes, base arithmetic, and modular arithmetic.
+Students will learn competition math style thinking and problem solving skills in algebra, geometry, combinatorics, and number theory.
 
 ### Teachers
 
-* Jason Youm (AIME qualier, MATHCOUNTS national qualifier)
-* Evan Zhang (AIME qualier, MATHCOUNTS chapter first place)
+* Jason Youm (AIME qualifier, MATHCOUNTS national top 50, USAPHO Honorable Mention Semi-finalist)
+* Evan Zhang (JMO qualifier)
 
 ### Textbook 
-[Introduction to Number Theory Art of Problem Solving](https://artofproblemsolving.com/store/book/intro-number-theory)
+[Competition Math for Middle School](https://artofproblemsolving.com/store/book/competition-math)
 
 ### Weekly Schedule
 
-June 19 - Auguest 14, 2022
+Jun 17 - Aug 12 2023
 
-Sunday 3:00 PM to 4:00 PM (ET) for 8 weeks (No class on July 2nd).
+Sat 3-4 PM (ET) for 8 weeks (No class on Jul 1).
 
 |Week   |Date    | Teacher   | Topics
 |-------|--------|-----------|--------------
-|1      |6/19    | Evan      | Integers, primes, and divisibility rules
-|2      |6/26    | Jason     | Multiples and divisors
-|3      |7/10    | Evan      | Prime factorization
-|4      |7/17    | Jason     | Divisor problems and special numbers
-|5      |7/24    | Jason     | Bases and introduce base arithmetic
-|6      |7/31    | Jason     | Finish bases arithmetic and units digits
-|7      |8/7     | Evan      | Decimals and fractions
-|8      |8/14    | Evan      | Modular arithmetic
+|1      |6/17    | Jason     | Systems of Equations, Polynomials
+|2      |6/24    | Jason     | Exponents, Sequences/Series
+|3      |7/8     | Evan      | GCD, LCM
+|4      |7/15    | Evan      | Bases, Modular Arithmetic
+|5      |7/22    | Jason     | Angles, Triangle Congruence and Similarity
+|6      |7/29    | Jason     | Pythagorean Theorem, Circles
+|7      |8/5     | Evan      | Counting, Permutations and Combinations
+|8      |8/12    | Evan      | Stars and Bars, Probability
 
 
 ### Prerequisites
 
-* Algebra
+* Algebra and Geometry
 
 ### How to Apply
 
-Please register via this [form](https://forms.gle/vqCWoodbqgfKHmjs5).
+Please register via this [form](https://google.com).
 
 ### Fees
 

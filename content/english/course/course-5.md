@@ -1,7 +1,7 @@
 ---
 id: 7
 title: "Intermediate Algebra"
-date: 2022-06-06T11:19:00-04:00
+date: 2023-05-27T11:19:00-04:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
@@ -16,6 +16,7 @@ category: "Math"
 teachers:
   - "Albert Lu"
   - "Brandon Zhang"
+  - "Charlotte Li"
 # duration
 duration : "8 Weeks"
 # weekly
@@ -33,24 +34,25 @@ Students will learn about the complex numbers and how to solve quadratics and po
 
 ### Teachers
 
-* Albert Lu (JMO qualifier)
+* Albert Lu (JMO winner)
 * Brandon Zhang (AIME qualifier)
+* Charlotte Li (MATHCOUNTS state qualifier)
 
 ### Textbook 
 [Intermediate Algebra](https://artofproblemsolving.com/store/book/intermediate-algebra)
 
 ### Weekly Schedule
 
-June 18 - Auguest 13, 2022
+Jun 18 - Aug 13, 2023
 
-Saturday 1:00 PM to 2:00 PM (ET) for 8 weeks (No class on July 2nd).
+Sun 4-5 PM (ET) for 8 weeks (No class on Jul 2).
 
 |Week   |Date    | Teacher   | Topics
 |-------|--------|-----------|--------------
 |1      |6/18    | Albert    | Review of Equation and Function
 |2      |6/25    | Albert    | Complex Numbers
 |3      |7/9     | Albert    | Quadratics I
-|4      |7/16    | Albert    | Quadratics II
+|4      |7/16    | Charlotte | Quadratics II
 |5      |7/23    | Brandon   | Polynomial Division
 |6      |7/30    | Brandon   | Polynomial Roots I
 |7      |8/6     | Brandon   | Polynomial Roots II
@@ -63,7 +65,7 @@ Saturday 1:00 PM to 2:00 PM (ET) for 8 weeks (No class on July 2nd).
 
 ### How to Apply
 
-Please register via this [form](https://forms.gle/vqCWoodbqgfKHmjs5).
+Please register via this [form](https://google.com).
 
 ### Fees
 

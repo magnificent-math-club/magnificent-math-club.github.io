@@ -1,7 +1,7 @@
 ---
 id: 2
 title: " Pre-Algebra"
-date: 2022-06-06T11:18:00-04:00
+date: 2023-05-27T11:18:00-04:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
@@ -32,27 +32,27 @@ Students will learn about fractions, exponents and square roots, prime factoriza
 ### Teachers
 
 * Charlotte Li (MATHCOUNTS state qualifier)
-* Bill Qian (MATHCOUNTS state qualifier)
+* Bill Qian (MATHCOUNTS National qualifier; AIME qualifier)
 
 ### Textbook 
 [Prealgebra by Art of Problem Solving](https://artofproblemsolving.com/store/item/prealgebra).
 
 ### Weekly Schedule
 
-June 18 - Auguest 13, 2022
+Jun 17 - Aug 12, 2023
 
-Saturday 10:30 AM to 11:30 AM (ET) for 8 weeks (No class on July 2nd).
+Sat 6-7 PM (ET) for 8 weeks (No class on Jul 1).
 
 |Week   |Date    | Teacher   | Topics
 |-------|--------|-----------|--------------
-|1      |6/18    | Bill      | Negation, reciprocals, divisibility, and prime factorization
-|2      |6/25    | Charlotte | Exponents (I)
-|3      |7/9     | Bill      | Exponents (II)
-|4      |7/16    | Charlotte | LCM and GCD
-|5      |7/23    | Charlotte | Fractions
-|6      |7/30    | Bill      | Decimals
-|7      |8/6     | Bill      | Linear equations
-|8      |8/13    | Charlotte | Inequalities and ratios
+|1      |6/17    | Bill      | Negation, reciprocals, divisibility, and prime factorization
+|2      |6/24    | Charlotte | Exponents (I)
+|3      |7/8     | Bill      | Exponents (II)
+|4      |7/15    | Charlotte | LCM and GCD
+|5      |7/22    | Charlotte | Fractions
+|6      |7/29    | Bill      | Decimals
+|7      |8/5     | Bill      | Linear equations
+|8      |8/12    | Charlotte | Inequalities and ratios
 
 
 ### Prerequisites
@@ -61,7 +61,7 @@ Saturday 10:30 AM to 11:30 AM (ET) for 8 weeks (No class on July 2nd).
 
 ### How to Apply
 
-Please register via this [form](https://forms.gle/vqCWoodbqgfKHmjs5).
+Please register via this [form](https://google.com).
 
 ### Fees
 

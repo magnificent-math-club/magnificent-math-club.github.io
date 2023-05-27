@@ -1,7 +1,7 @@
 ---
 id: 4
 title: "Geometry I (Triangles)"
-date: 2022-06-06T1l:06:00-04:00
+date: 2023-05-27T1l:06:00-04:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
@@ -13,7 +13,6 @@ image: "images/courses/course-geo-i.png"
 category: "Math"
 # teacher
 teachers:
-  - "Stephen Zhang"
   - "Skyler Xue"
 # duration
 duration : "8 Weeks"
@@ -29,7 +28,7 @@ Students will learn about congruency, similarity, special points of triangle, an
 
 ### Teachers
 
-Stephen Zhang (AIME qualifier) and Skyler Xue (AIME qualifier)
+Skyler Xue (AIME qualifier)
 
 ### Textbook
 
@@ -37,20 +36,20 @@ Stephen Zhang (AIME qualifier) and Skyler Xue (AIME qualifier)
 
 ### Weekly Schedule
 
-June 18 - August 13, 2022
+Jun 18 - Aug 13, 2023
 
-Saturday 2:30 PM to 3:30 PM (ET) for 8 weeks (No class on July 2nd)
+Sun 6-7 PM (ET) for 8 weeks (No class on Jul 2)
 
 |Week | Date   |  Teacher   |  Topics
 |-----|--------|------------|----------
-|1    | 6/18   |  Stephen   |  Line and angle: definition and properties, perimeter & area
+|1    | 6/18   |  Skyler    |  Line and angle: definition and properties, perimeter & area
 |2    | 6/25   |  Skyler    |  Congruent triangles: SSS and SAS congruence
 |3    | 7/9    |  Skyler    |  Congruent triangles: ASA and AAS congruence and isosceles and equilateral triangles
 |4    | 7/16   |  Skyler    |  Similar triangles: AA similarity
 |5    | 7/23   |  Skyler    |  Similar triangles: SAS and SSS similarity and application of similarity
-|6    | 7/30   |  Stephen   |  Right triangles: Pythagorean theorem and Pythagorean triples
-|7    | 8/6    |  Stephen   |  Right triangles: Heron’s formula
-|8    | 8/13   |  Stephen   |  Special centers of a triangle
+|6    | 7/30   |  Skyler    |  Right triangles: Pythagorean theorem and Pythagorean triples
+|7    | 8/6    |  Skyler    |  Right triangles: Heron’s formula
+|8    | 8/13   |  Skyler    |  Special centers of a triangle
 
 ### Prerequisites
 
@@ -58,7 +57,7 @@ Saturday 2:30 PM to 3:30 PM (ET) for 8 weeks (No class on July 2nd)
 
 ### How to Apply
 
-Please register via this [form](https://forms.gle/vqCWoodbqgfKHmjs5).
+Please register via this [form](https://google.com).
 
 ### Fees
 

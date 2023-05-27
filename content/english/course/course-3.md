@@ -1,7 +1,7 @@
 ---
 id: 5
 title: "Geometry II"
-date: 2022-06-06T11:11:00-04:00
+date: 2023-05-27T11:11:00-04:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
@@ -14,7 +14,7 @@ category: "Math"
 # teacher
 teachers:
   - "Albert Lu"
-  - "Eric Shen"
+  - "Brandon Zhang"
 # duration
 duration : "8 Weeks"
 # weekly
@@ -29,7 +29,7 @@ Students will continue exploration of geometric concepts, such as circles, polyg
 
 ### Teachers
 
-Albert Lu (USAJMO qualifer) and Eric Shen (AIME qualifier)
+Albert Lu (USAJMO winner) and Brandon Zhang (AIME qualifier)
 
 ### Textbook
 
@@ -37,20 +37,20 @@ Albert Lu (USAJMO qualifer) and Eric Shen (AIME qualifier)
 
 ### Weekly Schedule
 
-June 17 - August 12, 2022
+Jun 19 - Aug 14, 2023
 
-Friday 7:00 PM to 8:00 PM (ET) for 8 weeks (No class on July 1st)
+Mon. 8-9 PM (ET) for 8 weeks (No class on Jul 3)
 
 Week|   Date|  Teacher |  Topics
 ----|-------|----------|------------
-1   |6/17   |Eric      |Circle fundamentals and polygons
-2   |6/24   |Eric      |Funky area
-3   |7/8    |Eric      |Circles and angles: introduction
-4   |7/15   |Eric      |Circles and angles: tangents and problems
-5   |7/22   |Albert    |Power of a point: introduction
-6   |7/29   |Albert    |Power of a point: problems
-7   |8/5    |Albert    |Planes and prisms
-8   |8/12   |Albert    |Pyramids and polyhedrons
+1   |6/19   |Albert    |Circle fundamentals and polygons
+2   |6/26   |Albert    |Funky area
+3   |7/10   |Albert    |Circles and angles: introduction
+4   |7/17   |Brandon   |Circles and angles: tangents and problems
+5   |7/24   |Brandon   |Power of a point: introduction
+6   |7/31   |Brandon   |Power of a point: problems
+7   |8/7    |Brandon   |Planes and prisms
+8   |8/14   |Brandon   |Pyramids and polyhedrons
 
 ### Prerequisites
 
@@ -59,7 +59,7 @@ Week|   Date|  Teacher |  Topics
 
 ### How to Apply
 
-Please register via this [form](https://forms.gle/vqCWoodbqgfKHmjs5).
+Please register via this [form](https://google.com).
 
 ### Fees
 

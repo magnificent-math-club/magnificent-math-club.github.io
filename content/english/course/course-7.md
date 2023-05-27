@@ -1,7 +1,7 @@
 ---
 id: 8
 title: "Introduction to Python"
-date: 2022-06-06T11:11:00-04:00
+date: 2023-05-27T11:11:00-04:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
@@ -16,9 +16,9 @@ teachers:
   - "Ivy Guo"
   - "Olivia Guo"
 # duration
-duration : "4 Weeks"
+duration : "8 Weeks"
 # weekly
-weekly: "2 hours"
+weekly: "1 hour"
 # course fee
 fee : "$0"
 # type
@@ -29,27 +29,27 @@ Students will learn the basics of and familiarize themselves with Python program
 
 ### Teachers
 
-Ivy Guo (USACO Silver qualifier, USAJMO Honorable Mention) and Olivia Guo (USACO Silver qualifier, AIME qualifier)
+Ivy Guo (USACO Gold qualifier, USAJMO Honorable Mention) and Olivia Guo (USACO Gold qualifier, AIME qualifier)
 
 ### Textbook 
 None.
 
 ### Weekly Schedule
 
-June 19 - July 17, 2022
+Jun 17 - Aug 12, 2023
 
-Thursday and Sunday 8:00 PM to 9:00 PM (ET), twice a week (No class on July 3rd).
+Sat 8-9 PM (ET) for 8 weeks (No class on Jul 1).
 
 |Session|Date  | Teacher|Topics
 |-------|------|--------|------------------------------------------------------
-|1      |6/19  | Olivia | Print statements, assignment statements, math operators
-|2      |6/23  | Ivy    | Comparative operators, if else statements
-|3      |6/26  | Ivy    | Nested if else statements
-|4      |6/30  | Olivia | For loops, nested for loops
-|5      |7/7   | Olivia | While loops, break and continue
-|6      |7/10  | Ivy    | Lists
-|7      |7/14  | Ivy    | Dictionaries
-|8      |7/17  | Olivia | Final project: create a hangman game
+|1      |6/17  | Olivia | Print statements, assignment statements, math operators
+|2      |6/24  | Olivia | Comparative operators, if else statements
+|3      |7/8   | Olivia | Nested if else statements
+|4      |7/15  | Olivia | For loops, nested for loops
+|5      |7/22  | Ivy    | While loops, break and continue
+|6      |7/29  | Ivy    | Lists
+|7      |8/5   | Ivy    | Dictionaries
+|8      |8/12  | Ivy    | Final project: create a hangman game
 
 ### Prerequisites
 
@@ -57,7 +57,7 @@ Thursday and Sunday 8:00 PM to 9:00 PM (ET), twice a week (No class on July 3rd)
 
 ### How to Apply
 
-Please register via this [form](https://forms.gle/vqCWoodbqgfKHmjs5).
+Please register via this [form](https://google.com).
 
 ### Fees
 
