@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.png"
 # meta description
 description : ""
 # teacher portrait
-image: "images/teachers/albert-lu.jpg"
+image: "images/teachers/albert-lu-2023.jpg"
 # course
 course: "Geometry II and Intermediate Algebra"
 # biography
