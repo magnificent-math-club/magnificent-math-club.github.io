@@ -33,7 +33,7 @@
   $('.hero-slider').slick({
     autoplay: true,
     autoplaySpeed: 0,
-    speed: 700,
+    speed: 10,
     pauseOnFocus: false,
     pauseOnHover: false,
     infinite: true,
