@@ -57,7 +57,7 @@ Sun 8-9 pm (ET), once a week (No class on July 2nd)
 
 ### How to Apply
 
-Please register via this [form](https://www.google.com).
+Coming soon!
 
 ### Fees
 

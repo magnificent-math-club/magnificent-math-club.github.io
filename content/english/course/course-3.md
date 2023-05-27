@@ -59,7 +59,7 @@ Week|   Date|  Teacher |  Topics
 
 ### How to Apply
 
-Please register via this [form](https://google.com).
+Coming soon!
 
 ### Fees
 

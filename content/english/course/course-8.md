@@ -62,7 +62,7 @@ Mon and Thu 6-7 PM (ET), twice a week (No class on Jul 3 and Jul 6).
 
 ### How to Apply
 
-Please register via this [form](https://forms.gle/vqCWoodbqgfKHmjs5).
+Coming soon!
 
 ### Fees
 
