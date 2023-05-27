@@ -1,5 +1,5 @@
 ---
-id: 6
+id: 7
 title: "Contest Math"
 date: 2023-05-26T11:18:00-04:00
 draft: false
