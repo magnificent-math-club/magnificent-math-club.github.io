@@ -8,7 +8,7 @@ description : ""
 # teacher portrait
 image: "images/teachers/evan-zhang.jpg"
 # course
-course: "Number Theory"
+course: "Contest Math"
 # biography
 bio: "USAJMO qualifier, MATHCOUNTS chapter invite champion and state top 10."
 # interest

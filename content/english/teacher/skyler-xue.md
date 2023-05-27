@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.png"
 # meta description
 description : ""
 # teacher portrait
-image: "images/teachers/skyler-xue.jpg"
+image: "images/teachers/skyler-xue-2023.jpg"
 # course
 course: "Geometry I"
 # biography

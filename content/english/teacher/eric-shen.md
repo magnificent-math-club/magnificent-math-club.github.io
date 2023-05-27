@@ -8,9 +8,9 @@ description : ""
 # teacher portrait
 image: "images/teachers/eric-shen.jpg"
 # course
-course: "Geometry II and Beast Academy"
+course: "Beast Academy"
 # biography
-bio: "My name is Eric Shen and I am a rising tenth-grader. I have qualified for AIME and MATHCOUNTS State. In addition to math, I also teach robotic programming."
+bio: "My name is Eric Shen and I am a rising Junior. I have qualified for AIME and MATHCOUNTS State. In addition to math, I also teach robotic programming."
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info
