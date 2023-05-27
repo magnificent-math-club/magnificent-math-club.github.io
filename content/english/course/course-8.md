@@ -51,10 +51,10 @@ Mon and Thu 6-7 PM (ET), twice a week (No class on Jul 3 and Jul 6).
 |6      |7/13  | Vivian | Fractions
 |7      |7/17  | Vivian | Sequences
 |8      |7/20  | Vivian | Ratios and rates
-|8      |7/24  | Vivian | Decimals
-|8      |7/27  | Vivian | Percents
-|8      |7/31  | Vivian | Square Roots
-|8      |8/3   | Vivian | Exponents
+|9      |7/24  | Vivian | Decimals
+|10     |7/27  | Vivian | Percents
+|11     |7/31  | Vivian | Square Roots
+|12     |8/3   | Vivian | Exponents
 
 ### Prerequisites
 
