@@ -1,6 +1,6 @@
 ---
 id: 1
-title: "Start From Scratch"
+title: "Start from Scratch"
 date: 2023-05-26T11:11:00-04:00
 draft: false
 # page title background image
