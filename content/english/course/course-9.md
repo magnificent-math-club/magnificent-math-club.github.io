@@ -1,5 +1,5 @@
 ---
-id: 9
+id: 8
 title: "Start from Scratch"
 date: 2023-05-26T11:11:00-04:00
 draft: false
@@ -39,7 +39,7 @@ https://bootuppd.org/scratch/
 
 Jul 18 - Aug 10, 2023
 
-Tue and Thu 2:30-4:00 PM (ET), twice a week.
+Tue and Thu 2:00-3:30 PM (ET), twice a week.
 
 |Session|Date  | Teacher|Topics
 |-------|------|--------|------------------------------------------------------
