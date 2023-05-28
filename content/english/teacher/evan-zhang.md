@@ -8,9 +8,9 @@ description : ""
 # teacher portrait
 image: "images/teachers/evan-zhang.jpg"
 # course
-course: "Contest Math"
+course: "Competition Math"
 # biography
-bio: "USAJMO qualifier, MATHCOUNTS chapter invite champion and state top 10."
+bio: "Hi, I'm Evan and I'm a rising sophomore at Montgomery Blair high school. I enjoy learning math, physics, and earth and space science, as well as reading. I like sharing problem solving strategies and how to approach challenging math problems. Accomplishments: USAJMO qualifier, UMD Math Competition Honorable Mention, Science Bowl Regionals 2nd place and Ignis East top 12."
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info

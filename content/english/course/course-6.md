@@ -1,6 +1,6 @@
 ---
 id: 7
-title: "Contest Math"
+title: "Competition Math"
 date: 2023-05-26T11:18:00-04:00
 draft: false
 # page title background image
@@ -8,7 +8,7 @@ bg_image: "images/backgrounds/page-title.png"
 # meta description
 description : "Students will learn about "
 # course thumbnail
-image: "images/courses/course-contest-math.jpg"
+image: "images/courses/course-competition-math.jpg"
 # taxonomy
 category: "Math"
 # teacher
