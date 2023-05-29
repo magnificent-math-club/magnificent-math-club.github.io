@@ -10,7 +10,7 @@ image: "images/teachers/albert-lu-2023.jpg"
 # course
 course: "Geometry II and Intermediate Algebra"
 # biography
-bio: "Rising 10th grader at Phillips Exeter Academy. USAJMO winner and MATHCOUNTS national qualifier. Taught Geometry I in 2020, Geometry II in 2021, Intermediate Algebra and Geometry II in 2022."
+bio: "Rising 10th grader at Phillips Exeter Academy. USAJMO winner and MATHCOUNTS national top 30. Taught Geometry I in 2020, Geometry II in 2021, Intermediate Algebra and Geometry II in 2022."
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info

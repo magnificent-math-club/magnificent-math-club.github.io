@@ -10,7 +10,7 @@ image: "images/teachers/ivy-guo.jpg"
 # course
 course: "Algebra and Python"
 # biography
-bio: "USAJMO Honorable Mention in 2022 and 2023. AIME Qualifier since 7th grade. I taught Algebra in 2021 and 2022, and Python in 2022. I'm excited to teach this Algebra class this summer!"
+bio: "USAJMO honorable mention in 2022 and 2023. AIME qualifier since 7th grade. I taught Algebra in 2021 and 2022, and Python in 2022. I'm excited to teach this Algebra class this summer!"
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info

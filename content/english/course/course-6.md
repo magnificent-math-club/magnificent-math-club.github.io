@@ -32,7 +32,7 @@ Students will learn topics in middle school math competitions such as AMC8 and M
 ### Teachers
 
 * Jason Youm (AIME qualifier, MATHCOUNTS national top 50, USAPHO Honorable Mention Semi-finalist)
-* Evan Zhang (JMO qualifier)
+* Evan Zhang (USAJMO qualifier)
 
 ### Textbook 
 [Competition Math for Middle School](https://artofproblemsolving.com/store/book/competition-math)

@@ -13,7 +13,7 @@ course: "Competition Math"
 bio: "I'm Jason Youm, a rising junior attending the Montgomery Blair High School math and science magnet program. You can find me coaching math, studying physics, practicing the cello, playing basketball, geeking over weather, and playing Supercell games. I enjoy teaching through examples and problems, since the best way to improve at math is to practice it.
 
 
-Accomplishment: 4x AIME qualifier, MATHCOUNTS national top 50, USAPHO Honorable Mention Semi-finalist."
+Accomplishment: 4x AIME qualifier, MATHCOUNTS national top 50, USAPHO honorable mention semi-finalist."
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info

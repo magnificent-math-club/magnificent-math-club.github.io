@@ -29,7 +29,8 @@ Students will learn the basics of and familiarize themselves with Python program
 
 ### Teachers
 
-Ivy Guo (USACO Gold qualifier, USAJMO Honorable Mention) and Olivia Guo (USACO Gold qualifier, AIME qualifier)
+* Ivy Guo (USACO gold qualifier, USAJMO honorable mention)
+* Olivia Guo (USACO gold qualifier, AIME qualifier)
 
 ### Textbook 
 None.

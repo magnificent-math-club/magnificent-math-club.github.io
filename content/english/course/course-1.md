@@ -29,7 +29,8 @@ Students will learn about linear equations, quadratic equations, and factoring s
 
 ### Teachers
 
-Ivy Guo (USAJMO Honorable Mention) and Olivia Guo (AIME qualifier)
+* Ivy Guo (USAJMO honorable mention) 
+* Olivia Guo (AIME qualifier)
 
 ### Textbook 
 [Introduction to Algebra by Art of Problem Solving](https://artofproblemsolving.com/store/item/intro-algebra).

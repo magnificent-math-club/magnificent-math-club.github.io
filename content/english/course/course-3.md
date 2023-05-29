@@ -29,7 +29,8 @@ Students will continue exploration of geometric concepts, such as circles, polyg
 
 ### Teachers
 
-Albert Lu (USAJMO winner) and Brandon Zhang (AIME qualifier)
+* Albert Lu (USAJMO winner)
+* Brandon Zhang (AIME qualifier)
 
 ### Textbook
 

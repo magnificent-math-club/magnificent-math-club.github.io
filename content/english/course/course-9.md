@@ -30,7 +30,7 @@ Students will achieve a basic understanding of Scratch features, create games on
 
 ### Teachers
 
-Lucas Chen.
+Lucas Chen
 
 ### Textbook 
 https://bootuppd.org/scratch/

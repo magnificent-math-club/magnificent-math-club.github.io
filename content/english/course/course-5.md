@@ -34,7 +34,7 @@ Students will learn about the complex numbers and how to solve quadratics and po
 
 ### Teachers
 
-* Albert Lu (JMO winner)
+* Albert Lu (USAJMO winner)
 * Brandon Zhang (AIME qualifier)
 * Charlotte Li (MATHCOUNTS state qualifier)
 

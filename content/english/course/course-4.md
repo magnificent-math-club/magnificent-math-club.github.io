@@ -32,7 +32,7 @@ Students will learn about fractions, exponents and square roots, prime factoriza
 ### Teachers
 
 * Charlotte Li (MATHCOUNTS state qualifier)
-* Bill Qian (MATHCOUNTS National qualifier; AIME qualifier)
+* Bill Qian (MATHCOUNTS national qualifier; AIME qualifier)
 
 ### Textbook 
 [Prealgebra by Art of Problem Solving](https://artofproblemsolving.com/store/item/prealgebra).
