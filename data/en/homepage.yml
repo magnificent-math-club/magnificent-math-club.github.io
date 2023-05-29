@@ -5,7 +5,7 @@ slider:
   slider_item:
     # slider item loop
     - title : "Magnificent Summer Math and Coding Programs (2023)"
-      content : "We are a group of math-lovers who have enjoyed the beauty of math and competed in math competitions. We want to offer some opportunities for kids to practice math and coding during summer break."
+      content : "We are a group of math-lovers who have enjoyed the beauty of math and competed in math competitions. We want to offer some opportunities for kids to practice math and coding during summer break. This will be our 4th year."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
