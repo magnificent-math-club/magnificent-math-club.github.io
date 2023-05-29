@@ -6,7 +6,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
 # meta description
-description : "Students will learn topics in middle school competition math such as AMC8 and MATHCOUNTS. We will cover algebra, geometry, combinatorics, and number theory."
+description : "Students will learn topics in middle school math competitions such as AMC8 and MATHCOUNTS. We will cover algebra, geometry, combinatorics, and number theory."
 # course thumbnail
 image: "images/courses/course-competition-math.jpg"
 # taxonomy
@@ -27,7 +27,7 @@ fee : "$0"
 type: "course"
 ---
 
-Students will learn topics in middle school competition math such as AMC8 and MATHCOUNTS. We will cover algebra, geometry, combinatorics, and number theory.
+Students will learn topics in middle school math competitions such as AMC8 and MATHCOUNTS. We will cover algebra, geometry, combinatorics, and number theory.
 
 ### Teachers
 
