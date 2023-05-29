@@ -6,7 +6,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
 # meta description
-description : "Students will learn about "
+description : "Students will learn competition math style thinking and problem solving skills in algebra, geometry, combinatorics, and number theory."
 # course thumbnail
 image: "images/courses/course-competition-math.jpg"
 # taxonomy
