@@ -143,6 +143,12 @@ name = "teachers"
 url = "teacher"
 weight = 3
 
+[[Languages.en.menu.main]]
+name = "sign up (via Google form)"
+url = "https://forms.gle/aBzjbyJBFg1CieVC8"
+weight = 4
+
+
 #[[Languages.en.menu.main]]
 #weight = 3
 #name = "Pages"

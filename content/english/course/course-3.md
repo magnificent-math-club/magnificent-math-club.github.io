@@ -59,7 +59,7 @@ Week|   Date|  Teacher |  Topics
 
 ### How to Apply
 
-Coming soon!
+Please sign up [here](https://forms.gle/aBzjbyJBFg1CieVC8).
 
 ### Fees
 

@@ -58,7 +58,7 @@ Tue and Thu 2:00-3:30 PM (ET), twice a week.
 
 ### How to Apply
 
-Coming soon!
+Please sign up [here](https://forms.gle/aBzjbyJBFg1CieVC8).
 
 ### Fees
 

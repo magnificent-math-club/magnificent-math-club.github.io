@@ -65,7 +65,7 @@ Sun 4-5 PM (ET) for 8 weeks (No class on Jul 2).
 
 ### How to Apply
 
-Coming soon!
+Please sign up [here](https://forms.gle/aBzjbyJBFg1CieVC8).
 
 ### Fees
 
