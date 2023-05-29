@@ -94,7 +94,7 @@
 </section>
 <!-- /section -->
 
-<!-- related course -->
+<!-- related course --
 <section class="section pt-0">
   <div class="container">
     <div class="row">
@@ -103,7 +103,6 @@
       </div>
     </div>
     <div class="row">
-      <!-- course item -->
       {{ $related := (where site.RegularPages "Type" "course") | intersect (where site.Pages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) | shuffle | first 3}}
       {{ range first 3 $related }}
       <div class="col-lg-4 col-sm-6 mb-5">
@@ -113,6 +112,6 @@
     </div>
   </div>
 </section>
-<!-- /related course -->
+-- /related course -->
 
 {{ end }}
