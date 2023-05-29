@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.png"
 # meta description
 description : ""
 # teacher portrait
-image: "images/teachers/evan-zhang.jpg"
+image: "images/teachers/evan-zhang-2023.jpg"
 # course
 course: "Competition Math"
 # biography
