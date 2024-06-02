@@ -25,6 +25,9 @@ fee : "$0"
 type: "course"
 ---
 
+Seminar Title: Probability and Fun
+
+
 What is a "30 percent chance of rain"? How about when a coin lands heads "half the time"? This action-packed seminar dives into the basics of probability in many fun contexts, from cards to video games to basketball!
 
 ### Teachers
@@ -33,7 +36,7 @@ What is a "30 percent chance of rain"? How about when a coin lands heads "half t
 
 ### Time
 
-Wednesday 6/19/2024 7-8 PM (ET)
+Wed 7-8 PM (ET) Jun 19, 2024 
 
 ### How to Apply
 
