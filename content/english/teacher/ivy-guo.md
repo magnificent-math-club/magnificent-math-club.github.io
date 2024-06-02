@@ -1,5 +1,5 @@
 ---
-title: "😁 Ivy Guo"
+title: "Ivy Guo"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
