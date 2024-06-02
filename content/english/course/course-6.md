@@ -14,6 +14,7 @@ category: "Math"
 # teacher
 teachers:
   - "✨ Evan Zhang"
+  - "✨ Albert Lu"
 # duration
 duration : "8 Weeks"
 # weekly
@@ -50,7 +51,7 @@ Tue and Sat 7-8 PM (ET) for 4 weeks
 |5      |6/29    | Evan      | Angles, Triangle Congruence and Similarity
 |6      |7/2     | Evan      | Pythagorean Theorem, Circles
 |7      |7/6     | Evan      | Counting, Permutations and Combinations
-|8      |7/9     | Evan      | Stars and Bars, Probability
+|8      |7/9     | Albert    | Stars and Bars, Probability
 
 
 ### Prerequisites
