@@ -1,7 +1,7 @@
 ---
 id: 3
 title: "Algebra"
-date: 2023-05-26T11:11:00-04:00
+date: 2024-06-01T11:11:00-04:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
@@ -29,28 +29,28 @@ Students will learn about linear equations, quadratic equations, and factoring s
 
 ### Teachers
 
-* Ivy Guo (USAJMO honorable mention) 
-* Olivia Guo (AIME qualifier)
+* Bill Qian (MATHCOUNTS national qualifier, AIME qualifier) 
+* Brandon Zhang (USAMO qualifier)
 
 ### Textbook 
 [Introduction to Algebra by Art of Problem Solving](https://artofproblemsolving.com/store/item/intro-algebra).
 
 ### Weekly Schedule
 
-Jun 18 - Aug 13, 2023
+Jun 29 - Aug 17, 2024
 
-Sun 8-9 pm (ET), once a week (No class on July 2nd)
+Sat 4-5 pm (ET), once a week.
 
-|Session|Date  | Teacher|Topics
-|-------|------|--------|------------------------------------------------------
-|1      |6/18  | Olivia |Introduction to variables, simplifying one-variable expressions, introduction to one variable linear equations
-|2      |6/25  | Olivia |More linear equations and linear inequalities
-|3      |7/9   | Olivia |System of linear equations, symmetry if time
-|4      |7/16  | Olivia |Graphing linear equations and inequalities
-|5      |7/23  | Ivy    |Find equation of a line from graph
-|6      |7/30  | Ivy    |Radicals and exponents, previous material with radicals and exponents
-|7      |8/6   | Ivy    |Distributions and factoring linear expressions
-|8      |8/13  | Ivy    |Factoring simple quadratics, FOIL
+|Session|Date  | Teacher |Topics
+|-------|------|---------|------------------------------------------------------
+|1      |6/29  | Brandon |Introduction to variables, simplifying one-variable expressions, introduction to one variable linear equations
+|2      |7/6   | Brandon |More linear equations and linear inequalities
+|3      |7/13  | Brandon |System of linear equations, symmetry if time
+|4      |7/20  | Brandon |Graphing linear equations and inequalities
+|5      |7/27  | Bill    |Find equation of a line from graph
+|6      |8/3   | Bill    |Radicals and exponents, previous material with radicals and exponents
+|7      |8/10  | Bill    |Distributions and factoring linear expressions
+|8      |8/17  | Bill    |Factoring simple quadratics, FOIL
 
 ### Prerequisites
 
