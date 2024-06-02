@@ -9,7 +9,7 @@ bg_image: "images/backgrounds/page-title.png"
 description : "What is a '30 percent chance of rain'? How about when a coin lands heads 'half the time'? This action-packed seminar dives into the basics of probability in many fun contexts, from cards to video games to basketball!"
 
 # course thumbnail
-image: "images/courses/course-beast-acad-6-2023.jpg"
+image: "images/courses/seminar-2024.png"
 # taxonomy
 category: "Math"
 # teacher
