@@ -15,7 +15,7 @@ category: "Math"
 teachers:
   - "⭐️ Bill Qian"
   - "⭐️ Charlotte Li"
-  - "⭐️ Mirabelle Li"
+  - "⭐️ Mirabelle Li (TA)"
 # duration
 duration : "8 Weeks"
 # weekly

@@ -1,18 +1,17 @@
 ---
-title: "⭐️ Jason Youm"
+title: "⭐️ Mirabelle Li (TA)"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
 # meta description
 description : ""
 # teacher portrait
-image: "images/teachers/jason-youm-2023.jpg"
+image: "images/teachers/mirabelle-li-2024.jpg"
 # course
-course: "Seminar"
+course: "Pre-Algebra"
 # biography
-bio: "I'm Jason Youm, a rising senior attending the Montgomery Blair High School math and science magnet program. AIME qualifier since seventh grade, MATHCOUNTS national top 50. Taught prealgebra in 2021, number theory in 2022, competition math in 2023, and 'Probability and Fun' seminar in 2024."
+bio: "Mirabelle Li is a rising 6th grader in Cabin John Middle school. She loves reading all sorts of reading material and all sorts of origami and crafts. She received CERTIFICATE OF ACHIEVEMENT for students in grade 6 or below for outstanding performance on AMC8 in both 2023 and 2024.  In addition, her elementary school math team recently won 3rd place at DMV Math Tournament 2024, hosted by Rosa Lee Carter Elementary School in Virginia."
 
-Accomplishment: 4x AIME qualifier, MATHCOUNTS national top 50, USAPHO honorable mention semi-finalist."
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info
