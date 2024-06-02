@@ -38,7 +38,7 @@ Skyler Xue (AIME qualifier)
 
 Jun 16 - Jul 14, 2024
 
-Sun and Thu 8-9 PM (ET) for 4 weeks (No class on Jul 4)
+Sun and Thu 8-9 PM (ET) twice a week for 4 weeks (No class on Jul 4)
 
 |Week | Date   |  Teacher   |  Topics
 |-----|--------|------------|----------
