@@ -31,6 +31,7 @@ Students will learn topics in middle school math competitions such as AMC8 and M
 ### Teachers
 
 * Evan Zhang (USAJMO qualifier)
+* Albert Lu (USAJMO winner)
 
 ### Textbook 
 [Competition Math for Middle School](https://artofproblemsolving.com/store/book/competition-math)
