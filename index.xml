@@ -7,8 +7,22 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Magnificent Math Club, 2021</copyright>
-    <lastBuildDate>Fri, 26 May 2023 11:19:00 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 11:11:00 -0400</lastBuildDate>
     <atom:link href="https://magnificent-math-club.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algebra</title>
+      <link>https://magnificent-math-club.github.io/course/course-1/</link>
+      <pubDate>Sat, 01 Jun 2024 11:11:00 -0400</pubDate>
+      <guid>https://magnificent-math-club.github.io/course/course-1/</guid>
+      <description>Students will learn about linear equations, quadratic equations, and factoring simple quadratics.</description>
+    </item>
+    <item>
+      <title>Seminar</title>
+      <link>https://magnificent-math-club.github.io/course/course-11/</link>
+      <pubDate>Sat, 01 Jun 2024 11:11:00 -0400</pubDate>
+      <guid>https://magnificent-math-club.github.io/course/course-11/</guid>
+      <description>What is a &amp;ldquo;30 percent chance of rain&amp;rdquo;? How about when a coin lands heads &amp;ldquo;half the time&amp;rdquo;?</description>
+    </item>
     <item>
       <title>Intermediate Algebra</title>
       <link>https://magnificent-math-club.github.io/course/course-5/</link>
@@ -31,24 +45,10 @@
       <description>Students will learn topics in middle school math competitions such as AMC8 and MATHCOUNTS.</description>
     </item>
     <item>
-      <title>Algebra</title>
-      <link>https://magnificent-math-club.github.io/course/course-1/</link>
-      <pubDate>Fri, 26 May 2023 11:11:00 -0400</pubDate>
-      <guid>https://magnificent-math-club.github.io/course/course-1/</guid>
-      <description>Students will learn about linear equations, quadratic equations, and factoring simple quadratics.</description>
-    </item>
-    <item>
       <title>Beast Academy Grade 5</title>
       <link>https://magnificent-math-club.github.io/course/course-8/</link>
       <pubDate>Fri, 26 May 2023 11:11:00 -0400</pubDate>
       <guid>https://magnificent-math-club.github.io/course/course-8/</guid>
-      <description>Students will learn about solids, integers, equations, statistics, factors, fractions, sequences, ratios, decimals, percents, square roots, and exponents.</description>
-    </item>
-    <item>
-      <title>Seminar</title>
-      <link>https://magnificent-math-club.github.io/course/course-11/</link>
-      <pubDate>Fri, 26 May 2023 11:11:00 -0400</pubDate>
-      <guid>https://magnificent-math-club.github.io/course/course-11/</guid>
       <description>Students will learn about solids, integers, equations, statistics, factors, fractions, sequences, ratios, decimals, percents, square roots, and exponents.</description>
     </item>
     <item>
