@@ -1,7 +1,7 @@
 ---
 id: 7
 title: "Competition Math"
-date: 2024-05-26T11:18:00-04:00
+date: 2024-05-27T11:18:00-04:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
@@ -40,7 +40,7 @@ Students will learn topics in middle school math competitions such as AMC8 and M
 
 Jun 15 - Jul 9 2024
 
-Tue and Sat 7-8 PM (ET) for 4 weeks 
+Tue and Sat 7-8 PM (ET) twice a week for 4 weeks 
 
 |Week   |Date    | Teacher   | Topics
 |-------|--------|-----------|--------------
