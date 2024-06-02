@@ -1,5 +1,5 @@
 ---
-title: "⭐️ Albert Lu"
+title: "✨ Albert Lu"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
