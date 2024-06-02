@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.png"
 # meta description
 description : ""
 # teacher portrait
-image: "images/teachers/mirabelle-li-2024.jpg"
+image: "images/teachers/mirabelle-li-2024.png"
 # course
 course: "Pre-Algebra"
 # biography
