@@ -1,7 +1,7 @@
 ---
 id: 6
 title: "Intermediate Algebra"
-date: 2023-05-26T11:19:00-04:00
+date: 2024-05-26T11:19:00-04:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
@@ -35,28 +35,28 @@ Students will learn about the complex numbers and how to solve quadratics and po
 ### Teachers
 
 * Albert Lu (USAJMO winner)
-* Brandon Zhang (AIME qualifier)
-* Charlotte Li (MATHCOUNTS state qualifier)
+* Brandon Zhang (USAMO qualifier)
+* Elaine Xu (AIME qualifier)
 
 ### Textbook 
 [Intermediate Algebra](https://artofproblemsolving.com/store/book/intermediate-algebra)
 
 ### Weekly Schedule
 
-Jun 18 - Aug 13, 2023
+Jun 29 - Aug 17, 2024
 
-Sun 4-5 PM (ET) for 8 weeks (No class on Jul 2).
+Sat 8-9 PM (ET) for 8 weeks.
 
-|Week   |Date    | Teacher   | Topics
-|-------|--------|-----------|--------------
-|1      |6/18    | Albert    | Review of Equation and Function
-|2      |6/25    | Albert    | Complex Numbers
-|3      |7/9     | Albert    | Quadratics I
-|4      |7/16    | Charlotte | Quadratics II
-|5      |7/23    | Brandon   | Polynomial Division
-|6      |7/30    | Brandon   | Polynomial Roots I
-|7      |8/6     | Brandon   | Polynomial Roots II
-|8      |8/13    | Brandon   | Factoring Multivariable Polynomial
+|Week   |Date    | Teacher             | Topics
+|-------|--------|---------------------|--------------
+|1      |6/29    | Brandon             | Review of Equation and Function
+|2      |7/6     | Brandon             | Complex Numbers
+|3      |7/13    | Brandon             | Quadratics I
+|4      |7/20    | Brandon             | Quadratics II
+|5      |7/27    | Albert and Elaine   | Polynomial Division
+|6      |8/3     | Albert and Elaine   | Polynomial Roots I
+|7      |8/10    | Albert and Elaine   | Polynomial Roots II
+|8      |8/17    | Albert and Elaine   | Factoring Multivariable Polynomial
 
 
 ### Prerequisites

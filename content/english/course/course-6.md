@@ -1,7 +1,7 @@
 ---
 id: 7
 title: "Competition Math"
-date: 2023-05-26T11:18:00-04:00
+date: 2024-05-26T11:18:00-04:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
@@ -17,7 +17,7 @@ teachers:
 # duration
 duration : "8 Weeks"
 # weekly
-weekly : "1 hour"
+weekly : "2 hours"
 # course fee
 fee : "$0"
 # apply url
@@ -30,7 +30,6 @@ Students will learn topics in middle school math competitions such as AMC8 and M
 
 ### Teachers
 
-* Jason Youm (AIME qualifier, MATHCOUNTS national top 50, USAPHO Honorable Mention Semi-finalist)
 * Evan Zhang (USAJMO qualifier)
 
 ### Textbook 
@@ -38,20 +37,20 @@ Students will learn topics in middle school math competitions such as AMC8 and M
 
 ### Weekly Schedule
 
-Jun 17 - Aug 12 2023
+Jun 15 - Jul 9 2024
 
-Sat 3-4 PM (ET) for 8 weeks (No class on Jul 1).
+Tue and Sat 7-8 PM (ET) for 4 weeks 
 
 |Week   |Date    | Teacher   | Topics
 |-------|--------|-----------|--------------
-|1      |6/17    | Jason     | Systems of Equations, Polynomials
-|2      |6/24    | Jason     | Exponents, Sequences/Series
-|3      |7/8     | Evan      | GCD, LCM
-|4      |7/15    | Evan      | Bases, Modular Arithmetic
-|5      |7/22    | Jason     | Angles, Triangle Congruence and Similarity
-|6      |7/29    | Jason     | Pythagorean Theorem, Circles
-|7      |8/5     | Evan      | Counting, Permutations and Combinations
-|8      |8/12    | Evan      | Stars and Bars, Probability
+|1      |6/15    | Evan      | Systems of Equations, Polynomials
+|2      |6/18    | Evan      | Exponents, Sequences/Series
+|3      |6/22    | Evan      | GCD, LCM
+|4      |6/25    | Evan      | Bases, Modular Arithmetic
+|5      |6/29    | Evan      | Angles, Triangle Congruence and Similarity
+|6      |7/2     | Evan      | Pythagorean Theorem, Circles
+|7      |7/6     | Evan      | Counting, Permutations and Combinations
+|8      |7/9     | Evan      | Stars and Bars, Probability
 
 
 ### Prerequisites

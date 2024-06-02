@@ -1,7 +1,7 @@
 ---
 id: 1
 title: "Beast Academy Grade 5"
-date: 2023-05-26T11:11:00-04:00
+date: 2024-05-26T11:11:00-04:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
@@ -38,24 +38,24 @@ Beast Academy Level 5 by Art of Problem Solving.
 
 ### Weekly Schedule
 
-Jun 19 - Aug 3, 2023
+Jun 16 - Jul 28, 2024
 
-Mon and Thu 6-7 PM (ET), twice a week (No class on Jul 3 and Jul 6).
+Sun and Wed 4-5 PM (ET), twice a week (No class on Jul 3).
 
 |Session|Date  | Teacher|Topics
 |-------|------|--------|------------------------------------------------------
-|1      |6/19  | Eric   | 3D solids
-|2      |6/22  | Eric   | Integers
-|3      |6/26  | Eric   | Expressions and Equations
-|4      |6/29  | Eric   | Statistics
-|5      |7/10  | Vivian | Factors and Multiples
-|6      |7/13  | Vivian | Fractions
-|7      |7/17  | Vivian | Sequences
-|8      |7/20  | Vivian | Ratios and rates
-|9      |7/24  | Vivian | Decimals
-|10     |7/27  | Vivian | Percents
-|11     |7/31  | Vivian | Square Roots
-|12     |8/3   | Vivian | Exponents
+|1      |6/16  | Vivian | 3D solids
+|2      |6/19  | Eric   | Integers
+|3      |6/23  | Vivian | Expressions and Equations
+|4      |6/26  | Eric   | Statistics
+|5      |6/30  | Vivian | Factors and Multiples
+|6      |7/7   | Vivian | Fractions
+|7      |7/10  | Eric   | Sequences
+|8      |7/14  | Vivian | Ratios and rates
+|9      |7/17  | Eric   | Decimals
+|10     |7/21  | Vivian | Percents
+|11     |7/24  | Eric   | Square Roots
+|12     |7/28  | Vivian | Exponents
 
 ### Prerequisites
 
