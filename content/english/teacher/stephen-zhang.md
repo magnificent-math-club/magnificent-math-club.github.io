@@ -8,7 +8,7 @@ description : ""
 # teacher portrait
 image: "images/teachers/stephen-zhang.jpg"
 # course
-course: "previous teacher"
+course: ""
 # biography
 bio: "Rising Junior, AIME and MATHCOUNTS state qualifier, Math Kangaroo national rank #1."
 # interest

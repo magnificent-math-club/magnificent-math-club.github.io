@@ -8,7 +8,7 @@ description : ""
 # teacher portrait
 image: "images/teachers/brandon-zhang-2024.jpg"
 # course
-course: "Intermediate Algebra"
+course: "Algebra and Intermediate Algebra"
 # biography
 bio: "Rising senior at Stuyvesant High School in New York City. USAMO qualifier."
 # interest
