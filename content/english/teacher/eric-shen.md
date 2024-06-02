@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.png"
 # meta description
 description : ""
 # teacher portrait
-image: "images/teachers/eric-shen.jpg"
+image: "images/teachers/eric-shen-2024.jpg"
 # course
 course: "Beast Academy Grade 5"
 # biography
