@@ -34,7 +34,7 @@ Students will learn about fractions, exponents and square roots, prime factoriza
 
 * Charlotte Li (MATHCOUNTS state qualifier)
 * Bill Qian (MATHCOUNTS national qualifier; AIME qualifier)
-* Mirabelle Li (TA)
+* Mirabelle Li (TA) (AMC8 Achievement Roll)
 
 ### Textbook 
 [Prealgebra by Art of Problem Solving](https://artofproblemsolving.com/store/item/prealgebra).
