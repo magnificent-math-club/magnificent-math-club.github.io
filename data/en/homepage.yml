@@ -13,6 +13,15 @@ slider:
         enable : false
         label : "Register Now"
         link : "https://forms.gle/sqG1GRbDJv3GEyxN7"
+    - title : "Magnificent Summer Math Programs (2024)"
+      content : "We are a group of math-lovers who have enjoyed the beauty of math and competed in math competitions. We want to offer some opportunities for kids to practice math during summer break. This will be our 5th year."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : false
+        label : "Register Now"
+        link : "https://forms.gle/sqG1GRbDJv3GEyxN7"
 
 #    # slider item loop
 #    - title : "Your bright future is our mission"
