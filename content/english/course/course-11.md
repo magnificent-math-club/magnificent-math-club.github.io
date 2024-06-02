@@ -16,7 +16,7 @@ category: "Math"
 teachers:
   - "✨ Jason Youm"
 # duration
-duration : "one time"
+duration : "One time"
 # weekly
 weekly: "N/A"
 # course fee
