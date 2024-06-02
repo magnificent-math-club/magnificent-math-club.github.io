@@ -8,9 +8,9 @@ description : ""
 # teacher portrait
 image: "images/teachers/brandon-zhang.jpg"
 # course
-course: "Geometry II and Intermediate Algebra"
+course: "Intermediate Algebra"
 # biography
-bio: "I am Brandon Zhang. I am a rising sophomore at Stuyvesant High School in New York City. I have qualified for AIME and MATHCOUNTS state. I am delighted to teach Geometry II and Intermediate Algebra this summer."
+bio: "Rising senior at Stuyvesant High School in New York City. USAMO qualifier."
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info

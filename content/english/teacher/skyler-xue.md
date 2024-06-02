@@ -10,7 +10,23 @@ image: "images/teachers/skyler-xue-2023.jpg"
 # course
 course: "Geometry I"
 # biography
-bio: "Skyler Xue is a student from the Science, Mathematics, Computer Science Magnet Program at Montgomery Blair High School with a passion for mathematics. He has qualified for the AIME multiple times since 6th grade."
+bio: "Skyler Xue is a rising junior in the Science, Mathematics, and Computer Science Magnet
+Program at Montgomery Blair High School. He has received numerous honors in STEM
+competitions and has conducted research in Quantum Physics, Biochemistry, and Public
+Health. As a SIMIS International Scholarship winner, he was invited to attend the 2024 Yau
+Mathcamp, a rigorous program for mathematically talented and motivated high schoolers to
+explore creative problem-solving and engage in research projects. Additionally, he has been
+selected for the 2024 Brin Maryland Mathematics Camp. Beyond academics and research,
+Skyler actively volunteers for STEM education, traffic safety, and youth health initiatives,
+dedicating over 500 hours to community service. In his free time, he enjoys singing,
+reading, cooking, and playing chess.
+
+
+Accomplishments: 4x AIME qualifier, 2x USABO Open Exam Honorable Mention, USACO
+Silver Division, 4x ACSL Finalist, 3x President&#39;s Volunteer Service Award - Gold,
+MATHCOUNTS State top 10, Grand Honors and Study of Exceptional Talent (SET)
+Member of the Johns Hopkins Center for Talented Youth"
+
 
 # accomplishments
 #accomplishments:

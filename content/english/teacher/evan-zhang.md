@@ -10,7 +10,7 @@ image: "images/teachers/evan-zhang-2023.jpg"
 # course
 course: "Competition Math"
 # biography
-bio: "Hi, I'm Evan and I'm a rising sophomore at Montgomery Blair high school. I enjoy learning math, physics, and earth and space science, as well as reading. I like sharing problem solving strategies and how to approach challenging math problems.
+bio: "Hi, I'm Evan and I'm a rising junior at Montgomery Blair high school. I enjoy learning math, physics, and earth and space science, as well as reading. I like sharing problem solving strategies and how to approach challenging math problems.
 
 
 Accomplishments: USAJMO qualifier, UMD Math Competition honorable mention, Science Bowl Regionals 2nd place and Ignis East top 12."
