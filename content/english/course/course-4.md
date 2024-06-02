@@ -13,8 +13,8 @@ image: "images/courses/course-pre-alg.png"
 category: "Math"
 # teacher
 teachers:
-  - "⭐️ Bill Qian"
-  - "⭐️ Charlotte Li"
+  - "✨ Bill Qian"
+  - "✨ Charlotte Li"
   - "⭐️ Mirabelle Li (TA)"
 # duration
 duration : "8 Weeks"

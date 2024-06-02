@@ -14,9 +14,9 @@ image: "images/courses/course-int-alg.jpg"
 category: "Math"
 # teacher
 teachers:
-  - "⭐️ Albert Lu"
-  - "⭐️ Brandon Zhang"
-  - "⭐️ Elaine Xu"
+  - "✨ Albert Lu"
+  - "✨ Brandon Zhang"
+  - "✨ Elaine Xu"
 # duration
 duration : "8 Weeks"
 # weekly

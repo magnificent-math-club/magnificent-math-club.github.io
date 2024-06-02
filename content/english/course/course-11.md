@@ -14,7 +14,7 @@ image: "images/courses/course-beast-acad-6-2023.jpg"
 category: "Math"
 # teacher
 teachers:
-  - "⭐️ Jason Youm"
+  - "✨ Jason Youm"
 # duration
 duration : ""
 # weekly

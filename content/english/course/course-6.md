@@ -13,7 +13,7 @@ image: "images/courses/course-competition-math.jpg"
 category: "Math"
 # teacher
 teachers:
-  - "⭐️ Evan Zhang"
+  - "✨ Evan Zhang"
 # duration
 duration : "8 Weeks"
 # weekly
