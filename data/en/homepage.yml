@@ -1,6 +1,6 @@
 ################################# Slider #####################################
 slider:
-  enable : false
+  enable : true
   bg_image : "images/geo-shape.png"
   slider_item:
     # slider item loop
