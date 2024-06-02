@@ -8,7 +8,7 @@ description : ""
 # teacher portrait
 image: "images/teachers/lucas-chen-2023.jpg"
 # course
-course: ""
+course: "previous teacher"
 # biography
 bio: "13 years old, attends Ridgely Middle School, does archery, part of the Chess and Cubing Club at my school. Started using Scratch at 9 years old, I've made over 30 games on Scratch, I've shared my games on Youtube."
 
