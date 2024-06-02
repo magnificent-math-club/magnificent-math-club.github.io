@@ -63,7 +63,7 @@ Sun and Wed 4-5 PM (ET), twice a week (No class on Jul 3).
 
 ### How to Apply
 
-Please sign up [here](https://forms.gle/aBzjbyJBFg1CieVC8).
+Please sign up [here](https://forms.gle/sqG1GRbDJv3GEyxN7).
 
 ### Fees
 

@@ -23,7 +23,6 @@ weekly : "1 hour"
 # course fee
 fee : "$0"
 # apply url
-# apply_url : "https://docs.google.com/forms/d/e/1FAIpQLScJhbrpmT4D7bmmWS-SxtIcm6NyngImbRl7m6QWbmQjjixZag/viewform"
 # type
 type: "course"
 ---
@@ -63,7 +62,7 @@ Sat 1-2 PM (ET) for 8 weeks.
 
 ### How to Apply
 
-Please sign up [here](https://forms.gle/aBzjbyJBFg1CieVC8).
+Please sign up [here](https://forms.gle/sqG1GRbDJv3GEyxN7).
 
 ### Fees
 

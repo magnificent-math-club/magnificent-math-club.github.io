@@ -37,7 +37,7 @@ Wed 7-8 PM (ET) Jun 19, 2024
 
 ### How to Apply
 
-Please sign up [here](https://forms.gle/aBzjbyJBFg1CieVC8).
+Please sign up [here](https://forms.gle/sqG1GRbDJv3GEyxN7).
 
 ### Fees
 

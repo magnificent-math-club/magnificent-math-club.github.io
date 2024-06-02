@@ -57,7 +57,7 @@ Sun and Thu 8-9 PM (ET) twice a week for 4 weeks (No class on Jul 4)
 
 ### How to Apply
 
-Please sign up [here](https://forms.gle/aBzjbyJBFg1CieVC8).
+Please sign up [here](https://forms.gle/sqG1GRbDJv3GEyxN7).
 
 ### Fees
 
