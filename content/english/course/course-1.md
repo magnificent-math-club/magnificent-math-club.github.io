@@ -13,8 +13,8 @@ image: "images/courses/course-algebra.png"
 category: "Math"
 # teacher
 teachers:
-  - "Ivy Guo"
-  - "Olivia Guo"
+  - "⭐️ Brandon Zhang"
+  - "⭐️ Bill Qian"
 # duration
 duration : "8 Weeks"
 # weekly

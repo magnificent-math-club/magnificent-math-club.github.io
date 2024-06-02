@@ -13,7 +13,7 @@ image: "images/courses/course-geo-i.png"
 category: "Math"
 # teacher
 teachers:
-  - "Skyler Xue"
+  - "⭐️ Skyler Xue"
 # duration
 duration : "8 Weeks"
 # weekly

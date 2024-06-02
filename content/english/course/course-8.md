@@ -14,8 +14,8 @@ image: "images/courses/course-beast-acad-6-2023.jpg"
 category: "Math"
 # teacher
 teachers:
-  - "Eric Shen"
-  - "Vivian Shen"
+  - "⭐️ Eric Shen"
+  - "⭐️ Vivian Shen"
 # duration
 duration : "6 Weeks"
 # weekly
