@@ -4,8 +4,9 @@
     <title>Tags on Magnificent Math Club</title>
     <link>https://magnificent-math-club.github.io/tags/</link>
     <description>Recent content in Tags on Magnificent Math Club</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>Magnificent Math Club, 2021</copyright><atom:link href="https://magnificent-math-club.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Magnificent Math Club, 2021</copyright>
+    <atom:link href="https://magnificent-math-club.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
