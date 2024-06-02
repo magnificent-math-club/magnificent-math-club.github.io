@@ -1,6 +1,6 @@
 ---
 id: 11
-title: "Seminar"
+title: "Probability and Fun (Seminar)"
 date: 2024-06-01T11:11:00-04:00
 draft: false
 # page title background image
@@ -24,9 +24,6 @@ fee : "$0"
 # type
 type: "course"
 ---
-
-Seminar Title: Probability and Fun
-
 
 What is a "30 percent chance of rain"? How about when a coin lands heads "half the time"? This action-packed seminar dives into the basics of probability in many fun contexts, from cards to video games to basketball!
 
