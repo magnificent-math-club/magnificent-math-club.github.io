@@ -31,7 +31,7 @@ Students will learn about solids, integers, equations, statistics, factors, frac
 ### Teachers
 
 * Eric Shen (AIME qualifier)
-* Vivian Shen (AIME qualifier).
+* Vivian Shen (USAJMO qualifier).
 
 ### Textbook 
 Beast Academy Level 5 by Art of Problem Solving.
