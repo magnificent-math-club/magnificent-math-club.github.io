@@ -18,7 +18,7 @@ teachers:
 # duration
 duration : ""
 # weekly
-weekly: ""
+weekly: "N/A (one time seminar)"
 # course fee
 fee : "$0"
 # type

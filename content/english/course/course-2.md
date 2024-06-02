@@ -1,6 +1,6 @@
 ---
 id: 4
-title: "Geometry I (Triangles)"
+title: "Geometry"
 date: 2024-05-26T11:06:00-04:00
 draft: false
 # page title background image
