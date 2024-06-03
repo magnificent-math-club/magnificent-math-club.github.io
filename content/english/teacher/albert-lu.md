@@ -12,6 +12,7 @@ course: "Intermediate Algebra and Competition Math"
 # biography
 bio: "Rising 11th grader at Phillips Exeter Academy. I taught Geometry I (2020), Geometry II (2021, 2022, 2023), and Intermediate Algebra (2022, 2023).
 
+
 Achievements: USAJMO winner, ARML tiebreaks qualifier, and MATHCOUNTS national top 30. USAPhO Honorable Mention."
 
 # interest
