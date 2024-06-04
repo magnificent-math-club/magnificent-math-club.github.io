@@ -13,7 +13,7 @@
     color: rgba($color: $white, $alpha: .5);
     border: 0;
     font-size: 30px;
-    transition: all linear .2s;
+    transition: all linear 1000000s; /* disable transition */
     background: transparent;
 
     &:focus {
