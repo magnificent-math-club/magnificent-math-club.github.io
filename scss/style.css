@@ -571,8 +571,7 @@ link:focus,
   color: rgba(255, 255, 255, 0.5);
   border: 0;
   font-size: 30px;
-  transition: all linear 1000000s;
-  /* disable transition */
+  transition: all linear .2s;
   background: transparent; }
   .hero-slider .prevArrow:focus,
   .hero-slider .nextArrow:focus {
