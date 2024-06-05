@@ -1,6 +1,6 @@
 ---
 id: 8
-title: "A lightning class in Scratch"
+title: "A Lightning Class in Scratch"
 date: 2023-05-26T11:11:00-04:00
 draft: false
 # page title background image
