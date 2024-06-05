@@ -11,58 +11,58 @@
     <atom:link href="https://magnificent-math-club.github.io/course/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Algebra</title>
-      <link>https://magnificent-math-club.github.io/course/algebra/</link>
+      <link>https://magnificent-math-club.github.io/course/course-1/</link>
       <pubDate>Sat, 01 Jun 2024 11:11:00 -0400</pubDate>
-      <guid>https://magnificent-math-club.github.io/course/algebra/</guid>
+      <guid>https://magnificent-math-club.github.io/course/course-1/</guid>
       <description>Students will learn about linear equations, quadratic equations, and factoring simple quadratics.</description>
     </item>
     <item>
       <title>Probability and Fun (Seminar)</title>
-      <link>https://magnificent-math-club.github.io/course/probability-seminar/</link>
+      <link>https://magnificent-math-club.github.io/course/course-11/</link>
       <pubDate>Sat, 01 Jun 2024 11:11:00 -0400</pubDate>
-      <guid>https://magnificent-math-club.github.io/course/probability-seminar/</guid>
+      <guid>https://magnificent-math-club.github.io/course/course-11/</guid>
       <description>What is a &amp;ldquo;30 percent chance of rain&amp;rdquo;? How about when a coin lands heads &amp;ldquo;half the time&amp;rdquo;?</description>
     </item>
     <item>
       <title>Competition Math</title>
-      <link>https://magnificent-math-club.github.io/course/comp-math/</link>
+      <link>https://magnificent-math-club.github.io/course/course-6/</link>
       <pubDate>Mon, 27 May 2024 11:18:00 -0400</pubDate>
-      <guid>https://magnificent-math-club.github.io/course/comp-math/</guid>
+      <guid>https://magnificent-math-club.github.io/course/course-6/</guid>
       <description>Students will learn topics in middle school math competitions such as AMC8 and MATHCOUNTS.</description>
     </item>
     <item>
       <title>Intermediate Algebra</title>
-      <link>https://magnificent-math-club.github.io/course/int-alg/</link>
+      <link>https://magnificent-math-club.github.io/course/course-5/</link>
       <pubDate>Sun, 26 May 2024 11:19:00 -0400</pubDate>
-      <guid>https://magnificent-math-club.github.io/course/int-alg/</guid>
+      <guid>https://magnificent-math-club.github.io/course/course-5/</guid>
       <description>Students will learn about the complex numbers and how to solve quadratics and polynomials.</description>
     </item>
     <item>
       <title> Pre-Algebra</title>
-      <link>https://magnificent-math-club.github.io/course/pre-alg/</link>
+      <link>https://magnificent-math-club.github.io/course/course-4/</link>
       <pubDate>Sun, 26 May 2024 11:18:00 -0400</pubDate>
-      <guid>https://magnificent-math-club.github.io/course/pre-alg/</guid>
+      <guid>https://magnificent-math-club.github.io/course/course-4/</guid>
       <description>Students will learn about fractions, exponents and square roots, prime factorization, divisibility tests, and linear equations and inequalities.</description>
     </item>
     <item>
       <title>Beast Academy Grade 5</title>
-      <link>https://magnificent-math-club.github.io/course/beast-acad/</link>
+      <link>https://magnificent-math-club.github.io/course/course-8/</link>
       <pubDate>Sun, 26 May 2024 11:11:00 -0400</pubDate>
-      <guid>https://magnificent-math-club.github.io/course/beast-acad/</guid>
+      <guid>https://magnificent-math-club.github.io/course/course-8/</guid>
       <description>Students will learn about solids, integers, equations, statistics, factors, fractions, sequences, ratios, decimals, percents, square roots, and exponents.</description>
     </item>
     <item>
       <title>Geometry</title>
-      <link>https://magnificent-math-club.github.io/course/geo/</link>
+      <link>https://magnificent-math-club.github.io/course/course-2/</link>
       <pubDate>Sun, 26 May 2024 11:06:00 -0400</pubDate>
-      <guid>https://magnificent-math-club.github.io/course/geo/</guid>
+      <guid>https://magnificent-math-club.github.io/course/course-2/</guid>
       <description>Students will learn about congruency, similarity, special points of triangle, and Heron’s formula.</description>
     </item>
     <item>
       <title>A Lightning Course in Scratch</title>
-      <link>https://magnificent-math-club.github.io/course/scratch/</link>
+      <link>https://magnificent-math-club.github.io/course/course-9/</link>
       <pubDate>Fri, 26 May 2023 11:11:00 -0400</pubDate>
-      <guid>https://magnificent-math-club.github.io/course/scratch/</guid>
+      <guid>https://magnificent-math-club.github.io/course/course-9/</guid>
       <description>Students will achieve a basic understanding of Scratch features and have fun along the way.</description>
     </item>
   </channel>
