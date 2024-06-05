@@ -8,7 +8,7 @@ description : ""
 # teacher portrait
 image: "images/teachers/albert-lu-2024.jpg"
 # course
-course: "Intermediate Algebra and Competition Math"
+course: "Intermediate Algebra"
 # biography
 bio: "Rising 11th grader at Phillips Exeter Academy. Taught Geometry I (2020), Geometry II (2021, 2022, 2023), and Intermediate Algebra (2022, 2023).
 
