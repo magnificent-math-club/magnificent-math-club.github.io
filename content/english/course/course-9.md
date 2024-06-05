@@ -15,7 +15,7 @@ image: "images/courses/course-scratch-2023.jpg"
 category: "CS"
 # teacher
 teachers:
-  - "Lucas Chen"
+  - "✨ Lucas Chen"
 # duration
 duration : "One time"
 # weekly
