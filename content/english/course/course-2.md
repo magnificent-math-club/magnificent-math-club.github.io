@@ -42,7 +42,7 @@ Sun and Thu 8-9 PM (ET) twice a week for 4 weeks (No class on Jul 4)
 
 |Week | Date   |  Teacher   |  Topics
 |-----|--------|------------|----------
-|1    | 6/17   |  Skyler    |  Line and angle: definition and properties, perimeter & area
+|1    | 6/16   |  Skyler    |  Line and angle: definition and properties, perimeter & area
 |2    | 6/20   |  Skyler    |  Congruent triangles: SSS and SAS congruence
 |3    | 6/23   |  Skyler    |  Congruent triangles: ASA and AAS congruence and isosceles and equilateral triangles
 |4    | 6/27   |  Skyler    |  Similar triangles: AA similarity
