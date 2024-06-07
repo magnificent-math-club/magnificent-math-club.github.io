@@ -143,10 +143,15 @@ name = "teachers"
 url = "teacher"
 weight = 3
 
+#[[Languages.en.menu.main]]
+#name = "past years"
+#url = "history"
+#weight = 4
+
 [[Languages.en.menu.main]]
 name = "sign up (via Google form)"
 url = "https://forms.gle/sqG1GRbDJv3GEyxN7"
-weight = 4
+weight = 5
 
 
 #[[Languages.en.menu.main]]
@@ -183,7 +188,7 @@ weight = 4
 #name = "blog"
 #url = "blog"
 #weight = 4
-  
+
 #[[Languages.en.menu.main]]
 #name = "Contact"
 #url = "contact"
