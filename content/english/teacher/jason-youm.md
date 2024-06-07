@@ -10,7 +10,8 @@ image: "images/teachers/jason-youm-2023.jpg"
 # course
 course: "Probability and Fun (Seminar)"
 # biography
-bio: "I'm Jason Youm, a rising senior attending the Montgomery Blair High School math and science magnet program. AIME qualifier since seventh grade, MATHCOUNTS national top 50. Taught prealgebra in 2021, number theory in 2022, competition math in 2023, and 'Probability and Fun' seminar in 2024."
+bio: "I'm Jason Youm, a rising senior attending the Montgomery Blair High School math and science magnet program. Taught prealgebra in 2021, number theory in 2022, competition math in 2023, and 'Probability and Fun' seminar in 2024."
+accomplishments: ["AIME qualifier since seventh grade", "MATHCOUNTS national top 50"]
 
 Accomplishment: 4x AIME qualifier, MATHCOUNTS national top 50, USAPHO honorable mention semi-finalist."
 # interest

@@ -10,7 +10,8 @@ image: "images/teachers/brandon-zhang-2024.jpg"
 # course
 course: "Algebra and Intermediate Algebra"
 # biography
-bio: "Rising senior at Stuyvesant High School in New York City. USAMO qualifier."
+bio: "Rising senior at Stuyvesant High School in New York City."
+accomplishments: ["USAMO qualifier"]
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info
