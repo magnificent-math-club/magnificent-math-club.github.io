@@ -10,8 +10,7 @@ image: "images/teachers/charlotte-li.jpg"
 # course
 course: "Pre-Algebra"
 # biography
-bio: ""
-accomplishments: ["MATHCOUNTS state qualifier"]
+bio: "MATHCOUNTS state qualifier"
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info
