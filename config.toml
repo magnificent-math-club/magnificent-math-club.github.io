@@ -143,10 +143,10 @@ name = "teachers"
 url = "teacher"
 weight = 3
 
-[[Languages.en.menu.main]]
-name = "club founders"
-url = "founder"
-weight = 4
+# [[Languages.en.menu.main]]
+# name = "club founders"
+# url = "founder"
+# weight = 4
 
 #[[Languages.en.menu.main]]
 #name = "past years"
