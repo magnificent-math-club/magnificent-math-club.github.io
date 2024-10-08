@@ -67,6 +67,12 @@
 - id: teachers
   translation: teachers
 
+- id: founder
+  translation: founder
+
+- id: founders
+  translation: founders
+
 - id: location
   translation: location
 
@@ -119,6 +125,10 @@
 
 - id: our_teachers
   translation: Our Teachers
+
+- id: our_founders
+  translation: Our Founders
+
 
 - id: download
   translation: Download
