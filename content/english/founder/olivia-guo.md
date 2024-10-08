@@ -7,8 +7,8 @@ bg_image: "images/backgrounds/page-title.png"
 description : ""
 # teacher portrait
 image: "images/teachers/olivia-guo.jpg"
-# fake course
-course: "Club Founder"
+# course
+course: "previous teacher"
 # biography
 bio: "My name is Olivia Guo and I am a Junior at Montgomery Blair High School this fall. I've qualified for AIME since 7th grade. I've had experience teaching elementary schoolers through MOEMS. I'm excited to teach this class!"
 # interest

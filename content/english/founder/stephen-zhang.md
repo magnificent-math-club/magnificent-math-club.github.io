@@ -7,8 +7,8 @@ bg_image: "images/backgrounds/page-title.png"
 description : ""
 # teacher portrait
 image: "images/teachers/stephen-zhang.jpg"
-# fake course
-course: "Club Founder"
+# course
+course: "previous teacher"
 # biography
 bio: "Rising Junior, AIME and MATHCOUNTS state qualifier, Math Kangaroo national rank #1."
 # interest

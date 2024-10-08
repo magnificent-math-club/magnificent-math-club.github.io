@@ -1,16 +1,18 @@
 ---
-title: "✨ Brandon Zhang"
+title: "✨ Elaine Xu"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
 # meta description
 description : ""
 # teacher portrait
-image: "images/teachers/brandon-zhang-2024.jpg"
+image: "images/teachers/elaine-xu-2024.jpg"
 # course
-course: "Algebra and Intermediate Algebra"
+course: "Intermediate Algebra"
 # biography
-bio: "Rising senior at Stuyvesant High School in New York City. USAMO qualifier."
+bio: "Hi, I'm Elaine, a rising sophomore at the Harker School in California. I enjoy learning about math, computer science, and artificial intelligence. I also love reading and playing card games."
+accomplishments: ["qualifying for AIME multiple times", "Distinguished Honor Roll on the AMC 8"]
+
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info

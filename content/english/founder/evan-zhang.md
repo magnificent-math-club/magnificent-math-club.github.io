@@ -1,5 +1,5 @@
 ---
-title: "Evan Zhang"
+title: "✨ Evan Zhang"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
@@ -7,8 +7,8 @@ bg_image: "images/backgrounds/page-title.png"
 description : ""
 # teacher portrait
 image: "images/teachers/evan-zhang-2024.jpg"
-# fake course
-course: "Club Founder"
+# course
+course: "Competition Math"
 # biography
 bio: "Hi, I'm Evan and I'm a rising junior at Montgomery Blair high school. I enjoy learning math, physics, and earth and space science, as well as reading. I like sharing problem solving strategies and how to approach challenging math problems."
 accomplishments: ["USAJMO qualifier", "National Science Bowl top 6"]

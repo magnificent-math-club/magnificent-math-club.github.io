@@ -1,5 +1,5 @@
 ---
-title: "Vivian Shen"
+title: "✨ Vivian Shen"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
@@ -7,8 +7,8 @@ bg_image: "images/backgrounds/page-title.png"
 description : ""
 # teacher portrait
 image: "images/teachers/vivian-shen.jpg"
-# fake course
-course: "Club Founder"
+# course
+course: "Beast Academy Grade 5"
 # biography
 bio: "Rising Junior"
 accomplishments: ["USAJMO qualifier", "AIME qualifier", "New Jersey MATHCOUNTS state qualifier", "AMC 8 Distinguished Honor Roll", "D. E. Shaw Certificate of Excellence", "National Science Bowl New Jersey State 3rd place"]

@@ -1,5 +1,5 @@
 ---
-title: "Charlotte Li"
+title: "✨ Charlotte Li"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
@@ -7,8 +7,8 @@ bg_image: "images/backgrounds/page-title.png"
 description : ""
 # teacher portrait
 image: "images/teachers/charlotte-li.jpg"
-# fake course
-course: "Club Founder"
+# course
+course: "Pre-Algebra"
 # biography
 bio: "MATHCOUNTS state qualifier"
 # interest

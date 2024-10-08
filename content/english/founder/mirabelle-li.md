@@ -1,16 +1,17 @@
 ---
-title: "✨ Brandon Zhang"
+title: "⭐️ Mirabelle Li (TA)"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
 # meta description
 description : ""
 # teacher portrait
-image: "images/teachers/brandon-zhang-2024.jpg"
+image: "images/teachers/mirabelle-li-2024.png"
 # course
-course: "Algebra and Intermediate Algebra"
+course: "Pre-Algebra"
 # biography
-bio: "Rising senior at Stuyvesant High School in New York City. USAMO qualifier."
+bio: "Mirabelle Li is a rising 6th grader in Cabin John Middle school. She loves reading all sorts of reading material and all sorts of origami and crafts. She received CERTIFICATE OF ACHIEVEMENT for students in grade 6 or below for outstanding performance on AMC8 in both 2023 and 2024.  In addition, her elementary school math team recently won 3rd place at DMV Math Tournament 2024, hosted by Rosa Lee Carter Elementary School in Virginia."
+
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info

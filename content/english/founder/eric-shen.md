@@ -1,5 +1,5 @@
 ---
-title: "Eric Shen"
+title: "✨ Eric Shen"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
@@ -7,8 +7,8 @@ bg_image: "images/backgrounds/page-title.png"
 description : ""
 # teacher portrait
 image: "images/teachers/eric-shen-2024.jpg"
-# fake course
-course: "Club Founder"
+# course
+course: "Beast Academy Grade 5"
 # biography
 bio: "My name is Eric Shen and I am a rising senior. I have qualified for AIME and MATHCOUNTS state. In addition to math, I also teach robotic programming."
 # interest

@@ -1,5 +1,5 @@
 ---
-title: "Bill Qian"
+title: "✨ Bill Qian"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
@@ -7,8 +7,8 @@ bg_image: "images/backgrounds/page-title.png"
 description : ""
 # teacher portrait
 image: "images/teachers/bill-qian.jpg"
-# fake course
-course: "Club Founder"
+# course
+course: "Pre-Algebra and Algebra"
 # biography
 bio: "Rising 10th grader at Montgomery Blair High School Magnet Program."
 accomplishments: ["AIME qualifier", "MATHCOUNTS national qualifier in 2023", "Distinguished Honor Roll on AMC8 in 2022 and 2023"]
