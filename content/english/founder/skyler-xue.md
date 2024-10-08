@@ -7,6 +7,8 @@ bg_image: "images/backgrounds/page-title.png"
 description : ""
 # teacher portrait
 image: "images/teachers/skyler-xue-2024.jpg"
+# fake course
+course: "Club Founder"
 # biography
 bio: "Skyler Xue is a rising junior in the Science, Mathematics, and Computer Science Magnet
 Program at Montgomery Blair High School. He has received numerous honors in STEM

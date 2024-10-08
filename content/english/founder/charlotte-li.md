@@ -7,6 +7,8 @@ bg_image: "images/backgrounds/page-title.png"
 description : ""
 # teacher portrait
 image: "images/teachers/charlotte-li.jpg"
+# fake course
+course: "Club Founder"
 # biography
 bio: "MATHCOUNTS state qualifier"
 # interest

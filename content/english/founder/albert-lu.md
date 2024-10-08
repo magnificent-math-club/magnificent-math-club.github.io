@@ -7,6 +7,8 @@ bg_image: "images/backgrounds/page-title.png"
 description : ""
 # teacher portrait
 image: "images/teachers/albert-lu-2024.jpg"
+# fake course
+course: "Club Founder"
 # biography
 bio: "Rising 11th grader at Phillips Exeter Academy.  USAJMO winner, ARML National tiebreaker qualifier, MATHCOUNTS National top 30, and USAPhO Honorable Mention. 
 

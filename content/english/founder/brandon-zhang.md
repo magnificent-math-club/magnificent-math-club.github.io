@@ -7,6 +7,8 @@ bg_image: "images/backgrounds/page-title.png"
 description : ""
 # teacher portrait
 image: "images/teachers/brandon-zhang-2024.jpg"
+# fake course
+course: "Club Founder"
 # biography
 bio: "Rising senior at Stuyvesant High School in New York City. USAMO qualifier."
 # interest

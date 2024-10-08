@@ -7,6 +7,8 @@ bg_image: "images/backgrounds/page-title.png"
 description : ""
 # teacher portrait
 image: "images/teachers/ivy-guo.jpg"
+# fake course
+course: "Club Founder"
 # biography
 bio: "USAJMO honorable mention in 2022 and 2023. AIME qualifier since 7th grade. I taught Algebra in 2021 and 2022, and Python in 2022. I'm excited to teach this Algebra class this summer!"
 # interest
