@@ -26,8 +26,11 @@ read COMMIT_MSG
 
 STEP='git pull' && $STEP && \
   STEP='git add .'  && $STEP && \
-  STEP='git commit' && git commit -m "$COMMIT_MSG" && \
-  STEP='bash _scripts/publish_toghpages.sh' && $STEP && \
+  STEP='git commit' && git commit -m "$COMMIT_MSG" 
+
+echo "Press ENTER to continue to publish, or press Ctrl-C to abort"
+read x
+STEP='bash _scripts/publish_toghpages.sh' && $STEP && \
   STEP='git push origin gh-pages' && $STEP && \
   STEP='git push origin master' && $STEP && \
   STEP='Done' && echo -e '\nPleas wait for 1 minute and then refresh https://magnificent-math-club.github.io/\nStatus: SUCCESS.\n'
