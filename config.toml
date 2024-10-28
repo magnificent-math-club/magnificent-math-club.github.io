@@ -128,10 +128,10 @@ home = "Home"
 ################### English navigation ####################
 
 # main menu
-#[[Languages.en.menu.main]]
-#name = "About"
-#url = "about"
-#weight = 1
+[[Languages.en.menu.main]]
+name = "About"
+url = "about"
+weight = 1
 
 [[Languages.en.menu.main]]
 name = "courses"
@@ -143,10 +143,10 @@ name = "teachers"
 url = "teacher"
 weight = 3
 
-# [[Languages.en.menu.main]]
-# name = "club founders"
-# url = "founder"
-# weight = 4
+#[[Languages.en.menu.main]]
+#name = "About"
+#url = "about"
+#weight = 4
 
 #[[Languages.en.menu.main]]
 #name = "past years"
