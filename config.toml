@@ -119,11 +119,11 @@ languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
-home = "Home"
 # copyright
 copyright = "Magnificent Math Club, 2021"
 
-
+[Languages.en.params]
+home = "Home"
 
 ################### English navigation ####################
 
