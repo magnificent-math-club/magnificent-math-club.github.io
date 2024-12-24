@@ -11,7 +11,7 @@ description : ""
 
 ## About Magnificent Math Club
 
-Our club was founded in 2020 by a group of students who would love sharing their passion for math. In every summer from 2020 to 2024, we offered math courses to middle schoolers.
+Our club was founded in 2020 by a group of students who would love sharing their passion for math. In every summer from 2020 to 2024, we offered free online math courses to middle schoolers.
 
 Here's a list of the club founders (click the names to see their page):
 
