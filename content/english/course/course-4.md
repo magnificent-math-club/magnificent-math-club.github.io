@@ -48,13 +48,13 @@ Mon and Thu 7-8 PM (ET) for 4 weeks.
 
 |Session |Date    | Teacher          | Topics
 |--------|--------|------------------|--------------
-|1       |06/23   | Bill/Skyler      | Negation, reciprocals, divisibility, and prime factorization
+|1       |06/23   | Bill/Mirabelle   | Negation, reciprocals, divisibility, and prime factorization
 |2       |06/26   | Albert/Mirabelle | Exponents (I)
-|3       |06/30   | Bill/Skyler      | Exponents (II)
+|3       |06/30   | Bill/Mirabelle   | Exponents (II)
 |4       |07/03   | Albert/Mirabelle | LCM and GCD
-|5       |07/07   | Bill/Skyler      | Fractions
+|5       |07/07   | Skyler/Mirabelle | Fractions
 |6       |07/10   | Albert/Mirabelle | Decimals
-|7       |07/14   | Bill/Skyler      | Linear equations
+|7       |07/14   | Skyler/Mirabelle | Linear equations
 |8       |07/17   | Albert/Mirabelle | Inequalities and ratios
 
 ### Prerequisites
