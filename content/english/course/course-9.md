@@ -26,7 +26,7 @@ fee : "$0"
 type: "course"
 ---
 
-Students will achieve a basic understanding of Scratch features and have fun along the way. {{< youtube o2Y-o3dqzEU >}}
+Students will achieve a basic understanding of Scratch features and have fun along the way. 
 
 ### Teachers
 
