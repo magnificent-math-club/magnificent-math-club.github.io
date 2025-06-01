@@ -19,10 +19,10 @@
       </div>
     </div>
     <!-- teacher list -->
-    <div class="row filtr-container">
+    <div id="teacherGridContainer" class="row filtr-container">
       <!-- teacher -->
-      {{ range .Data.Pages.ByWeight }}
-      <div data-category="{{ .Params.Course | urlize }}" class="col-lg-4 col-sm-6">
+      {{ range $index, $teacher := .Data.Pages.ByWeight }}
+      <div data-category="{{ .Params.Course | urlize }}" class="col-lg-4 col-sm-6 filtr-item" style="--item-index: {{ $index }};">
         {{ .Render "teacher" }}
       </div>
       {{ end }}
@@ -31,4 +31,15 @@
 </section>
 <!-- /teachers -->
 
+{{ end }}
+
+{{ define "footer_js" }}
+{{ with resources.Get "js/filterizr-init.js" }}
+  {{ if hugo.IsProduction }}
+    {{ $js := .Minify | .Fingerprint "sha256" }}
+    <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}"></script>
+  {{ else }}
+    <script src="{{ .RelPermalink }}"></script>
+  {{ end }}
+{{ end }}
 {{ end }}
