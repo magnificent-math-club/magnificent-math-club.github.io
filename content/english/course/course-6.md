@@ -55,7 +55,7 @@ Wed and Sat 7-8 pm (ET), twice a week.
 
 ### Prerequisites
 
-* Algebra
+* Pre-Algebra
 
 ### How to Apply
 
