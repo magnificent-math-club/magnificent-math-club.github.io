@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.png"
 # meta description
 description : ""
 # teacher portrait
-image: "images/teachers/bill-qian.jpg"
+image: "images/teachers/bill-qian-2025.jpg"
 # course
 course: "Pre-Algebra and Algebra"
 # biography
