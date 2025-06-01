@@ -40,16 +40,16 @@ Jul 28 - Aug 21, 2025
 
 Mon and Thu 6-7 PM (ET), twice a week.
 
-|Session|Date      | Teacher|Topics
-|-------|----------|--------|------------------------------------------------------
-|1      |7/28 (Mo) | Vivian | 3D solids
-|2      |7/31 (Th) | Vivian | Integers
-|3      |8/04 (Mo) | Vivian | Expressions and Equations
-|4      |8/07 (Th) | Vivian | Statistics
-|5      |8/11 (Mo) | Vivian | Factors and Multiples
-|6      |8/14 (Th) | Vivian | Fractions
-|7      |8/18 (Mo) | Vivian | Sequences
-|8      |8/21 (Th) | Vivian | Ratios and rates
+|Session|Date  | Teacher | Topics
+|-------|------|---------|------------------------------------------------------
+|1      |7/28  | Vivian  | 3D solids
+|2      |7/31  | Vivian  | Integers
+|3      |8/04  | Vivian  | Expressions and Equations
+|4      |8/07  | Vivian  | Statistics
+|5      |8/11  | Vivian  | Factors and Multiples
+|6      |8/14  | Vivian  | Fractions
+|7      |8/18  | Vivian  | Sequences
+|8      |8/21  | Vivian  | Ratios and rates
 
 ### Prerequisites
 
