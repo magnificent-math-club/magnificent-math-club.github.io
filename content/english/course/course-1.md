@@ -1,7 +1,7 @@
 ---
 id: 3
 title: "Algebra"
-date: 2024-06-01T11:11:00-04:00
+date: 2025-06-01T00:00:00-04:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
@@ -13,7 +13,6 @@ image: "images/courses/course-algebra.png"
 category: "Math"
 # teacher
 teachers:
-  - "✨ Brandon Zhang"
   - "✨ Bill Qian"
 # duration
 duration : "8 Weeks"
@@ -29,28 +28,27 @@ Students will learn about linear equations, quadratic equations, and factoring s
 
 ### Teachers
 
-* Bill Qian (MATHCOUNTS national qualifier, AIME qualifier) 
-* Brandon Zhang (USAMO qualifier)
+* Bill Qian (MATHCOUNTS national qualifier, USAJMO qualifier) 
 
 ### Textbook 
 [Introduction to Algebra by Art of Problem Solving](https://artofproblemsolving.com/store/item/intro-algebra).
 
 ### Weekly Schedule
 
-Jun 29 - Aug 17, 2024
+Jun 17 - Jul 11, 2025
 
-Sat 4-5 pm (ET), once a week.
+Tue and Fri 7-8 pm (ET), twice a week.
 
-|Session|Date  | Teacher |Topics
-|-------|------|---------|------------------------------------------------------
-|1      |6/29  | Brandon |Introduction to variables, simplifying one-variable expressions, introduction to one variable linear equations
-|2      |7/6   | Brandon |More linear equations and linear inequalities
-|3      |7/13  | Brandon |System of linear equations, symmetry if time
-|4      |7/20  | Brandon |Graphing linear equations and inequalities
-|5      |7/27  | Bill    |Find equation of a line from graph
-|6      |8/3   | Bill    |Radicals and exponents, previous material with radicals and exponents
-|7      |8/10  | Bill    |Distributions and factoring linear expressions
-|8      |8/17  | Bill    |Factoring simple quadratics, FOIL
+|Session|Date   | Teacher |Topics
+|-------|-------|---------|------------------------------------------------------
+|1      |06/17  | Bill    |Introduction to variables, simplifying one-variable expressions, introduction to one variable linear equations
+|2      |06/20  | Bill    |More linear equations and linear inequalities
+|3      |06/24  | Bill    |System of linear equations, symmetry if time
+|4      |06/27  | Bill    |Graphing linear equations and inequalities
+|5      |07/01  | Bill    |Find equation of a line from graph
+|6      |07/04  | Bill    |Radicals and exponents, previous material with radicals and exponents
+|7      |07/08  | Bill    |Distributions and factoring linear expressions
+|8      |07/11  | Bill    |Factoring simple quadratics, FOIL
 
 ### Prerequisites
 
