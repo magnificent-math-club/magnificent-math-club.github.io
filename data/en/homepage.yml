@@ -5,7 +5,7 @@ slider:
   slider_item:
     # slider item loop
     - title : "Magnificent Summer Math Programs (2025)"
-      content : "We are a group of math-lovers who have enjoyed the beauty of math and competed in math competitions. We want to offer some opportunities for kids to practice math during summer break. This will be our 5th year."
+      content : "We are a group of math-lovers who have enjoyed the beauty of math and competed in math competitions. We want to offer some opportunities for kids to practice math during summer break. This will be our 6th year."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
