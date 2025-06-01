@@ -3,9 +3,12 @@
 <!-- teachers -->
 <section class="section">
   <div class="container">
+    <!--
     <div class="row">
       <div class="col-12">
+    -->
         <!-- teacher category list -->
+    <!--
         <ul class="list-inline text-center filter-controls mb-5">
           <li class="list-inline-item m-3 text-uppercase active" data-filter="all">{{ i18n "all" }}</li>
           {{ $categories := slice }}
@@ -18,11 +21,12 @@
         </ul>
       </div>
     </div>
+    -->
     <!-- teacher list -->
     <div id="teacherGridContainer" class="row filtr-container">
       <!-- teacher -->
       {{ range $index, $teacher := .Data.Pages.ByWeight }}
-      <div data-category="{{ .Params.Course | urlize }}" class="col-lg-4 col-sm-6 filtr-item" style="--item-index: {{ $index }};">
+      <div data-category="{{ .Params.Course | urlize }}" class="col-lg-4 col-sm-6" style="--item-index: {{ $index }};">
         {{ .Render "teacher" }}
       </div>
       {{ end }}
