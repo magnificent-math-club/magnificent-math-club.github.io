@@ -57,7 +57,7 @@ Wed and Sat 8-9 PM (ET) twice a week for 4 weeks.
 
 ### How to Apply
 
-Please sign up [here](https://forms.gle/sqG1GRbDJv3GEyxN7).
+Please sign up [here](https://forms.gle/7zqSWiNLTpQmP1C26).
 
 ### Fees
 
