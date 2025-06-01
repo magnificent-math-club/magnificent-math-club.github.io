@@ -13,7 +13,7 @@ course: "Pre-Algebra and Intermediate Algebra"
 bio: "Rising senior at Phillips Exeter Academy.  USAJMO winner, ARML National tiebreaker qualifier, MATHCOUNTS National top 30, and USAPhO Honorable Mention. 
 
 
-Taught Geometry I (2020), Geometry II (2021, 2022, 2023), and Intermediate Algebra (2022, 2023)."
+Taught Geometry I (2020), Geometry II (2021, 2022, 2023), and Intermediate Algebra (2022, 2023, 2024)."
 
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]

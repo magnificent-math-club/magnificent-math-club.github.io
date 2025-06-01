@@ -11,7 +11,7 @@ image: "images/teachers/evan-zhang-2024.jpg"
 course: "Competition Math"
 # biography
 bio: "Hi, I'm Evan and I'm a rising senior at Montgomery Blair high school. I enjoy learning math, physics, and earth and space science, as well as reading. I like sharing problem solving strategies and how to approach challenging math problems."
-accomplishments: ["USAJMO qualifier", "National Science Bowl top 6"]
+accomplishments: ["USAJMO qualifier", "National Science Bowl Champion (2025)"]
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info
