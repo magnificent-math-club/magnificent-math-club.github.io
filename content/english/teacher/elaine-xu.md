@@ -8,7 +8,7 @@ description : ""
 # teacher portrait
 image: "images/teachers/elaine-xu-2024.jpg"
 # course
-course: "Introduction to Number Theory"
+course: "Intro to Number Theory"
 # biography
 bio: "Hi, I'm Elaine, a rising junior at the Harker School in California. I enjoy learning about math, computer science, and artificial intelligence. I also love reading and playing card games."
 accomplishments: ["qualifying for AIME multiple times", "Distinguished Honor Roll on the AMC 8"]

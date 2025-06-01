@@ -1,6 +1,6 @@
 ---
 id: 5
-title: "Introduction to Number Theory"
+title: "Intro to Number Theory"
 date: 2025-06-01T00:00:00-04:00
 draft: false
 # page title background image
