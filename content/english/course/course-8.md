@@ -15,7 +15,7 @@ category: "8 Sessions"
 # teacher
 teachers:
   - "✨ Vivian Shen"
-  - "✨ Adelaide Li"
+  - "✨ Li, Adelaide"
 # duration
 duration : "4 Weeks"
 # weekly
