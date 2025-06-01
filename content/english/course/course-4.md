@@ -13,7 +13,10 @@ image: "images/courses/course-pre-alg.png"
 category: "Math"
 # teacher
 teachers:
+  - "✨ Albert Lu"
+  - "✨ Bill Qian"
   - "✨ Mirabelle Li"
+  - "✨ Skyler Xue"
 # duration
 duration : "4 Weeks"
 # weekly
@@ -29,7 +32,10 @@ Students will learn about fractions, exponents and square roots, prime factoriza
 
 ### Teachers
 
+* Albert Lu (USAJMO winner)
+* Bill Qian (MATHCOUNTS national qualifier, USAJMO qualifier) 
 * Mirabelle Li (AMC8 Achievement Roll)
+* Skyler Xue (AIME qualifier)
 
 ### Textbook 
 [Prealgebra by Art of Problem Solving](https://artofproblemsolving.com/store/item/prealgebra).
@@ -40,16 +46,16 @@ Jun 23 - Jul 17, 2025
 
 Mon and Thu 7-8 PM (ET) for 4 weeks.
 
-|Session |Date    | Teacher   | Topics
-|--------|--------|-----------|--------------
-|1       |06/23   | Mirabelle | Negation, reciprocals, divisibility, and prime factorization
-|2       |06/26   | Mirabelle | Exponents (I)
-|3       |06/30   | Mirabelle | Exponents (II)
-|4       |07/03   | Mirabelle | LCM and GCD
-|5       |07/07   | Mirabelle | Fractions
-|6       |07/10   | Mirabelle | Decimals
-|7       |07/14   | Mirabelle | Linear equations
-|8       |07/17   | Mirabelle | Inequalities and ratios
+|Session |Date    | Teacher          | Topics
+|--------|--------|------------------|--------------
+|1       |06/23   | Bill/Skyler      | Negation, reciprocals, divisibility, and prime factorization
+|2       |06/26   | Albert/Mirabelle | Exponents (I)
+|3       |06/30   | Bill/Skyler      | Exponents (II)
+|4       |07/03   | Albert/Mirabelle | LCM and GCD
+|5       |07/07   | Bill/Skyler      | Fractions
+|6       |07/10   | Albert/Mirabelle | Decimals
+|7       |07/14   | Bill/Skyler      | Linear equations
+|8       |07/17   | Albert/Mirabelle | Inequalities and ratios
 
 ### Prerequisites
 
