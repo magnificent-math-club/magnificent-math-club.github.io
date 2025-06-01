@@ -56,7 +56,7 @@ Time: TBA for 4 weeks.
 
 ### How to Apply
 
-Please register via this [form](https://forms.gle/vqCWoodbqgfKHmjs5).
+Please sign up [here](https://forms.gle/sqG1GRbDJv3GEyxN7).
 
 ### Fees
 
