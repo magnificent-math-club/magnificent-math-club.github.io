@@ -8,7 +8,7 @@ description : ""
 # teacher portrait
 image: "images/teachers/bill-qian.jpg"
 # course
-course: "Algebra"
+course: "Pre-Algebra and Algebra"
 # biography
 bio: "Rising junior at Montgomery Blair High School Magnet Program."
 accomplishments: ["USAJMO qualifier", "AIME qualifier", "MATHCOUNTS national qualifier in 2023", "Distinguished Honor Roll on AMC8 in 2022 and 2023"]

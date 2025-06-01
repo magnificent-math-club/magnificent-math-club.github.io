@@ -8,7 +8,7 @@ description : ""
 # teacher portrait
 image: "images/teachers/albert-lu-2024.jpg"
 # course
-course: "Intermediate Algebra"
+course: "Pre-Algebra and Intermediate Algebra"
 # biography
 bio: "Rising senior at Phillips Exeter Academy.  USAJMO winner, ARML National tiebreaker qualifier, MATHCOUNTS National top 30, and USAPhO Honorable Mention. 
 
