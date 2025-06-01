@@ -1,5 +1,5 @@
 ---
-title: "✨ Brandon Zhang"
+title: "Brandon Zhang"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
@@ -8,7 +8,7 @@ description : ""
 # teacher portrait
 image: "images/teachers/brandon-zhang-2024.jpg"
 # course
-course: "Algebra and Intermediate Algebra"
+course: "previous teacher"
 # biography
 bio: "Rising senior at Stuyvesant High School in New York City. USAMO qualifier."
 # interest

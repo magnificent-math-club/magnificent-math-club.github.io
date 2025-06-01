@@ -10,7 +10,7 @@ image: "images/teachers/skyler-xue-2024.jpg"
 # course
 course: "Geometry"
 # biography
-bio: "Skyler Xue is a rising junior in the Science, Mathematics, and Computer Science Magnet
+bio: "Skyler Xue is a rising senior in the Science, Mathematics, and Computer Science Magnet
 Program at Montgomery Blair High School. He has received numerous honors in STEM
 competitions and has conducted research in Quantum Physics, Biochemistry, and Public
 Health. As a SIMIS International Scholarship winner, he was invited to attend the 2024 Yau

@@ -10,7 +10,7 @@ image: "images/teachers/vivian-shen.jpg"
 # course
 course: "Beast Academy Grade 5"
 # biography
-bio: "Rising Junior"
+bio: "Rising Senior"
 accomplishments: ["USAJMO qualifier", "AIME qualifier", "New Jersey MATHCOUNTS state qualifier", "AMC 8 Distinguished Honor Roll", "D. E. Shaw Certificate of Excellence", "National Science Bowl New Jersey State 3rd place"]
 
 # interest
