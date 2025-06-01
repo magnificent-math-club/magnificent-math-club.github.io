@@ -29,7 +29,7 @@ Students will learn about number theory including primes, base arithmetic, and m
 
 ### Teachers
 
-* Elaine Xu (AIME qualier)
+* Elaine Xu (AIME qualifier)
 
 ### Textbook 
 [Introduction to Number Theory Art of Problem Solving](https://artofproblemsolving.com/store/book/intro-number-theory)
