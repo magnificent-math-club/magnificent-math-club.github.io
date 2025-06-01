@@ -10,7 +10,7 @@ image: "images/teachers/lucas-chen-2023.jpg"
 # course
 course: "A Course in Scratch"
 # biography
-bio: "13 years old, attends Ridgely Middle School, does archery, part of the Chess and Cubing Club at my school. Started using Scratch at 9 years old, I've made over 30 games on Scratch, I've shared my games on Youtube."
+bio: "15 years old, attends Eastern Technical High School, does archery, part of the chess, robotics, and D&D clubs at my school. Started using Scratch at 9 years old, I've made over 30 games on Scratch, and I've shared my games on Youtube."
 
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]

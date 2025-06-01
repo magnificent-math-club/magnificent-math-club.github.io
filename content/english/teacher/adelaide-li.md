@@ -1,17 +1,19 @@
 ---
-title: "✨ Bill Qian"
+title: "✨ Adelaide Li"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
 # meta description
 description : ""
 # teacher portrait
-image: "images/teachers/bill-qian.jpg"
+image: ""
 # course
-course: "Pre-Algebra and Algebra"
+course: "Beast Academy Grade 5"
 # biography
-bio: "Rising junior at Montgomery Blair High School Magnet Program."
-achievements: ["USAJMO qualifier", "AIME qualifier", "MATHCOUNTS national qualifier in 2023", "Distinguished Honor Roll on AMC8 in 2022 and 2023"]
+bio: "Adelaide Li is a rising sophomore at Ridge High School. She enjoys learning and teaching math, coding, and space science."
+
+achievements: ["3rd place in Stevens Math Olympiad", "RidgeHacks 2025 Winner"]
+
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info

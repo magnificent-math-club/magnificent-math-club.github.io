@@ -20,7 +20,7 @@ selected for the 2024 Brin Maryland Mathematics Camp. Beyond academics and resea
 Skyler actively volunteers for STEM education, traffic safety, and youth health initiatives,
 dedicating over 500 hours to community service. In his free time, he enjoys singing,
 reading, cooking, and playing chess."
-accomplishments: ["4x AIME qualifier", "2x USABO Open Exam Honorable Mention", "USACO Silver Division", "4x ACSL Finalist", "3x President's Volunteer Service Award - Gold", "MATHCOUNTS State top 10", "Grand Honors and Study of Exceptional Talent (SET)", "Member of the Johns Hopkins Center for Talented Youth"]
+achievements: ["4x AIME qualifier", "2x USABO Open Exam Honorable Mention", "USACO Silver Division", "4x ACSL Finalist", "3x President's Volunteer Service Award - Gold", "MATHCOUNTS State top 10", "Grand Honors and Study of Exceptional Talent (SET)", "Member of the Johns Hopkins Center for Talented Youth"]
 
 
 # accomplishments

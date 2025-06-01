@@ -37,20 +37,20 @@ https://bootuppd.org/scratch/
 
 ### Weekly Schedule
 
-Jul 8 - Jul 31, 2025
+Jul 22 - Aug 14, 2025
 
 Tue and Thu 4-5 PM (ET) for 4 weeks.
 
 |Session |Date    | Teacher   | Topics
 |--------|--------|-----------|--------------
-|1       |07/08   | Lucas     | TBA
-|2       |07/10   | Lucas     | TBA
-|3       |07/15   | Lucas     | TBA
-|4       |07/17   | Lucas     | TBA
-|5       |07/22   | Lucas     | TBA
-|6       |07/24   | Lucas     | TBA
-|7       |07/29   | Lucas     | TBA
-|8       |07/31   | Lucas     | TBA
+|1       |07/22   | Lucas     | TBA
+|2       |07/24   | Lucas     | TBA
+|3       |07/29   | Lucas     | TBA
+|4       |07/31   | Lucas     | TBA
+|5       |08/05   | Lucas     | TBA
+|6       |08/07   | Lucas     | TBA
+|7       |08/12   | Lucas     | TBA
+|8       |08/14   | Lucas     | TBA
 
 ### Prerequisites
 
