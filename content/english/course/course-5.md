@@ -38,7 +38,7 @@ Students will learn about the complex numbers and how to solve quadratics and po
 
 ### Weekly Schedule
 
-Jun 15 - Jul 9, 2025
+Jun 15 - Jul 10, 2025
 
 Sun and Thu 8-9 PM (ET) for 4 weeks.
 
