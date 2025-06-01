@@ -1,6 +1,7 @@
 ---
-title: "✨ Li, Adelaide"
+title: "✨ Adelaide Li"
 draft: false
+weight: 10
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
 # meta description
