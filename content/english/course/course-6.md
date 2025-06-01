@@ -36,18 +36,21 @@ Students will learn about number theory including primes, base arithmetic, and m
 
 ### Weekly Schedule
 
-Time: TBA for 4 weeks.
+Jun 18 - Jul 12, 2025
 
-|Week   |Date    | Teacher   | Topics
-|-------|--------|-----------|--------------
-|1      |TBA   | Elaine    | Integers, primes, and divisibility rules
-|2      |TBA   | Elaine    | Multiples and divisors
-|3      |TBA   | Elaine    | Prime factorization
-|4      |TBA   | Elaine    | Divisor problems and special numbers
-|5      |TBA   | Elaine    | Bases and introduce base arithmetic
-|6      |TBA   | Elaine    | Finish bases arithmetic and units digits
-|7      |TBA   | Elaine    | Decimals and fractions
-|8      |TBA   | Elaine    | Modular arithmetic
+Wed and Sat 7-8 pm (ET), twice a week.
+
+
+|Week   |Date   | Teacher   | Topics
+|-------|-------|-----------|--------------
+|1      |06/18  | Elaine    | Integers, primes, and divisibility rules
+|2      |06/21  | Elaine    | Multiples and divisors
+|3      |06/25  | Elaine    | Prime factorization
+|4      |06/28  | Elaine    | Divisor problems and special numbers
+|5      |07/02  | Elaine    | Bases and introduce base arithmetic
+|6      |07/05  | Elaine    | Finish bases arithmetic and units digits
+|7      |07/09  | Elaine    | Decimals and fractions
+|8      |07/12  | Elaine    | Modular arithmetic
 
 
 ### Prerequisites
