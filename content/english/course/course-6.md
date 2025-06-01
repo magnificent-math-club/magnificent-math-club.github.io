@@ -1,7 +1,7 @@
 ---
 id: 7
 title: "Competition Math"
-date: 2024-05-27T11:18:00-04:00
+date: 2025-05-27T11:18:00-04:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
@@ -15,7 +15,7 @@ category: "Math"
 teachers:
   - "✨ Evan Zhang"
 # duration
-duration : "8 Weeks"
+duration : "4 Weeks"
 # weekly
 weekly : "2 hours"
 # course fee
@@ -36,20 +36,21 @@ Students will learn topics in middle school math competitions such as AMC8 and M
 
 ### Weekly Schedule
 
-Jun 15 - Jul 9 2024
+Jul 7 - Jul 31, 2025
 
-Tue and Sat 7-8 PM (ET) twice a week for 4 weeks 
+Mon and Thu 7-8 PM (ET) twice a week for 4 weeks 
 
-|Week   |Date    | Teacher   | Topics
-|-------|--------|-----------|--------------
-|1      |6/15    | Evan      | Systems of Equations, Polynomials
-|2      |6/18    | Evan      | Exponents, Sequences/Series
-|3      |6/22    | Evan      | GCD, LCM
-|4      |6/25    | Evan      | Bases, Modular Arithmetic
-|5      |6/29    | Evan      | Angles, Triangle Congruence and Similarity
-|6      |7/2     | Evan      | Pythagorean Theorem, Circles
-|7      |7/6     | Evan      | Counting, Permutations and Combinations
-|8      |7/9     | Albert    | Stars and Bars, Probability
+|Session |Date    | Teacher   | Topics
+|--------|--------|-----------|--------------
+|1       |07/07   | Evan      | Systems of Equations, Polynomials
+|2       |07/10   | Evan      | Exponents, Sequences/Series
+|3       |07/14   | Evan      | GCD, LCM
+|4       |07/17   | Evan      | Bases, Modular Arithmetic
+|5       |07/21   | Evan      | Angles, Triangle Congruence and Similarity
+|6       |07/24   | Evan      | Pythagorean Theorem, Circles
+|7       |07/28   | Evan      | Counting, Permutations and Combinations
+|8       |07/31   | Evan      | Stars and Bars, Probability
+
 
 
 ### Prerequisites

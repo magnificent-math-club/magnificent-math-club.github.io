@@ -15,6 +15,7 @@ category: "Math"
 # teacher
 teachers:
   - "✨ Vivian Shen"
+  - "✨ Adelaide Li"
 # duration
 duration : "4 Weeks"
 # weekly
@@ -30,6 +31,7 @@ Students will learn about solids, integers, equations, statistics, factors, frac
 ### Teachers
 
 * Vivian Shen (USAJMO qualifier).
+* Adelaide Li
 
 ### Textbook 
 Beast Academy Level 5 by Art of Problem Solving.
@@ -42,14 +44,14 @@ Mon and Thu 6-7 PM (ET), twice a week.
 
 |Session|Date  | Teacher | Topics
 |-------|------|---------|------------------------------------------------------
-|1      |7/28  | Vivian  | 3D solids
-|2      |7/31  | Vivian  | Integers
-|3      |8/04  | Vivian  | Expressions and Equations
-|4      |8/07  | Vivian  | Statistics
-|5      |8/11  | Vivian  | Factors and Multiples
-|6      |8/14  | Vivian  | Fractions
-|7      |8/18  | Vivian  | Sequences
-|8      |8/21  | Vivian  | Ratios and rates
+|1      |7/28  | Vivian/Adelaide  | 3D solids
+|2      |7/31  | Vivian/Adelaide  | Integers
+|3      |8/04  | Vivian/Adelaide  | Expressions and Equations
+|4      |8/07  | Vivian/Adelaide  | Statistics
+|5      |8/11  | Vivian/Adelaide  | Factors and Multiples
+|6      |8/14  | Vivian/Adelaide  | Fractions
+|7      |8/18  | Vivian/Adelaide  | Sequences
+|8      |8/21  | Vivian/Adelaide  | Ratios and rates
 
 ### Prerequisites
 

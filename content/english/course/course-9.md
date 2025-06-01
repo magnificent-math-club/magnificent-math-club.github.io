@@ -1,6 +1,6 @@
 ---
 id: 8
-title: "A Lightning Course in Scratch"
+title: "A Course in Scratch"
 date: 2023-05-26T11:11:00-04:00
 draft: false
 # page title background image
@@ -17,9 +17,9 @@ category: "CS"
 teachers:
   - "✨ Lucas Chen"
 # duration
-duration : "One time"
+duration : "4 weeks"
 # weekly
-weekly: "N/A"
+weekly: "2 hours"
 # course fee
 fee : "$0"
 # type
@@ -35,9 +35,22 @@ Lucas Chen
 ### Textbook 
 https://bootuppd.org/scratch/
 
-### Time
+### Weekly Schedule
 
-Wednesday Aug 14, 2024, 7PM ET (~2 hours)
+Jul 8 - Jul 31, 2025
+
+Tue and Thu 4-5 PM (ET) for 4 weeks.
+
+|Session |Date    | Teacher   | Topics
+|--------|--------|-----------|--------------
+|1       |07/08   | Lucas     | TBA
+|2       |07/10   | Lucas     | TBA
+|3       |07/15   | Lucas     | TBA
+|4       |07/17   | Lucas     | TBA
+|5       |07/22   | Lucas     | TBA
+|6       |07/24   | Lucas     | TBA
+|7       |07/29   | Lucas     | TBA
+|8       |07/31   | Lucas     | TBA
 
 ### Prerequisites
 

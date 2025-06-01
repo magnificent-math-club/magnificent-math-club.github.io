@@ -15,9 +15,9 @@ category: "Math"
 teachers:
   - "✨ Bill Qian"
 # duration
-duration : "8 Weeks"
+duration : "4 Weeks"
 # weekly
-weekly: "1 hour"
+weekly: "2 hour"
 # course fee
 fee : "$0"
 # type

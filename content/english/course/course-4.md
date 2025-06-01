@@ -1,7 +1,7 @@
 ---
 id: 2
 title: " Pre-Algebra"
-date: 2024-05-26T11:18:00-04:00
+date: 2025-05-26T11:18:00-04:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
@@ -13,13 +13,11 @@ image: "images/courses/course-pre-alg.png"
 category: "Math"
 # teacher
 teachers:
-  - "✨ Bill Qian"
-  - "✨ Charlotte Li"
-  - "⭐️ Mirabelle Li (TA)"
+  - "✨ Mirabelle Li"
 # duration
-duration : "8 Weeks"
+duration : "4 Weeks"
 # weekly
-weekly : "1 hour"
+weekly : "2 hour"
 # course fee
 fee : "$0"
 # apply url
@@ -31,30 +29,27 @@ Students will learn about fractions, exponents and square roots, prime factoriza
 
 ### Teachers
 
-* Charlotte Li (MATHCOUNTS state qualifier)
-* Bill Qian (MATHCOUNTS national qualifier; AIME qualifier)
-* Mirabelle Li (TA) (AMC8 Achievement Roll)
+* Mirabelle Li (AMC8 Achievement Roll)
 
 ### Textbook 
 [Prealgebra by Art of Problem Solving](https://artofproblemsolving.com/store/item/prealgebra).
 
 ### Weekly Schedule
 
-Jun 29 - Aug 17, 2024
+Jun 23 - Jul 17, 2025
 
-Sat 1-2 PM (ET) for 8 weeks.
+Mon and Thu 7-8 PM (ET) for 4 weeks.
 
-|Week   |Date    | Teacher   | Topics
-|-------|--------|-----------|--------------
-|1      |6/29    | Charlotte | Negation, reciprocals, divisibility, and prime factorization
-|2      |7/6     | Charlotte | Exponents (I)
-|3      |7/13    | Charlotte | Exponents (II)
-|4      |7/20    | Charlotte | LCM and GCD
-|5      |7/27    | Bill      | Fractions
-|6      |8/3     | Bill      | Decimals
-|7      |8/10    | Bill      | Linear equations
-|8      |8/17    | Bill      | Inequalities and ratios
-
+|Session |Date    | Teacher   | Topics
+|--------|--------|-----------|--------------
+|1       |06/23   | Mirabelle | Negation, reciprocals, divisibility, and prime factorization
+|2       |06/26   | Mirabelle | Exponents (I)
+|3       |06/30   | Mirabelle | Exponents (II)
+|4       |07/03   | Mirabelle | LCM and GCD
+|5       |07/07   | Mirabelle | Fractions
+|6       |07/10   | Mirabelle | Decimals
+|7       |07/14   | Mirabelle | Linear equations
+|8       |07/17   | Mirabelle | Inequalities and ratios
 
 ### Prerequisites
 
