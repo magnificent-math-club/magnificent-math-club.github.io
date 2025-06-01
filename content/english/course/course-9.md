@@ -12,7 +12,7 @@ description : "Scratch is a coding website that uses blocks to make stories, gam
 # course thumbnail
 image: "images/courses/course-scratch-2023.jpg"
 # taxonomy
-category: "CS"
+category: "8 Sessions"
 # teacher
 teachers:
   - "✨ Lucas Chen"

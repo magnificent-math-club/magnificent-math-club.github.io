@@ -10,7 +10,7 @@ description : "Students will learn topics in middle school math competitions suc
 # course thumbnail
 image: "images/courses/course-competition-math.jpg"
 # taxonomy
-category: "Math"
+category: "8 Sessions"
 # teacher
 teachers:
   - "✨ Evan Zhang"

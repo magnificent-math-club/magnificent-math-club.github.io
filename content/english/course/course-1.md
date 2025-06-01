@@ -10,7 +10,7 @@ description : "Students will learn about linear equations, quadratic equations, 
 # course thumbnail
 image: "images/courses/course-algebra.png"
 # taxonomy
-category: "Math"
+category: "8 Sessions"
 # teacher
 teachers:
   - "✨ Bill Qian"

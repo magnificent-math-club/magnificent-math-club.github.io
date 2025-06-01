@@ -10,7 +10,7 @@ description : "Students will learn about number theory including primes, base ar
 # course thumbnail
 image: "images/courses/course-num-theory.png"
 # taxonomy
-category: "Math"
+category: "8 Sessions"
 # teacher
 teachers:
   - "✨ Elaine Xu"

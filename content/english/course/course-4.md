@@ -10,7 +10,7 @@ description : "Students will learn about fractions, exponents and square roots, 
 # course thumbnail
 image: "images/courses/course-pre-alg.png"
 # taxonomy
-category: "Math"
+category: "8 Sessions"
 # teacher
 teachers:
   - "✨ Albert Lu"

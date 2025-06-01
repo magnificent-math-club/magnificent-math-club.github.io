@@ -11,7 +11,7 @@ description : "Students will learn about solids, integers, equations, statistics
 # course thumbnail
 image: "images/courses/course-beast-acad-6-2023.jpg"
 # taxonomy
-category: "Math"
+category: "8 Sessions"
 # teacher
 teachers:
   - "✨ Vivian Shen"

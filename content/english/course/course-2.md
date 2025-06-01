@@ -10,7 +10,7 @@ description : "Students will learn about congruency, similarity, special points 
 # course thumbnail
 image: "images/courses/course-geo-i.png"
 # taxonomy
-category: "Math"
+category: "8 Sessions"
 # teacher
 teachers:
   - "✨ Skyler Xue"

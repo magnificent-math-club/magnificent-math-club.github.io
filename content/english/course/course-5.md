@@ -11,7 +11,7 @@ description : " Students will learn about the complex numbers and how to solve q
 # image: "images/courses/course-pre-alg.png"
 image: "images/courses/course-int-alg.jpg"
 # taxonomy
-category: "Math"
+category: "8 Sessions"
 # teacher
 teachers:
   - "✨ Albert Lu"
