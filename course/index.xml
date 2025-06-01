@@ -10,18 +10,18 @@
     <lastBuildDate>Sun, 01 Jun 2025 00:00:00 -0400</lastBuildDate>
     <atom:link href="https://magnificent-math-club.github.io/course/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Algebra</title>
+      <link>https://magnificent-math-club.github.io/course/course-1/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 -0400</pubDate>
+      <guid>https://magnificent-math-club.github.io/course/course-1/</guid>
+      <description>Students will learn about linear equations, quadratic equations, and factoring simple quadratics.</description>
+    </item>
+    <item>
       <title>Beast Academy Grade 5</title>
       <link>https://magnificent-math-club.github.io/course/course-8/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 -0400</pubDate>
       <guid>https://magnificent-math-club.github.io/course/course-8/</guid>
       <description>Students will learn about solids, integers, equations, statistics, factors, fractions, sequences, and ratios.</description>
-    </item>
-    <item>
-      <title>Algebra</title>
-      <link>https://magnificent-math-club.github.io/course/course-1/</link>
-      <pubDate>Sat, 01 Jun 2024 11:11:00 -0400</pubDate>
-      <guid>https://magnificent-math-club.github.io/course/course-1/</guid>
-      <description>Students will learn about linear equations, quadratic equations, and factoring simple quadratics.</description>
     </item>
     <item>
       <title>Probability and Fun (Seminar)</title>
