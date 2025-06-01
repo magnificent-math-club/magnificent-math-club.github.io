@@ -1,23 +1,23 @@
 ---
-id: 7
-title: "Competition Math"
-date: 2025-05-27T11:18:00-04:00
+id: 9
+title: "Introduction to Number Theory"
+date: 2025-06-01T11:18:00-04:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
 # meta description
-description : "Students will learn topics in middle school math competitions such as AMC8 and MATHCOUNTS. We will cover algebra, geometry, combinatorics, and number theory."
+description : "Students will learn about number theory including primes, base arithmetic, and modular arithmetic."
 # course thumbnail
-image: "images/courses/course-competition-math.jpg"
+image: "images/courses/course-num-theory.png"
 # taxonomy
 category: "Math"
 # teacher
 teachers:
-  - "✨ Evan Zhang"
+  - "✨ Elaine Xu"
 # duration
 duration : "4 Weeks"
 # weekly
-weekly : "2 hours"
+weekly : "2 hour"
 # course fee
 fee : "$0"
 # apply url
@@ -25,41 +25,38 @@ fee : "$0"
 type: "course"
 ---
 
-Students will learn topics in middle school math competitions such as AMC8 and MATHCOUNTS. We will cover algebra, geometry, combinatorics, and number theory.
+Students will learn about number theory including primes, base arithmetic, and modular arithmetic.
 
 ### Teachers
 
-* Evan Zhang (USAJMO qualifier)
+* Elaine Xu (AIME qualier)
 
 ### Textbook 
-[Competition Math for Middle School](https://artofproblemsolving.com/store/book/competition-math)
+[Introduction to Number Theory Art of Problem Solving](https://artofproblemsolving.com/store/book/intro-number-theory)
 
 ### Weekly Schedule
 
-Jul 7 - Jul 31, 2025
+Time: TBA for 4 weeks.
 
-Mon and Thu 7-8 PM (ET) twice a week for 4 weeks 
-
-|Session |Date    | Teacher   | Topics
-|--------|--------|-----------|--------------
-|1       |07/07   | Evan      | Systems of Equations, Polynomials
-|2       |07/10   | Evan      | Exponents, Sequences/Series
-|3       |07/14   | Evan      | GCD, LCM
-|4       |07/17   | Evan      | Bases, Modular Arithmetic
-|5       |07/21   | Evan      | Angles, Triangle Congruence and Similarity
-|6       |07/24   | Evan      | Pythagorean Theorem, Circles
-|7       |07/28   | Evan      | Counting, Permutations and Combinations
-|8       |07/31   | Evan      | Stars and Bars, Probability
-
+|Week   |Date    | Teacher   | Topics
+|-------|--------|-----------|--------------
+|1      |TBA   | Elaine    | Integers, primes, and divisibility rules
+|2      |TBA   | Elaine    | Multiples and divisors
+|3      |TBA   | Elaine    | Prime factorization
+|4      |TBA   | Elaine    | Divisor problems and special numbers
+|5      |TBA   | Elaine    | Bases and introduce base arithmetic
+|6      |TBA   | Elaine    | Finish bases arithmetic and units digits
+|7      |TBA   | Elaine    | Decimals and fractions
+|8      |TBA   | Elaine    | Modular arithmetic
 
 
 ### Prerequisites
 
-* Algebra and Geometry
+* Algebra
 
 ### How to Apply
 
-Please sign up [here](https://forms.gle/sqG1GRbDJv3GEyxN7).
+Please register via this [form](https://forms.gle/vqCWoodbqgfKHmjs5).
 
 ### Fees
 
