@@ -38,7 +38,7 @@ Students will learn topics in middle school math competitions such as AMC8 and M
 
 Jul 7 - Jul 31, 2025
 
-Mon and Thu 7-8 PM (ET) twice a week for 4 weeks 
+Mon and Thu 7-8 PM (ET), twice a week for 4 weeks 
 
 |Session |Date    | Teacher   | Topics
 |--------|--------|-----------|--------------

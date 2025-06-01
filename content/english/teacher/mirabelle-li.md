@@ -11,7 +11,7 @@ image: "images/teachers/mirabelle-li-2024.png"
 # course
 course: "Pre-Algebra"
 # biography
-bio: "Mirabelle Li is a rising 7th grader in Cabin John Middle school. She loves reading all sorts of reading material and all sorts of origami and crafts. She received CERTIFICATE OF ACHIEVEMENT for students in grade 6 or below for outstanding performance on AMC8 in both 2023 and 2024.  In addition, her elementary school math team recently won 3rd place at DMV Math Tournament 2024, hosted by Rosa Lee Carter Elementary School in Virginia."
+bio: "Mirabelle Li is a rising 7th grader at Cabin John Middle school. She loves all sorts of reading (including Wuxia novels by Jin Yong) and all sorts of origami and crafts. She received CERTIFICATE OF ACHIEVEMENT for students in grade 6 or below for outstanding performance on AMC8 from 2023 to 2025. She has participated in Mathcounts and ARML, in addition to winning awards at Math Kangaroo and MBMT (2025). Her teaching experience includes being teaching assistants in the pre-algebra course last summer and in the past school year in a Chinese after-school academy. "
 
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]

@@ -38,7 +38,7 @@ Students will learn about number theory including primes, base arithmetic, and m
 
 Jun 18 - Jul 12, 2025
 
-Wed and Sat 7-8 pm (ET), twice a week.
+Wed and Sat 7-8 pm (ET), twice a week for 4 weeks.
 
 
 |Week   |Date   | Teacher   | Topics

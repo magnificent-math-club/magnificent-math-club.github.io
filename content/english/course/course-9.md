@@ -17,7 +17,7 @@ category: "8 Sessions"
 teachers:
   - "✨ Lucas Chen"
 # duration
-duration : "4 weeks"
+duration : "4 Weeks"
 # weekly
 weekly: "2 hours"
 # course fee
@@ -39,18 +39,18 @@ https://bootuppd.org/scratch/
 
 Jul 22 - Aug 14, 2025
 
-Tue and Thu 4-5 PM (ET) for 4 weeks.
+Tue and Thu 4-5 PM (ET), twice a week for 4 weeks.
 
 |Session |Date    | Teacher   | Topics
 |--------|--------|-----------|--------------
-|1       |07/22   | Lucas     | TBA
-|2       |07/24   | Lucas     | TBA
-|3       |07/29   | Lucas     | TBA
-|4       |07/31   | Lucas     | TBA
-|5       |08/05   | Lucas     | TBA
-|6       |08/07   | Lucas     | TBA
-|7       |08/12   | Lucas     | TBA
-|8       |08/14   | Lucas     | TBA
+|1       |07/22   | Lucas     | Fundamentals
+|2       |07/24   | Lucas     | Sprite Catcher
+|3       |07/29   | Lucas     | Music Player
+|4       |07/31   | Lucas     | Character Builder
+|5       |08/05   | Lucas     | Shark Chase Game
+|6       |08/07   | Lucas     | Apple Catcher
+|7       |08/12   | Lucas     | Nyan Chat
+|8       |08/14   | Lucas     | Zombie Game
 
 ### Prerequisites
 

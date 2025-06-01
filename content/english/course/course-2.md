@@ -38,7 +38,7 @@ Skyler Xue (AIME qualifier)
 
 Jul 9 - Aug 2, 2025
 
-Wed and Sat 8-9 PM (ET) twice a week for 4 weeks.
+Wed and Sat 8-9 PM (ET), twice a week for 4 weeks.
 
 |Session | Date   |  Teacher   |  Topics
 |--------|--------|------------|----------

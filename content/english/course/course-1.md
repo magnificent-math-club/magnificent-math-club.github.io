@@ -37,7 +37,7 @@ Students will learn about linear equations, quadratic equations, and factoring s
 
 Jun 17 - Jul 11, 2025
 
-Tue and Fri 7-8 pm (ET), twice a week.
+Tue and Fri 7-8 pm (ET), twice a week for 4 weeks.
 
 |Session|Date   | Teacher |Topics
 |-------|-------|---------|------------------------------------------------------

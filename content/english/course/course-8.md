@@ -40,7 +40,7 @@ Beast Academy Level 5 by Art of Problem Solving.
 
 Jul 28 - Aug 21, 2025
 
-Mon and Thu 6-7 PM (ET), twice a week.
+Mon and Thu 6-7 PM (ET), twice a week for 4 weeks.
 
 |Session|Date  | Teacher | Topics
 |-------|------|---------|------------------------------------------------------

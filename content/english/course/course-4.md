@@ -44,7 +44,7 @@ Students will learn about fractions, exponents and square roots, prime factoriza
 
 Jun 23 - Jul 17, 2025
 
-Mon and Thu 7-8 PM (ET) for 4 weeks.
+Mon and Thu 7-8 PM (ET), twice a week for 4 weeks.
 
 |Session |Date    | Teacher          | Topics
 |--------|--------|------------------|--------------
