@@ -1,12 +1,12 @@
 ---
-title: "✨‎ Adelaide Li"
+title: "✨&#x200B; Adelaide Li"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
 # meta description
 description : ""
 # teacher portrait
-image: ""
+image: "images/teachers/adelaide-li.jpg"
 # course
 course: "Beast Academy Grade 5"
 # biography
