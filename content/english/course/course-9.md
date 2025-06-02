@@ -39,7 +39,7 @@ https://bootuppd.org/scratch/
 
 Jul 22 - Aug 14, 2025
 
-Tue and Thu 4-5 PM (ET), twice a week for 4 weeks.
+Tue and Thu 7-8 PM (ET), twice a week for 4 weeks.
 
 |Session |Date    | Teacher   | Topics
 |--------|--------|-----------|--------------
