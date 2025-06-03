@@ -7,21 +7,18 @@ bg_image: "images/backgrounds/page-title.png"
 # meta description
 description : ""
 # teacher portrait
-image: "images/teachers/skyler-xue-2024.jpg"
+image: "images/teachers/skyler-xue-2025.jpg"
 # course
 course: "Pre-Algebra and Geometry"
 # biography
 bio: "Skyler Xue is a rising senior in the Science, Mathematics, and Computer Science Magnet
 Program at Montgomery Blair High School. He has received numerous honors in STEM
-competitions and has conducted research in Quantum Physics, Biochemistry, and Public
-Health. As a SIMIS International Scholarship winner, he was invited to attend the 2024 Yau
-Mathcamp, a rigorous program for mathematically talented and motivated high schoolers to
-explore creative problem-solving and engage in research projects. Additionally, he has been
-selected for the 2024 Brin Maryland Mathematics Camp. Beyond academics and research,
-Skyler actively volunteers for STEM education, traffic safety, and youth health initiatives,
-dedicating over 500 hours to community service. In his free time, he enjoys singing,
-reading, cooking, and playing chess."
-accomplishments: ["4x AIME qualifier", "2x USABO Open Exam Honorable Mention", "USACO Silver Division", "4x ACSL Finalist", "3x President's Volunteer Service Award - Gold", "MATHCOUNTS State top 10", "Grand Honors and Study of Exceptional Talent (SET)", "Member of the Johns Hopkins Center for Talented Youth"]
+competitions and has conducted research in artificial intelligence, computational biology,
+and public health. Beyond academics and research, Skyler actively volunteers in STEM
+education, traffic safety, and youth health initiatives, dedicating over 600 hours to
+community service. In his free time, he enjoys singing, reading, cooking, and playing chess."
+
+accomplishments: ["5x AIME qualifier", "American Mathematics Competition (AMC) 12 Distinction", "USA Artificial Intelligence Olympiad Silver Medal", "2x USABO Open Exam Honorable Mention", "British Biology Olympiad Silver Medalist", "USACO Silver Division", "4x President's Volunteer Service Award - Gold", "MATHCOUNTS State top 10"]
 
 
 # accomplishments
