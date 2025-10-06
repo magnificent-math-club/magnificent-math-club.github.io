@@ -12,7 +12,7 @@ image: "images/teachers/albert-lu-2024.jpg"
 course: "Pre-Algebra and Intermediate Algebra"
 # biography
 bio: "
-A rising senior at Phillips Exeter Academy, Albert Lu is driven to find and create elegant solutions—whether in a complex mathematical proof or a musical composition. His analytical pursuits have earned him recognition as a USAJMO winner, a USAPhO Honorable Mention recipient, and a USACO Gold division qualifier. This same passion for structure and creativity fuels his work as an award-winning *[music composer](https://albertlu.org)*.
+A rising senior at Phillips Exeter Academy, Albert Lu is driven to find and create elegant solutions—whether in a complex mathematical proof or a musical composition. His analytical pursuits have earned him recognition as a USAJMO winner, a USAPhO Honorable Mention recipient, and a USACO Gold division qualifier. This same passion for structure and creativity fuels his work as an award-winning [music composer](https://albertlu.org).
 
 
 He co-founded [Magnificent Math Summer Program](https://magnificent-math-club.github.io) to share his love for the logic of mathematics and the joy of creative problem-solving, and has taught courses including Pre-Algebra, Geometry, and Intermediate Algebra since 2020."
