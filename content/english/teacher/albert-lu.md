@@ -14,6 +14,7 @@ course: "Pre-Algebra and Intermediate Algebra"
 bio: "
 Rising senior at Phillips Exeter Academy. Albert is a USAJMO winner, ARML National tiebreaker qualifier, MATHCOUNTS National top 30 finisher, and USAPhO Honorable Mention recipient. He is also a USACO gold division qualifier. Beyond his academic interests, Albert is a passionate [music composer](https://albertlu.org). 
 
+
 He has taught Pre-Algebra (2025), Geometry I (2020), Geometry II (2021, 2022, 2023), and Intermediate Algebra (2022, 2023, 2024, 2025)."
 
 # interest
