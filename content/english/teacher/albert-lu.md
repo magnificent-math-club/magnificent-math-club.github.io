@@ -13,7 +13,7 @@ course: "Pre-Algebra and Intermediate Algebra"
 # biography
 bio: "Rising senior at Phillips Exeter Academy. USAJMO winner, ARML National tiebreaker qualifier, MATHCOUNTS National top 30, and USAPhO Honorable Mention. He is also a USACO Gold qualifier.
 
-Taught Pre-Algebra (2025), Geometry I (2020), Geometry II (2021, 2022, 2023), and Intermediate Algebra (2022, 2023, 2024, 2025)."
+Taught Geometry I (2020), Geometry II (2021, 2022, 2023), and Intermediate Algebra (2022, 2023, 2024, 2025)."
 
 #He co-founded [Magnificent Math Summer Program](https://magnificent-math-club.github.io) to share his love for the logic of mathematics and the joy of creative problem-solving, and has taught courses including Pre-Algebra, Geometry, and Intermediate Algebra since 2020."
 
