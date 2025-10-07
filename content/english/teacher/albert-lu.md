@@ -11,7 +11,7 @@ image: "images/teachers/albert-lu-2024.jpg"
 # course
 course: "Pre-Algebra and Intermediate Algebra"
 # biography
-bio: "Rising senior at Phillips Exeter Academy. USAJMO winner, ARML National tiebreaker qualifier, MATHCOUNTS National top 30, and USAPhO Honorable Mention. He is also a USACO Gold qualifier. Beyond academics, he loves [composing music](https://albertlu.org).
+bio: "Rising senior at Phillips Exeter Academy. USAJMO winner, ARML National tiebreaker qualifier, MATHCOUNTS National top 30, USAPhO Honorable Mention, and USACO Gold qualifier. He also loves [composing music](https://albertlu.org).
 
 
 Taught Geometry I (2020), Geometry II (2021, 2022, 2023), and Intermediate Algebra (2022, 2023, 2024, 2025)."
