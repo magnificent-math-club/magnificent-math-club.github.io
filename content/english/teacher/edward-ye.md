@@ -1,5 +1,5 @@
 ---
-title: "Edward Ye"
+title: "✨ Edward Ye"
 draft: false
 weight: 1
 # page title background image

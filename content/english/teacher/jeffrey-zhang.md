@@ -1,5 +1,5 @@
 ---
-title: "Jeffrey Zhang"
+title: "✨ Jeffrey Zhang"
 draft: false
 weight: 1
 # page title background image
