@@ -16,7 +16,7 @@ bio: "Incoming freshman at MIT. In addition to math and computer science, he als
 
 Taught Geometry I (2020), Geometry II (2021, 2022, 2023), and Intermediate Algebra (2022, 2023, 2024, 2025)."
 
-accomplishments: ["USAJMO Winner/USAMO Silver", "AMM Silver", "ARML National tiebreaker qualifier", "MATHCOUNTS National top 30 finisher", "USAPhO Honorable Mention", "USACO Gold qualifier"]
+# accomplishments: ["USAJMO Winner/USAMO Silver", "AMM Silver", "ARML National tiebreaker qualifier", "MATHCOUNTS National top 30 finisher", "USAPhO Honorable Mention", "USACO Gold qualifier"]
 
 #He co-founded [Magnificent Math Summer Program](https://magnificent-math-club.github.io) to share his love for the logic of mathematics and the joy of creative problem-solving, and has taught courses including Pre-Algebra, Geometry, and Intermediate Algebra since 2020."
 
