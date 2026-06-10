@@ -39,7 +39,7 @@ https://bootuppd.org/scratch/
 
 Aug 3 - Aug 27, 2026
 
-Mon and Thu 7-8 PM (ET), twice a week for 4 weeks.
+Mon and Thu 7-9 PM (ET), twice a week for 4 weeks.
 
 |Session |Date    | Teacher   | Topics
 |--------|--------|-----------|--------------
