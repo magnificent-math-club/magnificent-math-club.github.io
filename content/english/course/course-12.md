@@ -16,9 +16,9 @@ teachers:
   - "✨ Albert Lu"
   - "✨ Bill Qian"
 # duration
-duration : "4 Weeks"
+duration : "8 Days"
 # weekly
-weekly : "2 hours"
+weekly : "1 hour per day"
 # course fee
 fee : "$0"
 # apply url

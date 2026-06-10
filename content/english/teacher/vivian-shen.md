@@ -1,5 +1,5 @@
 ---
-title: "✨ Vivian Shen"
+title: "Vivian Shen"
 draft: false
 weight: 1
 # page title background image
