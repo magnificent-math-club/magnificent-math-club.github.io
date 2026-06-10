@@ -1,181 +1,194 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Magnificent Math Club</title>
-    <link>https://magnificent-math-club.github.io/</link>
-    <description>Recent content on Magnificent Math Club</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <copyright>Magnificent Math Club, 2021</copyright>
-    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 -0400</lastBuildDate>
-    <atom:link href="https://magnificent-math-club.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>✨ Albert Lu</title>
-      <link>https://magnificent-math-club.github.io/teacher/albert-lu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://magnificent-math-club.github.io/teacher/albert-lu/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>✨ Bill Qian</title>
-      <link>https://magnificent-math-club.github.io/teacher/bill-qian/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://magnificent-math-club.github.io/teacher/bill-qian/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>✨ Elaine Xu</title>
-      <link>https://magnificent-math-club.github.io/teacher/elaine-xu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://magnificent-math-club.github.io/teacher/elaine-xu/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>✨ Evan Zhang</title>
-      <link>https://magnificent-math-club.github.io/teacher/evan-zhang/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://magnificent-math-club.github.io/teacher/evan-zhang/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>✨ Lucas Chen</title>
-      <link>https://magnificent-math-club.github.io/teacher/lucas-chen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://magnificent-math-club.github.io/teacher/lucas-chen/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>✨ Mirabelle Li</title>
-      <link>https://magnificent-math-club.github.io/teacher/mirabelle-li/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://magnificent-math-club.github.io/teacher/mirabelle-li/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>✨ Skyler Xue</title>
-      <link>https://magnificent-math-club.github.io/teacher/skyler-xue/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://magnificent-math-club.github.io/teacher/skyler-xue/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>✨ Vivian Shen</title>
-      <link>https://magnificent-math-club.github.io/teacher/vivian-shen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://magnificent-math-club.github.io/teacher/vivian-shen/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>✨ Adelaide Li</title>
-      <link>https://magnificent-math-club.github.io/teacher/adelaide-li/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://magnificent-math-club.github.io/teacher/adelaide-li/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Algebra</title>
-      <link>https://magnificent-math-club.github.io/course/course-1/</link>
-      <pubDate>Sun, 01 Jun 2025 00:00:00 -0400</pubDate>
-      <guid>https://magnificent-math-club.github.io/course/course-1/</guid>
-      <description>Students will learn about linear equations, quadratic equations, and factoring simple quadratics.</description>
-    </item>
-    <item>
-      <title>Beast Academy Grade 5</title>
-      <link>https://magnificent-math-club.github.io/course/course-8/</link>
-      <pubDate>Sun, 01 Jun 2025 00:00:00 -0400</pubDate>
-      <guid>https://magnificent-math-club.github.io/course/course-8/</guid>
-      <description>Students will learn about solids, integers, equations, statistics, factors, fractions, sequences, and ratios.</description>
-    </item>
-    <item>
-      <title>Geometry</title>
-      <link>https://magnificent-math-club.github.io/course/course-2/</link>
-      <pubDate>Sun, 01 Jun 2025 00:00:00 -0400</pubDate>
-      <guid>https://magnificent-math-club.github.io/course/course-2/</guid>
-      <description>Students will learn about congruency, similarity, special points of triangle, and Heron’s formula.</description>
-    </item>
-    <item>
-      <title>Intro to Number Theory</title>
-      <link>https://magnificent-math-club.github.io/course/course-6/</link>
-      <pubDate>Sun, 01 Jun 2025 00:00:00 -0400</pubDate>
-      <guid>https://magnificent-math-club.github.io/course/course-6/</guid>
-      <description>Students will learn about number theory including primes, base arithmetic, and modular arithmetic.</description>
-    </item>
-    <item>
-      <title>Competition Math</title>
-      <link>https://magnificent-math-club.github.io/course/course-12/</link>
-      <pubDate>Tue, 27 May 2025 11:18:00 -0400</pubDate>
-      <guid>https://magnificent-math-club.github.io/course/course-12/</guid>
-      <description>Students will learn topics in middle school math competitions such as AMC8 and MATHCOUNTS.</description>
-    </item>
-    <item>
-      <title>Intermediate Algebra</title>
-      <link>https://magnificent-math-club.github.io/course/course-5/</link>
-      <pubDate>Mon, 26 May 2025 11:19:00 -0400</pubDate>
-      <guid>https://magnificent-math-club.github.io/course/course-5/</guid>
-      <description>Students will learn about the complex numbers and how to solve quadratics and polynomials.</description>
-    </item>
-    <item>
-      <title> Pre-Algebra</title>
-      <link>https://magnificent-math-club.github.io/course/course-4/</link>
-      <pubDate>Mon, 26 May 2025 11:18:00 -0400</pubDate>
-      <guid>https://magnificent-math-club.github.io/course/course-4/</guid>
-      <description>Students will learn about fractions, exponents and square roots, prime factorization, divisibility tests, and linear equations and inequalities.</description>
-    </item>
-    <item>
-      <title>A Course in Scratch</title>
-      <link>https://magnificent-math-club.github.io/course/course-9/</link>
-      <pubDate>Fri, 26 May 2023 11:11:00 -0400</pubDate>
-      <guid>https://magnificent-math-club.github.io/course/course-9/</guid>
-      <description>Students will achieve a basic understanding of Scratch features and have fun along the way.</description>
-    </item>
-    <item>
-      <title>Brandon Zhang</title>
-      <link>https://magnificent-math-club.github.io/teacher/brandon-zhang/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://magnificent-math-club.github.io/teacher/brandon-zhang/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Charlotte Li</title>
-      <link>https://magnificent-math-club.github.io/teacher/charlotte-li/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://magnificent-math-club.github.io/teacher/charlotte-li/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Eric Shen</title>
-      <link>https://magnificent-math-club.github.io/teacher/eric-shen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://magnificent-math-club.github.io/teacher/eric-shen/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ivy Guo</title>
-      <link>https://magnificent-math-club.github.io/teacher/ivy-guo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://magnificent-math-club.github.io/teacher/ivy-guo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Jason Youm</title>
-      <link>https://magnificent-math-club.github.io/teacher/jason-youm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://magnificent-math-club.github.io/teacher/jason-youm/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Olivia Guo</title>
-      <link>https://magnificent-math-club.github.io/teacher/olivia-guo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://magnificent-math-club.github.io/teacher/olivia-guo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Stephen Zhang</title>
-      <link>https://magnificent-math-club.github.io/teacher/stephen-zhang/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://magnificent-math-club.github.io/teacher/stephen-zhang/</guid>
-      <description></description>
-    </item>
-  </channel>
+	<channel>
+		<title>Magnificent Math Club</title>
+		<link>https://magnificent-math-club.github.io/</link>
+		<description>Recent content on Magnificent Math Club</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+			<copyright>Magnificent Math Club, 2021</copyright>
+		
+		
+			<lastBuildDate>Sun, 01 Jun 2025 00:00:00 -0400</lastBuildDate>
+		
+			<atom:link href="https://magnificent-math-club.github.io/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>✨ Albert Lu</title>
+				<link>https://magnificent-math-club.github.io/teacher/albert-lu/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://magnificent-math-club.github.io/teacher/albert-lu/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>✨ Bill Qian</title>
+				<link>https://magnificent-math-club.github.io/teacher/bill-qian/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://magnificent-math-club.github.io/teacher/bill-qian/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>✨ Elaine Xu</title>
+				<link>https://magnificent-math-club.github.io/teacher/elaine-xu/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://magnificent-math-club.github.io/teacher/elaine-xu/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>✨ Evan Zhang</title>
+				<link>https://magnificent-math-club.github.io/teacher/evan-zhang/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://magnificent-math-club.github.io/teacher/evan-zhang/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>✨ Lucas Chen</title>
+				<link>https://magnificent-math-club.github.io/teacher/lucas-chen/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://magnificent-math-club.github.io/teacher/lucas-chen/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>✨ Mirabelle Li</title>
+				<link>https://magnificent-math-club.github.io/teacher/mirabelle-li/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://magnificent-math-club.github.io/teacher/mirabelle-li/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>✨ Skyler Xue</title>
+				<link>https://magnificent-math-club.github.io/teacher/skyler-xue/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://magnificent-math-club.github.io/teacher/skyler-xue/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>✨ Vivian Shen</title>
+				<link>https://magnificent-math-club.github.io/teacher/vivian-shen/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://magnificent-math-club.github.io/teacher/vivian-shen/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Jeffrey Zhang</title>
+				<link>https://magnificent-math-club.github.io/teacher/jeffrey-zhang/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://magnificent-math-club.github.io/teacher/jeffrey-zhang/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>✨ Adelaide Li</title>
+				<link>https://magnificent-math-club.github.io/teacher/adelaide-li/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://magnificent-math-club.github.io/teacher/adelaide-li/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Algebra</title>
+				<link>https://magnificent-math-club.github.io/course/course-1/</link>
+				<pubDate>Sun, 01 Jun 2025 00:00:00 -0400</pubDate>
+				<guid>https://magnificent-math-club.github.io/course/course-1/</guid>
+				<description>&lt;p&gt;Students will learn about linear equations, quadratic equations, and factoring simple quadratics.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Beast Academy Grade 5</title>
+				<link>https://magnificent-math-club.github.io/course/course-8/</link>
+				<pubDate>Sun, 01 Jun 2025 00:00:00 -0400</pubDate>
+				<guid>https://magnificent-math-club.github.io/course/course-8/</guid>
+				<description>&lt;p&gt;Students will learn about solids, integers, equations, statistics, factors, fractions, sequences, and ratios.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Geometry</title>
+				<link>https://magnificent-math-club.github.io/course/course-2/</link>
+				<pubDate>Sun, 01 Jun 2025 00:00:00 -0400</pubDate>
+				<guid>https://magnificent-math-club.github.io/course/course-2/</guid>
+				<description>&lt;p&gt;Students will learn about congruency, similarity, special points of triangle, and Heron’s formula.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Intro to Number Theory</title>
+				<link>https://magnificent-math-club.github.io/course/course-6/</link>
+				<pubDate>Sun, 01 Jun 2025 00:00:00 -0400</pubDate>
+				<guid>https://magnificent-math-club.github.io/course/course-6/</guid>
+				<description>&lt;p&gt;Students will learn about number theory including primes, base arithmetic, and modular arithmetic.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Competition Math</title>
+				<link>https://magnificent-math-club.github.io/course/course-12/</link>
+				<pubDate>Tue, 27 May 2025 11:18:00 -0400</pubDate>
+				<guid>https://magnificent-math-club.github.io/course/course-12/</guid>
+				<description>&lt;p&gt;Students will learn topics in middle school math competitions such as AMC8 and MATHCOUNTS. We will cover algebra, geometry, combinatorics, and number theory.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Intermediate Algebra</title>
+				<link>https://magnificent-math-club.github.io/course/course-5/</link>
+				<pubDate>Mon, 26 May 2025 11:19:00 -0400</pubDate>
+				<guid>https://magnificent-math-club.github.io/course/course-5/</guid>
+				<description>&lt;p&gt;Students will learn about the complex numbers and how to solve quadratics and polynomials.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title> Pre-Algebra</title>
+				<link>https://magnificent-math-club.github.io/course/course-4/</link>
+				<pubDate>Mon, 26 May 2025 11:18:00 -0400</pubDate>
+				<guid>https://magnificent-math-club.github.io/course/course-4/</guid>
+				<description>&lt;p&gt;Students will learn about fractions, exponents and square roots, prime factorization, divisibility tests, and linear equations and inequalities.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>A Course in Scratch</title>
+				<link>https://magnificent-math-club.github.io/course/course-9/</link>
+				<pubDate>Fri, 26 May 2023 11:11:00 -0400</pubDate>
+				<guid>https://magnificent-math-club.github.io/course/course-9/</guid>
+				<description>&lt;p&gt;Students will achieve a basic understanding of Scratch features and have fun along the way.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Brandon Zhang</title>
+				<link>https://magnificent-math-club.github.io/teacher/brandon-zhang/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://magnificent-math-club.github.io/teacher/brandon-zhang/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Charlotte Li</title>
+				<link>https://magnificent-math-club.github.io/teacher/charlotte-li/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://magnificent-math-club.github.io/teacher/charlotte-li/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Eric Shen</title>
+				<link>https://magnificent-math-club.github.io/teacher/eric-shen/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://magnificent-math-club.github.io/teacher/eric-shen/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Ivy Guo</title>
+				<link>https://magnificent-math-club.github.io/teacher/ivy-guo/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://magnificent-math-club.github.io/teacher/ivy-guo/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Jason Youm</title>
+				<link>https://magnificent-math-club.github.io/teacher/jason-youm/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://magnificent-math-club.github.io/teacher/jason-youm/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Olivia Guo</title>
+				<link>https://magnificent-math-club.github.io/teacher/olivia-guo/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://magnificent-math-club.github.io/teacher/olivia-guo/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Stephen Zhang</title>
+				<link>https://magnificent-math-club.github.io/teacher/stephen-zhang/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://magnificent-math-club.github.io/teacher/stephen-zhang/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>
