@@ -72,17 +72,17 @@
 				<description></description>
 			</item>
 			<item>
-				<title>✨ Vivian Shen</title>
-				<link>https://magnificent-math-club.github.io/teacher/vivian-shen/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://magnificent-math-club.github.io/teacher/vivian-shen/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>🌟 Adelaide Li</title>
 				<link>https://magnificent-math-club.github.io/teacher/adelaide-li/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>https://magnificent-math-club.github.io/teacher/adelaide-li/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Vivian Shen</title>
+				<link>https://magnificent-math-club.github.io/teacher/vivian-shen/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://magnificent-math-club.github.io/teacher/vivian-shen/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -142,13 +142,6 @@
 				<description>&lt;p&gt;Students will achieve a basic understanding of Scratch features and have fun along the way.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>✨ Evan Zhang</title>
-				<link>https://magnificent-math-club.github.io/teacher/evan-zhang/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://magnificent-math-club.github.io/teacher/evan-zhang/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Brandon Zhang</title>
 				<link>https://magnificent-math-club.github.io/teacher/brandon-zhang/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -167,6 +160,13 @@
 				<link>https://magnificent-math-club.github.io/teacher/eric-shen/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>https://magnificent-math-club.github.io/teacher/eric-shen/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Evan Zhang</title>
+				<link>https://magnificent-math-club.github.io/teacher/evan-zhang/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://magnificent-math-club.github.io/teacher/evan-zhang/</guid>
 				<description></description>
 			</item>
 			<item>
