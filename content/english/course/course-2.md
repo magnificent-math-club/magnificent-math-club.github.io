@@ -13,6 +13,7 @@ image: "images/courses/course-geo-i.png"
 category: "8 Sessions"
 # teacher
 teachers:
+  - "✨ Skyler Xue"
   - "✨ Edward Ye"
 # duration
 duration : "4 Weeks"

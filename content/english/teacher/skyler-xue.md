@@ -9,10 +9,9 @@ description : ""
 # teacher portrait
 image: "images/teachers/skyler-xue-2025.jpg"
 # course
-course: "previous teacher"
+course: "Geometry"
 # biography
-bio: "Skyler Xue is a rising senior in the Science, Mathematics, and Computer Science Magnet
-Program at Montgomery Blair High School. He has received numerous honors in STEM
+bio: "Skyler Xue is an incoming freshman at Yale. He has received numerous honors in STEM
 competitions and has conducted research in artificial intelligence, computational biology,
 and public health. Beyond academics and research, Skyler actively volunteers in STEM
 education, traffic safety, and youth health initiatives, dedicating over 600 hours to
