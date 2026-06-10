@@ -2,7 +2,7 @@
 id: 5
 title: "Intro to Number Theory"
 date: 2025-06-01T00:00:00-04:00
-draft: true
+draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
 # meta description
