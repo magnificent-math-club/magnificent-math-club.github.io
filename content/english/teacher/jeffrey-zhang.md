@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.png"
 # meta description
 description : ""
 # teacher portrait
-image: "TBD"
+image: "images/teachers/brandon-zhang-2024.jpg"
 # course
 course: "Algebra"
 # biography
