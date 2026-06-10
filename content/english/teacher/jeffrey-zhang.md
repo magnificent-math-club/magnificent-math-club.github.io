@@ -1,5 +1,5 @@
 ---
-title: "✨ Vivian Shen"
+title: "Jeffrey Zhang"
 draft: false
 weight: 1
 # page title background image
@@ -7,13 +7,11 @@ bg_image: "images/backgrounds/page-title.png"
 # meta description
 description : ""
 # teacher portrait
-image: "images/teachers/vivian-shen.jpg"
+image: "TBD"
 # course
-course: "previous teacher"
+course: "Algebra"
 # biography
-bio: "Rising Senior"
-accomplishments: ["USAJMO qualifier", "AIME qualifier", "New Jersey MATHCOUNTS state qualifier", "AMC 8 Distinguished Honor Roll", "D. E. Shaw Certificate of Excellence", "National Science Bowl New Jersey State 3rd place"]
-
+bio: "Rising sophomore at Stuyvesant High School in New York City."
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info

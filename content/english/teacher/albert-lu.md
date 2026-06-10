@@ -9,12 +9,14 @@ description : ""
 # teacher portrait
 image: "images/teachers/albert-lu-2024.jpg"
 # course
-course: "Pre-Algebra and Intermediate Algebra"
+course: "Intermediate Algebra, Competition Math"
 # biography
-bio: "Rising senior at Phillips Exeter Academy. USAJMO winner, ARML National tiebreaker qualifier, MATHCOUNTS National top 30, USAPhO Honorable Mention, and USACO Gold qualifier. He also loves [composing music](https://albertlu.org).
+bio: "Incoming freshman at MIT. In addition to math and computer science, he also loves [composing music](https://albertlu.org).
 
 
 Taught Geometry I (2020), Geometry II (2021, 2022, 2023), and Intermediate Algebra (2022, 2023, 2024, 2025)."
+
+accomplishments: ["USAJMO Winner/USAMO Silver", "AMM Silver", "ARML National tiebreaker qualifier", "MATHCOUNTS National top 30 finisher", "USAPhO Honorable Mention", "USACO Gold qualifier"]
 
 #He co-founded [Magnificent Math Summer Program](https://magnificent-math-club.github.io) to share his love for the logic of mathematics and the joy of creative problem-solving, and has taught courses including Pre-Algebra, Geometry, and Intermediate Algebra since 2020."
 

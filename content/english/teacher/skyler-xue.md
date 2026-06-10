@@ -9,7 +9,7 @@ description : ""
 # teacher portrait
 image: "images/teachers/skyler-xue-2025.jpg"
 # course
-course: "Pre-Algebra and Geometry"
+course: "previous teacher"
 # biography
 bio: "Skyler Xue is a rising senior in the Science, Mathematics, and Computer Science Magnet
 Program at Montgomery Blair High School. He has received numerous honors in STEM
