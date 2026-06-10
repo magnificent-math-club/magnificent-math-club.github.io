@@ -13,7 +13,7 @@ image: "images/courses/course-geo-i.png"
 category: "8 Sessions"
 # teacher
 teachers:
-  - "✨ Skyler Xue"
+  - "✨ Edward Ye"
 # duration
 duration : "4 Weeks"
 # weekly
@@ -28,7 +28,7 @@ Students will learn about congruency, similarity, special points of triangle, an
 
 ### Teachers
 
-Skyler Xue (AIME qualifier)
+Edward Ye
 
 ### Textbook
 
@@ -36,20 +36,20 @@ Skyler Xue (AIME qualifier)
 
 ### Weekly Schedule
 
-Jul 9 - Aug 2, 2025
+June 23 - Jul 21, 2026
 
-Wed and Sat 8-9 PM (ET), twice a week for 4 weeks.
+Tues and Sat 6-7 PM (ET), twice a week for 4 weeks.
 
 |Session | Date   |  Teacher   |  Topics
 |--------|--------|------------|----------
-|1       | 07/09  |  Skyler    |  Line and angle: definition and properties, perimeter & area
-|2       | 07/12  |  Skyler    |  Congruent triangles: SSS and SAS congruence
-|3       | 07/16  |  Skyler    |  Congruent triangles: ASA and AAS congruence and isosceles and equilateral triangles
-|4       | 07/19  |  Skyler    |  Similar triangles: AA similarity
-|5       | 07/23  |  Skyler    |  Similar triangles: SAS and SSS similarity and application of similarity
-|6       | 07/26  |  Skyler    |  Right triangles: Pythagorean theorem and Pythagorean triples
-|7       | 07/30  |  Skyler    |  Right triangles: Heron’s formula
-|8       | 08/02  |  Skyler    |  Special centers of a triangle
+|1       | 06/23  |  Edward    |  Line and angle: definition and properties, perimeter & area
+|2       | 06/27  |  Edward    |  Congruent triangles: SSS and SAS congruence
+|3       | 07/01  |  Edward    |  Congruent triangles: ASA and AAS congruence and isosceles and equilateral triangles
+|4       | 07/08  |  Edward    |  Similar triangles: AA similarity
+|5       | 07/11  |  Edward    |  Similar triangles: SAS and SSS similarity and application of similarity
+|6       | 07/15  |  Edward    |  Right triangles: Pythagorean theorem and Pythagorean triples
+|7       | 07/18  |  Edward    |  Right triangles: Heron’s formula
+|8       | 07/21  |  Edward    |  Special centers of a triangle
 
 ### Prerequisites
 
@@ -57,7 +57,7 @@ Wed and Sat 8-9 PM (ET), twice a week for 4 weeks.
 
 ### How to Apply
 
-Please sign up [here](https://forms.gle/7zqSWiNLTpQmP1C26).
+Please sign up [here](https://forms.gle/aE27PcqQn167WRTG7).
 
 ### Fees
 

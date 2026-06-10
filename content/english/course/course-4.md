@@ -13,10 +13,7 @@ image: "images/courses/course-pre-alg.png"
 category: "8 Sessions"
 # teacher
 teachers:
-  - "✨ Albert Lu"
-  - "✨ Bill Qian"
   - "✨ Mirabelle Li"
-  - "✨ Skyler Xue"
 # duration
 duration : "4 Weeks"
 # weekly
@@ -32,30 +29,27 @@ Students will learn about fractions, exponents and square roots, prime factoriza
 
 ### Teachers
 
-* Albert Lu (USAJMO winner)
-* Bill Qian (MATHCOUNTS national qualifier, USAJMO qualifier) 
 * Mirabelle Li (AMC8 Achievement Roll)
-* Skyler Xue (AIME qualifier)
 
 ### Textbook 
 [Prealgebra by Art of Problem Solving](https://artofproblemsolving.com/store/item/prealgebra).
 
 ### Weekly Schedule
 
-Jun 23 - Jul 17, 2025
+Jul 12 - Aug 5, 2026
 
-Mon and Thu 7-8 PM (ET), twice a week for 4 weeks.
+Sun and Wed 6-7 PM (ET), twice a week for 4 weeks.
 
 |Session |Date    | Teacher          | Topics
 |--------|--------|------------------|--------------
-|1       |06/23   | Bill/Mirabelle   | Negation, reciprocals, divisibility, and prime factorization
-|2       |06/26   | Albert/Mirabelle | Exponents (I)
-|3       |06/30   | Bill/Mirabelle   | Exponents (II)
-|4       |07/03   | Albert/Mirabelle | LCM and GCD
-|5       |07/07   | Skyler/Mirabelle | Fractions
-|6       |07/10   | Albert/Mirabelle | Decimals
-|7       |07/14   | Skyler/Mirabelle | Linear equations
-|8       |07/17   | Albert/Mirabelle | Inequalities and ratios
+|1       |07/12   | Mirabelle        | Negation, reciprocals, divisibility, and prime factorization
+|2       |07/15   | Mirabelle        | Exponents (I)
+|3       |07/19   | Mirabelle        | Exponents (II)
+|4       |07/22   | Mirabelle        | LCM and GCD
+|5       |07/26   | Mirabelle        | Fractions
+|6       |07/29   | Mirabelle        | Decimals
+|7       |08/02   | Mirabelle        | Linear equations
+|8       |08/05   | Mirabelle        | Inequalities and ratios
 
 ### Prerequisites
 
@@ -63,7 +57,7 @@ Mon and Thu 7-8 PM (ET), twice a week for 4 weeks.
 
 ### How to Apply
 
-Please sign up [here](https://forms.gle/7zqSWiNLTpQmP1C26).
+Please sign up [here](https://forms.gle/aE27PcqQn167WRTG7).
 
 ### Fees
 

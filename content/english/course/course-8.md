@@ -14,7 +14,6 @@ image: "images/courses/course-beast-acad-6-2023.jpg"
 category: "8 Sessions"
 # teacher
 teachers:
-  - "✨ Vivian Shen"
   - "✨ Adelaide Li"
 # duration
 duration : "4 Weeks"
@@ -30,7 +29,6 @@ Students will learn about solids, integers, equations, statistics, factors, frac
 
 ### Teachers
 
-* Vivian Shen (USAJMO qualifier).
 * Adelaide Li
 
 ### Textbook 
@@ -38,20 +36,20 @@ Beast Academy Level 5 by Art of Problem Solving.
 
 ### Weekly Schedule
 
-Jul 28 - Aug 21, 2025
+Jun 17 - Jul 15, 2026
 
-Mon and Thu 6-7 PM (ET), twice a week for 4 weeks.
+Wed and Sun 5-6 PM (ET), twice a week for 4 weeks.
 
-|Session|Date  | Teacher | Topics
-|-------|------|---------|------------------------------------------------------
-|1      |7/28  | Vivian/Adelaide  | 3D solids
-|2      |7/31  | Vivian/Adelaide  | Integers
-|3      |8/04  | Vivian/Adelaide  | Expressions and Equations
-|4      |8/07  | Vivian/Adelaide  | Statistics
-|5      |8/11  | Vivian/Adelaide  | Factors and Multiples
-|6      |8/14  | Vivian/Adelaide  | Fractions
-|7      |8/18  | Vivian/Adelaide  | Sequences
-|8      |8/21  | Vivian/Adelaide  | Ratios and rates
+|Session|Date    | Teacher   | Topics
+|-------|--------|-----------|------------------------------------------------------
+|1      |06/17   | Adelaide  | 3D solids
+|2      |06/21   | Adelaide  | Integers
+|3      |06/24   | Adelaide  | Expressions and Equations
+|4      |06/28   | Adelaide  | Statistics
+|5      |07/01   | Adelaide  | Factors and Multiples
+|6      |07/08   | Adelaide  | Fractions
+|7      |07/12   | Adelaide  | Sequences
+|8      |07/15   | Adelaide  | Ratios and rates
 
 ### Prerequisites
 
@@ -59,7 +57,7 @@ Mon and Thu 6-7 PM (ET), twice a week for 4 weeks.
 
 ### How to Apply
 
-Please sign up [here](https://forms.gle/7zqSWiNLTpQmP1C26).
+Please sign up [here](https://forms.gle/aE27PcqQn167WRTG7).
 
 ### Fees
 

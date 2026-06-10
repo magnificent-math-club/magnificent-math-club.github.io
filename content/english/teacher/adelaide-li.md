@@ -1,5 +1,5 @@
 ---
-title: "✨ Adelaide Li"
+title: "🌟 Adelaide Li"
 draft: false
 weight: 1
 # page title background image

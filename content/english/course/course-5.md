@@ -15,6 +15,7 @@ category: "8 Sessions"
 # teacher
 teachers:
   - "✨ Albert Lu"
+  - "✨ Bill Qian"
 # duration
 duration : "4 Weeks"
 # weekly
@@ -31,27 +32,28 @@ Students will learn about the complex numbers and how to solve quadratics and po
 
 ### Teachers
 
-* Albert Lu (USAJMO winner)
+* Albert Lu (USAMO Silver)
+* Bill Qian (USAJMO qualifier)
 
 ### Textbook 
 [Intermediate Algebra](https://artofproblemsolving.com/store/book/intermediate-algebra)
 
 ### Weekly Schedule
 
-Jun 15 - Jul 10, 2025
+Jun 22 - Jul 16, 2026
 
-Sun and Thu 8-9 PM (ET), twice a week for 4 weeks.
+Mon and Thu 6-7 PM (ET), twice a week for 4 weeks.
 
 |Session |Date    | Teacher  | Topics
 |--------|--------|----------|--------------
-|1       |06/15   | Albert   | Review of Equation and Function
-|2       |06/19   | Albert   | Complex Numbers
-|3       |06/22   | Albert   | Quadratics I
-|4       |06/26   | Albert   | Quadratics II
-|5       |06/29   | Albert   | Polynomial Division
-|6       |07/03   | Albert   | Polynomial Roots I
-|7       |07/06   | Albert   | Polynomial Roots II
-|8       |07/10   | Albert   | Factoring Multivariable Polynomial
+|1       |06/22   | Albert   | Review of Equation and Function
+|2       |06/25   | Albert   | Complex Numbers
+|3       |06/29   | Bill     | Quadratics I
+|4       |07/02   | Albert   | Quadratics II
+|5       |07/06   | Bill     | Polynomial Division
+|6       |07/09   | Albert   | Polynomial Roots I
+|7       |07/13   | Albert   | Polynomial Roots II
+|8       |07/16   | Albert   | Factoring Multivariable Polynomial
 
 
 ### Prerequisites
@@ -60,7 +62,7 @@ Sun and Thu 8-9 PM (ET), twice a week for 4 weeks.
 
 ### How to Apply
 
-Please sign up [here](https://forms.gle/7zqSWiNLTpQmP1C26).
+Please sign up [here](https://forms.gle/aE27PcqQn167WRTG7).
 
 ### Fees
 

@@ -13,7 +13,8 @@ image: "images/courses/course-competition-math.jpg"
 category: "8 Sessions"
 # teacher
 teachers:
-  - "✨ Evan Zhang"
+  - "✨ Albert Lu"
+  - "✨ Bill Qian"
 # duration
 duration : "4 Weeks"
 # weekly
@@ -29,27 +30,28 @@ Students will learn topics in middle school math competitions such as AMC8 and M
 
 ### Teachers
 
-* Evan Zhang (USAJMO qualifier)
+* Albert Lu (USAMO Silver)
+* Bill Qian (USAJMO Qualifier)
 
 ### Textbook 
 [Competition Math for Middle School](https://artofproblemsolving.com/store/book/competition-math)
 
 ### Weekly Schedule
 
-Jul 7 - Jul 31, 2025
+Jul 19 - Jul 26, 2026
 
-Mon and Thu 7-8 PM (ET), twice a week for 4 weeks 
+Daily 7-8 PM (ET), for 8 days.
 
 |Session |Date    | Teacher   | Topics
 |--------|--------|-----------|--------------
-|1       |07/07   | Evan      | Systems of Equations, Polynomials
-|2       |07/10   | Evan      | Exponents, Sequences/Series
-|3       |07/14   | Evan      | GCD, LCM
-|4       |07/17   | Evan      | Bases, Modular Arithmetic
-|5       |07/21   | Evan      | Angles, Triangle Congruence and Similarity
-|6       |07/24   | Evan      | Pythagorean Theorem, Circles
-|7       |07/28   | Evan      | Counting, Permutations and Combinations
-|8       |07/31   | Evan      | Stars and Bars, Probability
+|1       |07/19   | Bill      | Systems of Equations, Polynomials
+|2       |07/20   | Bill      | Exponents, Sequences/Series
+|3       |07/21   | Albert    | GCD, LCM
+|4       |07/22   | Albert    | Bases, Modular Arithmetic
+|5       |07/23   | Albert    | Angles, Triangle Congruence and Similarity
+|6       |07/24   | Albert    | Pythagorean Theorem, Circles
+|7       |07/25   | Albert    | Counting, Permutations and Combinations
+|8       |07/26   | Albert    | Stars and Bars, Probability
 
 
 
@@ -59,7 +61,7 @@ Mon and Thu 7-8 PM (ET), twice a week for 4 weeks
 
 ### How to Apply
 
-Please sign up [here](https://forms.gle/7zqSWiNLTpQmP1C26).
+Please sign up [here](https://forms.gle/aE27PcqQn167WRTG7).
 
 ### Fees
 

@@ -37,20 +37,20 @@ https://bootuppd.org/scratch/
 
 ### Weekly Schedule
 
-Jul 22 - Aug 15, 2025
+Aug 3 - Aug 27, 2026
 
-Tue and Fri 7-8 PM (ET), twice a week for 4 weeks.
+Mon and Thu 7-8 PM (ET), twice a week for 4 weeks.
 
 |Session |Date    | Teacher   | Topics
 |--------|--------|-----------|--------------
-|1       |07/22   | Lucas     | Fundamentals
-|2       |07/25   | Lucas     | Sprite Catcher
-|3       |07/29   | Lucas     | Music Player
-|4       |08/01   | Lucas     | Character Builder
-|5       |08/05   | Lucas     | Shark Chase Game
-|6       |08/08   | Lucas     | Apple Catcher
-|7       |08/12   | Lucas     | Nyan Chat
-|8       |08/15   | Lucas     | Zombie Game
+|1       |08/03   | Lucas     | Fundamentals
+|2       |08/06   | Lucas     | Sprite Catcher
+|3       |08/10   | Lucas     | Music Player
+|4       |08/13   | Lucas     | Character Builder
+|5       |08/17   | Lucas     | Shark Chase Game
+|6       |08/20   | Lucas     | Apple Catcher
+|7       |08/24   | Lucas     | Nyan Chat
+|8       |08/27   | Lucas     | Zombie Game
 
 ### Prerequisites
 
@@ -58,7 +58,7 @@ Tue and Fri 7-8 PM (ET), twice a week for 4 weeks.
 
 ### How to Apply
 
-Please sign up [here](https://forms.gle/7zqSWiNLTpQmP1C26).
+Please sign up [here](https://forms.gle/aE27PcqQn167WRTG7).
 
 ### Fees
 
