@@ -43,10 +43,10 @@ Mon and Thu 7-8 pm (ET), twice a week for 4 weeks.
 
 |Session|Date   | Teacher |Topics
 |-------|-------|---------|------------------------------------------------------
-|1      |06/22  | Bill    |Introduction to variables, simplifying one-variable expressions, introduction to one variable linear equations
-|2      |06/25  | Bill    |More linear equations and linear inequalities
-|3      |06/29  | Bill    |System of linear equations, symmetry if time
-|4      |07/02  | Bill    |Graphing linear equations and inequalities
+|1      |06/22  | Jeffrey |Introduction to variables, simplifying one-variable expressions, introduction to one variable linear equations
+|2      |06/25  | Jeffrey |More linear equations and linear inequalities
+|3      |06/29  | Jeffrey |System of linear equations, symmetry if time
+|4      |07/02  | Jeffrey |Graphing linear equations and inequalities
 |5      |07/06  | Bill    |Find equation of a line from graph
 |6      |07/09  | Bill    |Radicals and exponents, previous material with radicals and exponents
 |7      |07/13  | Bill    |Distributions and factoring linear expressions
