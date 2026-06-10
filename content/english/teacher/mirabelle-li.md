@@ -11,7 +11,7 @@ image: "images/teachers/mirabelle-li-2024.png"
 # course
 course: "Pre-Algebra"
 # biography
-bio: "Mirabelle Li is a rising 7th grader at Cabin John Middle school. She loves all sorts of reading (including Wuxia novels by Jin Yong) and all sorts of origami and crafts. She received CERTIFICATE OF ACHIEVEMENT for students in grade 6 or below for outstanding performance on AMC8 from 2023 to 2025. She has participated in Mathcounts and ARML, in addition to winning awards at Math Kangaroo and MBMT (2025). Her teaching experience includes being teaching assistants in the pre-algebra course last summer and in the past school year in a Chinese after-school academy. "
+bio: "Mirabelle Li is a rising 8th grader at Cabin John Middle school. She loves all sorts of reading (including Wuxia novels by Jin Yong) and all sorts of origami and crafts. She received CERTIFICATE OF ACHIEVEMENT for students in grade 6 or below for outstanding performance on AMC8 from 2023 to 2025. She has participated in Mathcounts and ARML, in addition to winning awards at Math Kangaroo and MBMT (2025). Her teaching experience includes being teaching assistants in the pre-algebra course last summer and in the past school year in a Chinese after-school academy. "
 
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]

@@ -11,7 +11,7 @@ image: "images/teachers/adelaide-li.jpg"
 # course
 course: "Beast Academy Grade 5"
 # biography
-bio: "Adelaide Li is a rising sophomore at Ridge High School. She enjoys learning and teaching math, coding, and space science."
+bio: "Adelaide Li is a rising junior at Ridge High School. She enjoys learning and teaching math, coding, and space science."
 
 accomplishments: ["3rd place in Stevens Math Olympiad", "RidgeHacks 2025 Winner"]
 
