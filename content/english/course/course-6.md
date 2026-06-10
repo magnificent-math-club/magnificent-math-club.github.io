@@ -36,21 +36,21 @@ Students will learn about number theory including primes, base arithmetic, and m
 
 ### Weekly Schedule
 
-Jun 18 - Jul 12, 2025
+Jul 27 - Aug 20, 2026
 
-Wed and Sat 7-8 pm (ET), twice a week for 4 weeks.
+Mon and Thu 8-9 pm (ET), twice a week for 4 weeks.
 
 
 |Week   |Date   | Teacher   | Topics
 |-------|-------|-----------|--------------
-|1      |06/18  | Elaine    | Integers, primes, and divisibility rules
-|2      |06/21  | Elaine    | Multiples and divisors
-|3      |06/25  | Elaine    | Prime factorization
-|4      |06/28  | Elaine    | Divisor problems and special numbers
-|5      |07/02  | Elaine    | Bases and introduce base arithmetic
-|6      |07/05  | Elaine    | Finish bases arithmetic and units digits
-|7      |07/09  | Elaine    | Decimals and fractions
-|8      |07/12  | Elaine    | Modular arithmetic
+|1      |07/27  | Elaine    | Integers, primes, and divisibility rules
+|2      |07/30  | Elaine    | Multiples and divisors
+|3      |08/03  | Elaine    | Prime factorization
+|4      |08/06  | Elaine    | Divisor problems and special numbers
+|5      |08/10  | Elaine    | Bases and introduce base arithmetic
+|6      |08/13  | Elaine    | Finish bases arithmetic and units digits
+|7      |08/17  | Elaine    | Decimals and fractions
+|8      |08/20  | Elaine    | Modular arithmetic
 
 
 ### Prerequisites
@@ -59,7 +59,7 @@ Wed and Sat 7-8 pm (ET), twice a week for 4 weeks.
 
 ### How to Apply
 
-Please sign up [here](https://forms.gle/7zqSWiNLTpQmP1C26).
+Please sign up [here](https://forms.gle/aE27PcqQn167WRTG7).
 
 ### Fees
 

@@ -28,7 +28,7 @@ Students will learn about congruency, similarity, special points of triangle, an
 
 ### Teachers
 
-Edward Ye
+* Edward Ye (AMC 8 HR)
 
 ### Textbook
 
