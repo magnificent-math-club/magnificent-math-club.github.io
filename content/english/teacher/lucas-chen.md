@@ -11,7 +11,7 @@ image: "images/teachers/lucas-chen-2023.jpg"
 # course
 course: "A Course in Scratch"
 # biography
-bio: "15 years old, attends Eastern Technical High School, does archery, part of the chess, robotics, and D&D clubs at my school. Started using Scratch at 9 years old, I've made over 30 games on Scratch, and I've shared my games on Youtube."
+bio: "16 years old, attends Eastern Technical High School (#1 in MD and #125 nationally). Started programming on Scratch at 9 years old, creating over 30 games and sharing projects on YouTube. Won 2nd place in the MESA finals involving real life application of programming in aquatic trash collection, and led the first Maryland team to a national podium in the NASA Dream With Us Design Challenge involving designing a drone for agriculture. Got a 5 (maximum) on the AP Computer Science Principles Exam."
 
 # interest
 # interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
