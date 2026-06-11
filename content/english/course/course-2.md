@@ -29,6 +29,7 @@ Students will learn about congruency, similarity, special points of triangle, an
 
 ### Teachers
 
+* Skyler Xue(5x AIME)
 * Edward Ye (AMC 8 HR)
 
 ### Textbook
